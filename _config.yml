@@ -1,0 +1,27 @@
+host: 0.0.0.0
+port: 4000
+
+title: Goddard Soccer League
+email: empty@gmail.com
+description: >-
+  The Goddard Soccer League is a 50+ year recreational league promoting
+  good natured competition and having fun.
+
+baseurl: ""
+url: "" # e.g. http://example.com
+
+twitter_username: jekyllrb
+github_username:  goddard-soccer
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
