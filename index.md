@@ -3,12 +3,17 @@ layout: page
 title: Home
 ---
 
-<div class="card bg-light text-center my-2">
+<div class="card bg-light text-center my-3">
 <div class="card-header text-center">
 Summer 2023 Sign Up
 </div>
 <div class="card-body">
-    <a type="button" class="btn btn-primary" href="https://forms.gle/iggf2sibER2xtd7z8">Sign Up Form</a>
+<div class="row" markdown=1>
+The Goddard Soccer League returns for the summer of 2023! We are running a **four team, 10 game league starting in mid June** - with a championship game. The **cost is $50** which goes toward maintaining the field, and the games will be self-refereed. Games are played **Tuesdays and Wednesdays on-site at the field near Building 11**, with rainout make up games on Thursdays. Click the **button below to go the sign up form**, we hope you join and look forward to seeing you on the pitch!
+</div>
+<div class="row mt-3 mx-3">
+<a type="button" class="btn btn-primary" href="https://forms.gle/iggf2sibER2xtd7z8">Sign Up Form</a>
+</div>
 </div>
 </div>
 
