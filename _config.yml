@@ -13,7 +13,7 @@ baseurl: ""
 url: "" # e.g. http://example.com
 
 facebook-username: goddard-soccer
-github-username:  goddard-soccer
+github-username: goddard-soccer
 
 exclude:
   - .sass-cache/
