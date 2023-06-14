@@ -5,7 +5,16 @@ title: Home
 
 <div class="card bg-light text-center my-3">
 <div class="card-header text-center">
-Summer 2023 Sign Up
+    Welcome to the GSL Website
+</div>
+<div class="card-body">
+    <img src="/images/2023a.jpg" class="img-fluid w-100 rounded"/>
+</div>
+</div>
+
+<div class="card bg-light text-center my-3">
+<div class="card-header text-center">
+    Summer 2023 Sign Up
 </div>
 <div class="card-body">
 <div class="row" markdown=1>
@@ -16,4 +25,3 @@ The Goddard Soccer League returns for the summer of 2023! We are running a **fou
 </div>
 </div>
 </div>
-

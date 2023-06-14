@@ -24,7 +24,7 @@ The Goddard Soccer League was founded with the sole purpose of providing soccer 
 <div class="col-md-6 mt-3 align-items-stretch">
 <div class="card">
 <div class="card-header text-center">Officers</div>
-<div class="card-body" markdown=1>
+<div class="card-body mx-auto" markdown=1>
 
 | ------------- | ----------------- |
 | **President** | Marcelo Rodriquez |
