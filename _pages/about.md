@@ -69,7 +69,7 @@ The Goddard Soccer League was founded with the sole purpose of providing soccer 
 
 <div class="row mt-3 g-0">
 <div class="col-md-6">
-<img src="/images/sign.jpg" class="img-fluid w-100 rounded" />
+<img src="/images/history-1.jpg" class="img-fluid w-100 rounded" />
 </div>
 <div class="col-md-6">
 <div class="card-body" markdown=1>
@@ -86,7 +86,7 @@ Eventually the group got too big and we moved across Greenbelt Road to the playi
 
 <div class="row mt-3">
 <div class="text-center">
-<img src="/images/sign.jpg" class="img-fluid w-100 rounded" />
+<img src="/images/history-2.jpg" class="img-fluid w-100 rounded" />
 </div>
 </div>
 
@@ -103,7 +103,7 @@ When the league started and was sanctioned by GEWA, there were four teams - the 
 </div>
 </div>
 <div class="col-md-6">
-<img src="/images/sign.jpg" class="img-fluid rounded" />
+<img src="/images/history-3.jpg" class="img-fluid rounded" />
 </div>
 </div>
 
