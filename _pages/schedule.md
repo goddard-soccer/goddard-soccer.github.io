@@ -11,7 +11,7 @@ permalink: /schedule/
 | Date | Home | Away | Home Score | Away Score |
 | ---- | ---- | ---- | ---------- | ---------- |
 | 6/13 | Green | Purple | 4 | 2 |
-| 6/14 | Orange | Red |  |  |
+| 6/14 | Orange | Red | 12 | 3 |
 | 6/20 | Red | Green |  |  |
 | 6/21 | Purple | Orange |  |  |
 | 6/27 | Green | Orange |  |  |
