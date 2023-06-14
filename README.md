@@ -27,8 +27,7 @@ Welcome to the new official website of the Goddard Soccer League
 - _config.yml -> jekyll settings, have to restart jekyll if you make changes
 
 
-
 ### Notes
-Markdown -> HTML
-Sass -> CSS
-Bootstrap -> JS/CSS Library
+- Markdown -> HTML
+- Sass -> CSS
+- Bootstrap Library -> JS/CSS
