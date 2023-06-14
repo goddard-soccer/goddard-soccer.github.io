@@ -11,9 +11,9 @@ permalink: /standings/
 | Team | Wins | Draws | Losses | Points |
 | ---- | ---- | ----- | ------ | ------ |
 | Green | 1 | 0 | 0 | 3 |
-| Orange | 0 | 0 | 0 | 0 |
-| Red | 0 | 0 | 0 | 0 |
+| Orange | 1 | 0 | 0 | 3 |
 | Purple | 0 | 0 | 1 | 0 |
+| Red | 0 | 0 | 1 | 0 |
 
 </div>
 </div>
