@@ -68,10 +68,10 @@ The Goddard Soccer League was founded with the sole purpose of providing soccer 
 <div class="card-header text-center">League History</div>
 
 <div class="row mt-3 g-0">
-<div class="col-md-6">
+<div class="col-md-4">
 <img src="/images/history-1.jpg" class="img-fluid w-100 rounded" />
 </div>
-<div class="col-md-6">
+<div class="col-md-8">
 <div class="card-body" markdown=1>
 My belief is that the origins of the Goddard Soccer League can be traced to a show of interest by my American colleague and office-mate, Ken Frost, in about 1968. I had started work at Goddard the year before as an NRC Resident Research Associate with Ken. Naturally, being originally from England, Ken knew that I had played soccer in school and he asked me to show him the basics of the game. I think he went out and bought a soccer ball and one afternoon we got a few guys together and went out on the grass across Aerobe Road from Building 1 and started kicking it around. This attracted other people including Jim Underwood, another Englishman, and Haiki Ogelman from Turkey. We had to restrain some of the Americans (Ed Rothe) who joined us as they wanted to play tackle football so it got a bit dangerous.
 </div>
@@ -86,7 +86,7 @@ Eventually the group got too big and we moved across Greenbelt Road to the playi
 
 <div class="row mt-3">
 <div class="text-center">
-<img src="/images/history-2.jpg" class="img-fluid w-100 rounded" />
+<img src="/images/history-2.jpg" class="img-fluid w-60 rounded" />
 </div>
 </div>
 
@@ -97,13 +97,13 @@ About this time, we applied for, and got GEWA support. This led to the use of th
 </div>
 
 <div class="row mb-3">
-<div class="col-md-6">
+<div class="col-md-8">
 <div class="card-body" markdown=1>
 When the league started and was sanctioned by GEWA, there were four teams - the Astros (Red), Green, Gold, and White. I was captain of the Astros for several years. Other people on the team in the early years were Ken Frost (goal keeper), Pete Kenney until he broke his leg, Stuart Jordon until he broke his nose, Larry Orwig (right wing), Ed Rothe the football tackler, Norm Ness (defense), Mario Acuna with no left foot on defense, Peter and Art Serlemitsos from Greece, Haiki Ogelman from Turkey. Mercifully, I played for over 20 years without sustaining any serious injury eventually quitting after reaching 50 when my youngest son lost interest in playing with me on the team.
 </div>
 </div>
-<div class="col-md-6">
-<img src="/images/history-3.jpg" class="img-fluid rounded" />
+<div class="col-md-4">
+<img src="/images/history-3.jpg" class="img-fluid w-100 rounded" />
 </div>
 </div>
 
