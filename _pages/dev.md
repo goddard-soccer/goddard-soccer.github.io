@@ -6,7 +6,20 @@ permalink: /dev/
 
 <div class="card bg-light text-center my-3">
 <div class="card-header text-center">
-    Developer Links for Web Devs :D
+    Links
+</div>
+<div class="card-body" markdown=1>
+- [ ] Automate standings table
+- [ ] Dark mode
+- [ ] Photo gallery
+- [ ] Add historical records (title/cup winners)
+- [ ] Goal scoring functionality
+</div>
+</div>
+
+<div class="card bg-light text-center my-3">
+<div class="card-header text-center">
+    Links
 </div>
 <div class="card-body">
     <a type="button" class="btn btn-primary mx-2" href="http://www.goddardsoccer.com">Current</a>
