@@ -5,7 +5,7 @@ permalink: /orange/
 ---
 
 <div class="card my-3">
-<div class="card-header text-center bg-orange">{{ page.title }}</div>
+<div class="card-header text-center bg-orange text-white">{{ page.title }}</div>
 <div class="card-body mx-auto" markdown=1>
 
 | Captain | Grace Jackson |
@@ -23,7 +23,7 @@ permalink: /orange/
 | Player | Khashy Parsay |
 | Player | Kieran Enzian |
 | Player | Kunpeng Zhang |
-| Player | Luis Rodriguez de Marcos |
+| Legend | Luis Rodriguez de Marcos |
 | Player | Seth Abramczyk |
 | Player | Trevor Robinson |
 
