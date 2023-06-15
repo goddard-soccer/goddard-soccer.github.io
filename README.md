@@ -11,9 +11,10 @@ Welcome to the new official website of the Goddard Soccer League
 - Libraries: `bootstrap`
 
 ### Local hosting commands
-```bundle exec jekyll serve```
-
-```sass -w assets/css/styles.sass:assets/css/styles.css```
+```bash
+bundle exec jekyll serve
+sass -w assets/css/styles.sass:assets/css/styles.css
+```
 
 ### Structure
 - _data -> "database" to capture schedule/titles
@@ -25,7 +26,6 @@ Welcome to the new official website of the Goddard Soccer League
 - assets -> tyler's convention, contains the css/js/fonts
 - images -> images, at the top level so its easy for people to upload
 - _config.yml -> jekyll settings, have to restart jekyll if you make changes
-
 
 ### Notes
 - Markdown -> HTML

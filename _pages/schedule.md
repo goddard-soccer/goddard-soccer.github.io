@@ -6,36 +6,64 @@ permalink: /schedule/
 
 <div class="card my-3 text-center">
 <div class="card-header">{{ page.title }}</div>
-<div class="card-body mx-auto" markdown=1>
+<div class="card-body mx-auto">
 
-| Date | Home | Away | Home Score | Away Score |
-| ---- | ---- | ---- | ---------- | ---------- |
-| 6/13 | Green | Purple | 4 | 2 |
-| 6/14 | Orange | Red | 12 | 3 |
-| 6/20 | Red | Green |  |  |
-| 6/21 | Purple | Orange |  |  |
-| 6/27 | Green | Orange |  |  |
-| 6/28 | Red | Purple |  |  |
-| 7/11 | Orange | Purple |  |  |
-| 7/12 | Purple | Green |  |  |
-| 7/18 | Purple | Orange |  |  |
-| 7/19 | Green | Red |  |  |
-| 7/25 | Red | Purple |  |  |
-| 7/26 | Orange | Green |  |  |
-| 8/1 | Purple | Green |  |  |
-| 8/2 | Red | Orange |  |  |
-| 8/8 | Green | Red |  |  |
-| 8/9 | Orange | Purple |  |  |
-| 8/15 | Purple | Red |  |  |
-| 8/16 | Green | Orange |  |  |
-
-<br>
-#### Championship
-
-| Date | Home | Away | Home Score | Away Score |
-| ---- | ---- | ---- | ---------- | ---------- |
-| 8/22 | First Place | Second Place |  |  |
-| 8/23 | Third Place | Fourth Place |  |  |
+<div class="row">
+{% for row in site.data.schedule %}
+    <div class="col-sm-6">
+        <div class="card my-2">
+            <div class="card-header">
+                <div class="row">
+                    <div class="col-3">
+                        Home
+                    </div>
+                    <div class="col-6">
+                        {{ row.Date | date: "%a, %b %e" }}
+                    </div>
+                    <div class="col-3">
+                        Away
+                    </div>
+                </div>
+            </div>
+            <div class="card-body p-0 overflow">
+                <div class="row mx-auto">
+                    <div class="col-4 p-2 text-white bg-{{ row.Home | downcase }}" style="border-radius: 0 0 0 5px">
+                        {{ row.Home }}
+                    </div>
+                    {% assign hScore = row.HomeScore | plus: 0 %}
+                    {% assign aScore = row.AwayScore | plus: 0 %}
+                    {% if hScore > aScore %}
+                        <div class="col-2 p-2">
+                            <strong>{{ row.HomeScore }}</strong>
+                        </div>
+                        <div class="col-2 p-2">
+                            {{ row.AwayScore }}
+                        </div>
+                    {% elsif hScore < aScore %}
+                        <div class="col-2 p-2">
+                            {{ row.HomeScore }}
+                        </div>
+                        <div class="col-2 p-2">
+                            <strong>{{ row.AwayScore }}</strong>
+                        </div>
+                    {% else %}
+                        <div class="col-2 p-2">
+                            {{ row.HomeScore }}
+                        </div>
+                        <div class="col-2 p-2">
+                            {{ row.AwayScore }}
+                        </div>
+                    {% endif %}
+                    <div class="col-4 p-2 text-white bg-{{ row.Away | downcase }}" style="border-radius: 0 0 5px 0">
+                        {{ row.Away }}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endfor %}
+</div>
 
 </div>
 </div>
+
