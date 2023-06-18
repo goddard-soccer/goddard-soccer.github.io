@@ -8,7 +8,10 @@ title: Home
     Welcome to the GSL Website
 </div>
 <div class="card-body">
-    <img src="/images/2023a.jpg" class="img-fluid w-100 rounded"/>
+    <script>
+        randInt = Math.floor(Math.random() * 2) + 1;
+        document.write('<img src="/images/2023-' + randInt + '.jpg" class="img-fluid w-100 rounded"/>');
+    </script>
 </div>
 </div>
 
