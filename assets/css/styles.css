@@ -74,4 +74,8 @@ td {
   background-color: black;
 }
 
+.todo-list li {
+  text-align: left;
+}
+
 /*# sourceMappingURL=styles.css.map */
