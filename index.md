@@ -17,6 +17,36 @@ title: Home
 
 <div class="card bg-light text-center my-3">
 <div class="card-header text-center">
+    Teams
+</div>
+<div class="card-body">
+<div class="row">
+    <div class="col-3 my-auto">
+        <a href="/green">
+            <img src="/images/teams/green.jpg" class="img-fluid rounded"/>
+        </a>
+    </div>
+    <div class="col-3 my-auto">
+        <a href="/orange">
+            <img src="/images/teams/orange.jpg" class="img-fluid rounded"/>
+        </a>
+    </div>
+    <div class="col-3 my-auto">
+        <a href="/purple">
+            <img src="/images/teams/purple.jpg" class="img-fluid rounded"/>
+        </a>
+    </div>
+        <div class="col-3 my-auto">
+        <a href="/red">
+            <img src="/images/teams/red.jpg" class="img-fluid rounded"/>
+        </a>
+    </div>
+</div>
+</div>
+</div>
+
+<div class="card bg-light text-center my-3">
+<div class="card-header text-center">
     Summer 2023 Sign Up
 </div>
 <div class="card-body">

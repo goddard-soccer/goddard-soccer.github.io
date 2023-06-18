@@ -5,8 +5,14 @@ permalink: /red/
 ---
 
 <div class="card my-3">
-<div class="card-header text-center bg-danger text-white">{{ page.title }}</div>
-<div class="card-body mx-auto" markdown=1>
+<div class="card-header text-center bg-red text-white">{{ page.title }}</div>
+<div class="card-body mx-auto">
+<div class="row">
+<div class="col-md-4 mb-3 d-flex justify-content-center">
+    <img src="/images/teams/red.jpg" class="img-fluid my-auto rounded"/>
+</div>
+
+<div class="col-md-8 d-flex justify-content-center" markdown=1>
 
 | Captain | Kevin Rhoads|
 | Co-Captain | Justin Brannan |
@@ -26,5 +32,8 @@ permalink: /red/
 | Player | Tony Cazeau |
 | Player | Tony Ez |
 
+</div>
+
+</div>
 </div>
 </div>

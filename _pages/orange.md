@@ -6,7 +6,13 @@ permalink: /orange/
 
 <div class="card my-3">
 <div class="card-header text-center bg-orange text-white">{{ page.title }}</div>
-<div class="card-body mx-auto" markdown=1>
+<div class="card-body mx-auto">
+<div class="row">
+<div class="col-md-4 mb-3 d-flex justify-content-center">
+    <img src="/images/teams/orange.jpg" class="img-fluid my-auto rounded"/>
+</div>
+
+<div class="col-md-8 d-flex justify-content-center" markdown=1>
 
 | Captain | Grace Jackson |
 | Co-Captain | Hessam Izadkhah |
@@ -23,9 +29,13 @@ permalink: /orange/
 | Player | Khashy Parsay |
 | Player | Kieran Enzian |
 | Player | Kunpeng Zhang |
-| Legend | Luis Rodriguez de Marcos |
+| General | Luis Rodriguez de Marcos |
 | Player | Seth Abramczyk |
 | Player | Trevor Robinson |
 
 </div>
+
 </div>
+</div>
+</div>
+

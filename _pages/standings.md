@@ -4,10 +4,6 @@ title: Standings
 permalink: /standings/
 ---
 
-<div class="card text-center my-3">
-<div class="card-header">{{ page.title }}</div>
-<div class="card-body overflow-auto">
-
 {% assign greenWins = 0 %}
 {% assign orangeWins = 0 %}
 {% assign purpleWins = 0 %}
@@ -151,6 +147,12 @@ permalink: /standings/
 {% assign purpleDiffer = purpleFor | minus: purpleAgainst %}
 {% assign redDiffer = redFor | minus: redAgainst %}
 
+<div class="card text-center my-3">
+<div class="card-header">{{ page.title }}</div>
+<div class="card-body">
+<div class="col-12 d-flex justify-content-center">
+<div class="overflow-auto ">
+
 <table>
     <tr>
         <th>Team</th>
@@ -204,5 +206,7 @@ permalink: /standings/
     </tr>
 </table>
 
+</div>
+</div>
 </div>
 </div>
