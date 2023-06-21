@@ -165,16 +165,6 @@ permalink: /standings/
         <th>Differential</th>
     </tr>
     <tr>
-        <td class="bg-orange text-white">Orange</td>
-        <td>{{ orangeWins }}</td>
-        <td>{{ orangeDraws }}</td>
-        <td>{{ orangeLosses }}</td>
-        <td>{{ orangePoints }}</td>
-        <td>{{ orangeFor }}</td>
-        <td>{{ orangeAgainst }}</td>
-        <td>{{ orangeDiffer }}</td>
-    </tr>
-    <tr>
         <td class="bg-green text-white">Green</td>
         <td>{{ greenWins }}</td>
         <td>{{ greenDraws }}</td>
@@ -183,6 +173,16 @@ permalink: /standings/
         <td>{{ greenFor }}</td>
         <td>{{ greenAgainst }}</td>
         <td>{{ greenDiffer }}</td>
+    </tr>
+    <tr>
+        <td class="bg-orange text-white">Orange</td>
+        <td>{{ orangeWins }}</td>
+        <td>{{ orangeDraws }}</td>
+        <td>{{ orangeLosses }}</td>
+        <td>{{ orangePoints }}</td>
+        <td>{{ orangeFor }}</td>
+        <td>{{ orangeAgainst }}</td>
+        <td>{{ orangeDiffer }}</td>
     </tr>
     <tr>
         <td class="bg-purple text-white">Purple</td>
