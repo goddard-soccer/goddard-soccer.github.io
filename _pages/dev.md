@@ -11,14 +11,19 @@ permalink: /dev/
 <div class="card-body">
 <div class="todo-list" markdown=1>
 
-- [ ] Automate standings table
+- [~] Automate standings table
+    - [ ] Array support for dual key sorting (points/goal diff)
 - [ ] Fix navbar subpages
     - [ ] Titles under about
-    - [ ] Teams page with logos
+    - [~] Teams page with logos
 - [ ] Dark mode
 - [ ] Photo gallery
-- [ ] Add historical records (title/cup winners)
-- [ ] Goal scoring functionality
+- [~] Add historical records (title/cup winners)
+- [ ] Goal tracking/reporting functionality
+- [ ] Psychological breakdown of Brandon
+    - [~] Subliminal messaging
+    - [~] Emotion-based disengagement from social normality
+    - [ ] Full scale meltdown
 
 </div>
 </div>
