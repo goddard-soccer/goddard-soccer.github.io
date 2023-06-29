@@ -3,6 +3,7 @@ layout: page
 title: Home
 ---
 
+<!-- begin row 1 -->
 <div class="card bg-light text-center my-3">
 <div class="card-header text-center">
     Welcome to the GSL Website
@@ -15,6 +16,29 @@ title: Home
 </div>
 </div>
 
+<!-- begin row 2 -->
+<div class="card bg-light text-center my-3">
+<div class="card-header text-center">
+    2023 Leading Goal Scorer
+</div>
+<div class="card-body" markdown=1>
+
+<div class="col-12 d-flex justify-content-center">
+<div class="overflow-auto">
+
+<table>
+    <tr>
+        <th>Brandon Burkenstockings</th>
+        <th>14 Goals!</th>
+    </tr>
+</table>
+
+</div>
+</div>
+</div>
+</div>
+
+<!-- begin row 3 -->
 <div class="card bg-light text-center my-3">
 <div class="card-header text-center">
     Teams
@@ -45,6 +69,7 @@ title: Home
 </div>
 </div>
 
+<!-- begin row 4 -->
 <div class="card bg-light text-center my-3">
 <div class="card-header text-center">
     Summer 2023 Sign Up
