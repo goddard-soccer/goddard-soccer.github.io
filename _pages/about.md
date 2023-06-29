@@ -64,7 +64,7 @@ The Goddard Soccer League was founded with the sole purpose of providing soccer 
 </div>
 
 <!-- begin row 3 -->
-<div class="card my-3">
+<div class="card mt-3">
 <div class="card-header text-center">League History</div>
 
 <div class="row mt-3 g-0">
@@ -111,4 +111,32 @@ When the league started and was sanctioned by GEWA, there were four teams - the 
 </div>
 
 <div class="row">
+</div>
+
+<!-- begin row 4 -->
+<div class="card my-3">
+<div class="card-header text-center">Goddard Cup</div>
+
+<div class="card-body">
+<div class="col-12 d-flex justify-content-center">
+<div class="overflow-auto ">
+
+<table>
+    <tr>
+        <th>Year</th>
+        <th>Winner</th>
+        <th>Runner Up</th>
+    </tr>
+
+{% for row in site.data.titles reversed %}
+    <tr>
+        <td>{{ row.Year }}</td>
+        <td>{{ row.Winner }}</td>
+        <td>{{ row.RunnerUp }}</td>
+    </tr>
+{% endfor %}
+
+</table>
+
+</div>
 </div>
