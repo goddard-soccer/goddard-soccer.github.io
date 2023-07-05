@@ -31,4 +31,5 @@ sass -w assets/css/styles.sass:assets/css/styles.css
 - Markdown -> HTML
 - Sass -> CSS
 - Bootstrap Library -> JS/CSS
+- Liquid -> Code Loops/Statements on HTML
 
