@@ -29,7 +29,7 @@ title: Home
 <table>
     <tr>
         <th>Brandon "🫏" Burkenstocks</th>
-        <th>14 Goals! 👍🙉</th>
+        <th>15 Goals! 😲👍🙉💯🏃🧳🕺🏻💅🏻🌝🌈🤿🛸🎌🎅🏻👰</th>
     </tr>
 </table>
 
@@ -70,7 +70,7 @@ title: Home
 </div>
 
 <!-- begin row 4 -->
-<div class="card bg-light text-center my-3">
+<div class="card bg-light text-center mt-3">
 <div class="card-header text-center">
     Summer 2023 Sign Up
 </div>
