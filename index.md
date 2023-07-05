@@ -29,7 +29,7 @@ title: Home
 <table>
     <tr>
         <th>Brandon "🫏" Burkenstocks</th>
-        <th>14 Goals! 😲👍🙉💯</th>
+        <th>14 Goals! 👍🙉</th>
     </tr>
 </table>
 
