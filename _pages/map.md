@@ -4,7 +4,7 @@ title: Map
 permalink: /map/
 ---
 
-<div class="card my-3 text-center">
+<div class="card mt-3 text-center">
 <div class="card-header text-center">Goddard Soccer Field</div>
 
 <div class="card-body">

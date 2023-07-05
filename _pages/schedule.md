@@ -4,7 +4,7 @@ title: Schedule
 permalink: /schedule/
 ---
 
-<div class="card my-3 text-center">
+<div class="card mt-3 text-center">
 <div class="card-header">{{ page.title }}</div>
 <div class="card-body mx-auto">
 

@@ -147,7 +147,7 @@ permalink: /standings/
 {% assign purpleDiffer = purpleFor | minus: purpleAgainst %}
 {% assign redDiffer = redFor | minus: redAgainst %}
 
-<div class="card text-center my-3">
+<div class="card text-center mt-3">
 <div class="card-header">{{ page.title }}</div>
 <div class="card-body">
 <div class="col-12 d-flex justify-content-center">

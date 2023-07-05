@@ -114,7 +114,7 @@ When the league started and was sanctioned by GEWA, there were four teams - the 
 </div>
 
 <!-- begin row 4 -->
-<div class="card my-3">
+<div class="card mt-3">
 <div class="card-header text-center">Goddard Cup</div>
 
 <div class="card-body">
