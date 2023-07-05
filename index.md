@@ -28,7 +28,7 @@ title: Home
 
 <table>
     <tr>
-        <th>Brandon Burkenstockings</th>
+        <th>Brandon "🫏" Burkenstockings</th>
         <th>14 Goals!</th>
     </tr>
 </table>
