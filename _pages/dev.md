@@ -29,7 +29,7 @@ permalink: /dev/
 </div>
 </div>
 
-<div class="card bg-light text-center my-3">
+<div class="card bg-light text-center mt-3">
 <div class="card-header text-center">
     Links
 </div>

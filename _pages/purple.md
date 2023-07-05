@@ -4,7 +4,7 @@ title: Purple
 permalink: /purple/
 ---
 
-<div class="card my-3">
+<div class="card mt-3">
 <div class="card-header text-center bg-purple text-white">{{ page.title }}</div>
 <div class="card-body mx-auto">
 <div class="row">
