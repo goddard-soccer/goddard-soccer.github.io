@@ -29,7 +29,7 @@ title: Home
 <table>
     <tr>
         <th class="bg-purple">Brandon "🫏" Burkenstocks</th>
-        <th class="bg-purple">15 Goals! WOW!!!</th>
+        <th class="bg-purple">16 Goals! WOW!!!</th>
     </tr>
 </table>
 
