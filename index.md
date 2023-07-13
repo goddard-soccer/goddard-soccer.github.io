@@ -28,8 +28,8 @@ title: Home
 
 <table>
     <tr>
-        <th>Brandon "🫏" Burkenstocks</th>
-        <th>15 Goals! 😲👍🙉💯🏃🧳🕺🏻💅🏻🌝🌈🤿🛸🎌🎅🏻👰</th>
+        <th class="bg-purple">Brandon "🫏" Burkenstocks</th>
+        <th class="bg-purple">15 Goals! WOW!!!</th>
     </tr>
 </table>
 
