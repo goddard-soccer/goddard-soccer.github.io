@@ -28,8 +28,8 @@ title: Home
 
 <table>
     <tr>
-        <th class="bg-rainbow">Brandon "🫏" Burkenstocks</th>
-        <th class="bg-rainbow">18 Goals!<br>⭐ You're a superstar!!!! ⭐</th>
+        <th class="bg-purple px-4">Brandon "🫏" Burdenloader</th>
+        <th class="bg-rainbow px-4">18 Goals!<br>⭐ You're a superstar!!! ⭐</th>
     </tr>
 </table>
 
