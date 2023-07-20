@@ -2,6 +2,10 @@
     font-family: nasalization
     src: url(/assets/fonts/nasalization.otf)
 
+@font-face
+    font-family: comic-sans
+    src: url(/assets/fonts/comic-sans.ttf)
+
 .navbar-brand
     font-family: nasalization
 
@@ -39,6 +43,10 @@ td
 .scroll-table
     overflow: auto
 
+.todo-list
+    li
+        text-align: left
+
 .bg-green
     background-color: #198754
 
@@ -64,9 +72,18 @@ td
     background-color: black
 
 .bg-rainbow
-    background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(255,154,0,1) 10%, rgba(208,222,33,1) 20%, rgba(79,220,74,1) 30%, rgba(63,218,216,1) 40%, rgba(47,201,226,1) 50%, rgba(28,127,238,1) 60%, rgba(95,21,242,1) 70%, rgba(186,12,248,1) 80%, rgba(251,7,217,1) 90%, rgba(255,0,0,1) 100%)
- 
+    // background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(255,154,0,1) 10%, rgba(208,222,33,1) 20%, rgba(79,220,74,1) 30%, rgba(63,218,216,1) 40%, rgba(47,201,226,1) 50%, rgba(28,127,238,1) 60%, rgba(95,21,242,1) 70%, rgba(186,12,248,1) 80%, rgba(251,7,217,1) 90%, rgba(255,0,0,1) 100%)
+    background: linear-gradient(to right, red, orange, yellow, green, blue, violet, red)
+    background-size: 200% 200%
+    animation: animateGlow 5s linear infinite
+    font-family: comic-sans
+    color: black
+    -webkit-text-stroke-width: 0.5px
+    -webkit-text-stroke-color: white
 
-.todo-list
-    li
-        text-align: left
+@keyframes animateGlow
+    0%
+        background-position: 0% 50%
+    100%
+        background-position: 200% 50%
+
