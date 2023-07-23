@@ -29,7 +29,7 @@ title: Home
 <table>
     <tr>
         <th class="bg-purple px-4">Brandon "🫏" Burdenloader</th>
-        <th class="bg-rainbow px-4">18 Goals!<br>⭐ You're a superstar!!! ⭐</th>
+        <th class="bg-rainbow px-4" onclick="playSound('firework')">18 Goals!<br>⭐ You're a superstar!!! ⭐</th>
     </tr>
 </table>
 
@@ -83,3 +83,12 @@ The Goddard Soccer League returns for the summer of 2023! We are running a **fou
 </div>
 </div>
 </div>
+
+<script>
+    const sound = new Audio();
+    function playSound(filename) {
+        console.log("Playing song: " + filename);
+        sound.src = "/assets/audio/" + filename + ".mp3";
+        sound.play();
+    }
+</script>
