@@ -14,23 +14,29 @@ permalink: /red/
 
 <div class="col-md-8 d-flex justify-content-center" markdown=1>
 
-| Captain | Kevin Rhoads|
+| Captain | Kevin Rhoads |
 | Co-Captain | Justin Brannan |
 | ---------- | ------------ |
+| Player | Alejandro Rodriguez |
+| Player | Ali Vakili |
+| Player | Ben Winkler |
 | Player | Charles Dorsey |
+| Player | Christian "Rio" Calian |
 | Player | Curtiss Burnett |
 | Player | Dan Dassoulas |
 | Player | Ed Santos Jr |
 | Player | Ed Santos Sr |
 | Player | Edwin Garzon |
-| Player | Eric Poole  |
-| Player | Jaime Esper |
+| Player | Eric Alexis Poole |
+| Player | Hessam Izadkhah |
+| Player | Masoud Soltanveis |
 | Player | Miguel Briones Ruiz |
 | Player | Moustafa Ahmed |
-| Player | Najaf Ali |
+| Player | Najaf Ali  |
 | Player | Sierra Budinoff |
 | Player | Tony Cazeau |
-| Player | Tony Ez |
+| Player | Tony Martinez |
+| Player | Wattana "Wu" Kem |
 
 </div>
 
