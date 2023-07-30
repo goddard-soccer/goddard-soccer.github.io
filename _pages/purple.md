@@ -17,19 +17,23 @@ permalink: /purple/
 | Captain | Payum Shakoorzadeh |
 | Co-Captain | Marcello Rodriguez |
 | ---------- | ------------ |
-| Player | Anibal Robles |
+| Player | Andy Vernor  |
+| Player | Anibal Robles  |
 | Pirate | Brandon "AC" Burkdroper |
 | Player | Brian Cox |
 | Player | Carlos Aguilar |
 | Player | Constantine Hadjidimoulas |
+| Player | Daniel Rodriguez  |
 | Player | David Hawbecker |
-| Player | Emily Cassidy |
+| Player | Emily Cassidy  |
 | Player | Garrett Layne |
 | Player | Hossein Mohammed |
+| Player | Kaylie Vess |
 | Player | Kyle Demmerle |
-| Player | Nico Moldovean |
+| Player | Nico Moldovean  |
 | Player | Paul Kennedy |
 | Player | Ramon Luquin |
+| Player | Sepehr Sarbakhshian |
 | Player | Timothy Wilcox |
 | Player | Tosh Keune |
 

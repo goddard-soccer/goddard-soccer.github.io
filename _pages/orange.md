@@ -15,23 +15,26 @@ permalink: /orange/
 <div class="col-md-8 d-flex justify-content-center" markdown=1>
 
 | Captain | Grace Jackson |
-| Co-Captain | Hessam Izadkhah |
+| Co-Captain | Dayne Ford |
 | ---------- | ------------ |
 | Player | Andrew McVey |
-| Player | Dayne Ford |
+| Player | Aum "Ω" Vyas |
 | Player | Dorukhan Ardag |
-| Player | Fan Wu |
+| Player | Fan Wu  |
 | Player | Hua Jiao |
-| Player | Jimmy Ni |
+| Player | Jaime Esper |
+| Player | Jimmy Ni  |
 | Player | John Baker |
 | Player | Joseph Galassi |
 | Player | Joseph Watson |
 | Player | Khashy Parsay |
 | Player | Kieran Enzian |
-| Player | Kunpeng Zhang |
-| General | Luis Rodriguez de Marcos |
+| Player | Kunpeng Zhang  |
+| Player | Lucas Hayes  |
+| General | Luis "Spaniard" Rodriguez de Marcos |
 | Player | Seth Abramczyk |
-| Player | Trevor Robinson |
+| Player | Titus Szobody  |
+| Player | Trevor "Hat" Robinson  |
 
 </div>
 

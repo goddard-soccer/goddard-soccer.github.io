@@ -17,22 +17,24 @@ permalink: /green/
 | Captain | Kate Fowee Gasaway |
 | Co-Captain | Lateef Ajayi |
 | ---------- | ------------ |
+| Player | Amy McNally  |
 | Player | David Katzenberg |
 | Player | Derek Val-Addo |
-| Player | Francois Mernier |
+| Player | Francois Mernier  |
 | Player | Fredrick Naikal |
 | Player | Grant Barrett |
 | Player | Ian Carroll |
 | Player | Jeremy Gross |
-| Player | Jordan Gasaway |
+| Player | Jordan Gasaway  |
 | Player | Keegan O'Connor |
 | Player | Linda Arterburn |
 | Player | Nhut Truong |
-| Player | Steven Owolabi |
-| Player | Taiwo Oluyemo |
-| Player | Theresa Bender |
+| Player | Steven Owolabi  |
+| Player | Taiwo Oluyemo  |
+| Player | Theresa Bender  |
 | Player | Tyler Lee |
-| Player | Tyler Salkowski |
+| Player | Tyler Salkowski  |
+| Player | Uzoije Anison  |
 | Player | Zack Chilton |
 
 </div>
