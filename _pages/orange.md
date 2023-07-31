@@ -23,7 +23,7 @@ permalink: /orange/
 | Player | Fan Wu  |
 | Player | Hua Jiao |
 | Player | Jaime Esper |
-| Player | Jimmy Ni  |
+| Player | Jimmy Ni "Cricket" |
 | Player | John Baker |
 | Player | Joseph Galassi |
 | Player | Joseph Watson |
