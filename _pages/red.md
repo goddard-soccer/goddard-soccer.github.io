@@ -27,7 +27,7 @@ permalink: /red/
 | Player | Ed Santos Jr |
 | Player | Ed Santos Sr |
 | Player | Edwin Garzon |
-| Player | Eric Alexis Poole |
+| Player | Eric "Florida" Alexis Poole |
 | Player | Hessam Izadkhah |
 | Player | Masoud Soltanveis |
 | Player | Miguel Briones Ruiz |
