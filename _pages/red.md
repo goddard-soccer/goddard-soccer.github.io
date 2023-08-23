@@ -25,13 +25,13 @@ permalink: /red/
 | Player | Curtiss Burnett |
 | Player | Dan Dassoulas |
 | Player | Ed Santos Jr |
-| Player | Ed Santos Sr |
+| Player | Ed "Tio" Santos Sr |
 | Player | Edwin Garzon |
 | Player | Eric "Florida" Alexis Poole |
 | Player | Hessam Izadkhah |
 | Player | Masoud Soltanveis |
 | Player | Miguel Briones Ruiz |
-| Player | Moustafa Ahmed |
+| Player | Moustafa "Mo" Ahmed |
 | Player | Najaf Ali  |
 | Player | Sierra Budinoff |
 | Player | Tony Cazeau |

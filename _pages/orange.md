@@ -19,7 +19,7 @@ permalink: /orange/
 | ---------- | ------------ |
 | Player | Andrew McVey |
 | Player | Aum "Ω" Vyas |
-| Player | Dorukhan Ardag |
+| Player | Dorukhan "Ecomaster" Ardag |
 | Player | Fan Wu  |
 | Player | Hua Jiao |
 | Player | Jaime Esper |

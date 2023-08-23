@@ -18,11 +18,11 @@ permalink: /green/
 | Co-Captain | Lateef Ajayi |
 | ---------- | ------------ |
 | Player | Amy McNally  |
-| Player | David Katzenberg |
+| Player | David "Cat" Katzenberg |
 | Player | Derek Val-Addo |
 | Player | Francois Mernier  |
 | Player | Fredrick Naikal |
-| Player | Grant Barrett |
+| Player | Grant "50 Cal" Barrett |
 | Player | Ian Carroll |
 | Player | Jeremy Gross |
 | Player | Jordan Gasaway  |
@@ -32,7 +32,7 @@ permalink: /green/
 | Player | Steven Owolabi  |
 | Player | Taiwo Oluyemo  |
 | Player | Theresa Bender  |
-| Player | Tyler Lee |
+| Player | Tyler "TLee" Lee |
 | Player | Tyler Salkowski  |
 | Player | Uzoije Anison  |
 | Player | Zack Chilton |
