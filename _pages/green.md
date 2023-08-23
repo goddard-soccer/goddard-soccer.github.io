@@ -18,7 +18,7 @@ permalink: /green/
 | Co-Captain | Lateef Ajayi |
 | ---------- | ------------ |
 | Player | Amy McNally  |
-| Player | David "Cat" Katzenberg |
+| Player | David "Cats" Katzenberg |
 | Player | Derek Val-Addo |
 | Player | Francois Mernier  |
 | Player | Fredrick Naikal |
