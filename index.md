@@ -29,7 +29,7 @@ title: Home
 <table>
     <tr>
         <th class="bg-purple px-4">Brandon "🫏" Burdenloader</th>
-        <th class="bg-rainbow px-4" onclick="playSound('firework')">35 Goals!<br>⭐ You're a superstar!!! ⭐</th>
+        <th class="bg-rainbow px-4" onclick="playSound('firework')">37 Goals!<br>⭐ You're a superstar!!! ⭐</th>
     </tr>
 </table>
 
