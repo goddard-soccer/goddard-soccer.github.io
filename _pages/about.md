@@ -131,8 +131,8 @@ When the league started and was sanctioned by GEWA, there were four teams - the 
 {% for row in site.data.titles reversed %}
     <tr>
         <td>{{ row.Year }}</td>
-        <td>{{ row.Winner }}</td>
-        <td>{{ row.RunnerUp }}</td>
+        <td class="text-white bg-{{ row.Winner | downcase }}">{{ row.Winner }}</td>
+        <td class="text-white bg-{{ row.RunnerUp | downcase }}">{{ row.RunnerUp }}</td>
     </tr>
 {% endfor %}
 
