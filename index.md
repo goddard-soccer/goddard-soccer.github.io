@@ -19,6 +19,18 @@ title: Home
 <!-- begin row 2 -->
 <div class="card bg-light text-center my-3">
 <div class="card-header text-center">
+    Latest Updates
+</div>
+<div class="card-body" markdown=1>
+The 2023 league season was a huge success! Thanks to everyone for reinvigorating this storied league post COVID and **a special shoutout to all the behind scenes work done!**
+
+There is still on going discussion on the format for the next season with the hope being we can move up to 6 teams. Team balancing is also a major discussion at the moment, as always, updates will be posted here.
+</div>
+</div>
+
+<!-- begin row 3 -->
+<div class="card bg-light text-center my-3">
+<div class="card-header text-center">
     2023 Leading Goal Scorer
 </div>
 <div class="card-body" markdown=1>
@@ -38,8 +50,8 @@ title: Home
 </div>
 </div>
 
-<!-- begin row 3 -->
-<div class="card bg-light text-center my-3">
+<!-- begin row 4 -->
+<div class="card bg-light text-center mt-3">
 <div class="card-header text-center">
     Teams
 </div>
@@ -69,7 +81,8 @@ title: Home
 </div>
 </div>
 
-<!-- begin row 4 -->
+<!-- begin row 5 -->
+<!--
 <div class="card bg-light text-center mt-3">
 <div class="card-header text-center">
     Summer 2023 Sign Up
@@ -92,3 +105,5 @@ The Goddard Soccer League returns for the summer of 2023! We are running a **fou
         sound.play();
     }
 </script>
+-->
+
