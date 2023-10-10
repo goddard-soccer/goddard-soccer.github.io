@@ -15,12 +15,14 @@ permalink: /dev/
     - [ ] Array support for dual key sorting (points/goal diff)
 - [ ] Fix navbar subpages
     - [ ] Titles under about
-    - [~] Teams page with logos
+    - [x] Teams page with logos
+- Scores page
+    - add two column wide breaks (fourth, labor, champ)
 - [ ] Dark mode
 - [ ] Photo gallery
-- [~] Add historical records (title/cup winners)
+- [x] Add historical records (title/cup winners)
 - [ ] Goal tracking/reporting functionality
-- [ ] Psychological breakdown of Brandon
+- [~] Psychological breakdown of Brandon
     - [~] Subliminal messaging
     - [~] Emotion-based disengagement from social normality
     - [ ] Full scale meltdown
