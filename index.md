@@ -9,10 +9,14 @@ title: Home
     Welcome to the GSL Website
 </div>
 <div class="card-body">
-    <script>
+    <!-- <script>
         randInt = Math.floor(Math.random() * 2) + 1;
         document.write('<img src="/images/2023-' + randInt + '.jpg" class="img-fluid w-100 rounded"/>');
-    </script>
+    </script> -->
+    <video width="100%" poster="/assets/img/2023/GSL-Championship-2023.png" controls>
+        <source src="/assets/img/2023/GSL-Championship-2023.mp4" type="video/mp4">
+    </video>
+
 </div>
 </div>
 
