@@ -14,7 +14,7 @@ title: Home
         document.write('<img src="/images/2023-' + randInt + '.jpg" class="img-fluid w-100 rounded"/>');
     </script> -->
     <video width="100%" poster="/assets/img/2023/GSL-Championship-2023.png" controls>
-        <source src="/assets/img/2023/GSL-Championship-2023.mp4" type="video/mp4">
+        <source src="/assets/img/2023/GSL-Championship-2023.webm" type="video/webm">
     </video>
 
 </div>
