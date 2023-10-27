@@ -3,6 +3,15 @@ layout: page
 title: Home
 ---
 
+<script>
+    const sound = new Audio();
+    function playSound(filename) {
+        console.log("Playing song: " + filename);
+        sound.src = "/assets/audio/" + filename + ".mp3";
+        sound.play();
+    }
+</script>
+
 <!-- begin row 1 -->
 <div class="card bg-light text-center my-3">
 <div class="card-header text-center">
@@ -101,14 +110,4 @@ The Goddard Soccer League returns for the summer of 2023! We are running a **fou
 </div>
 </div>
 </div>
-
-<script>
-    const sound = new Audio();
-    function playSound(filename) {
-        console.log("Playing song: " + filename);
-        sound.src = "/assets/audio/" + filename + ".mp3";
-        sound.play();
-    }
-</script>
 -->
-
