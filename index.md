@@ -30,9 +30,9 @@ The **cost is $50** which goes toward maintaining the field, and the games will 
 </div>
 
 <!-- begin row 2 -->
-<div class="card bg-light text-center my-3">
+<!-- <div class="card bg-light text-center my-3">
 <div class="card-header text-center">
-    Welcome to the GSL Website
+    2023 Championship Game
 </div>
 <div class="card-body">
     <!-- <script>
@@ -45,9 +45,9 @@ The **cost is $50** which goes toward maintaining the field, and the games will 
     </video>
 
 </div>
-</div>
+</div> -->
 
-<!-- begin row 2 -->
+<!-- begin row 3 -->
 <!-- <div class="card bg-light text-center my-3">
 <div class="card-header text-center">
     Latest Updates
