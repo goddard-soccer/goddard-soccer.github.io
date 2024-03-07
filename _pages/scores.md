@@ -30,6 +30,10 @@ permalink: /scores/
 {% assign redAgainst = 0 %}
 
 {% for row in site.data.schedule %}
+    {% if row.Date == nil %}
+        {% break %}
+    {% endif %}
+    
     {% assign hSize = row.HomeScore | size %}
     {% assign aSize = row.AwayScore | size %}
     {% if hSize >= 1 and aSize >= 1 %}
@@ -217,6 +221,9 @@ permalink: /scores/
 
 <div class="row">
 {% for row in site.data.schedule %}
+    {% if row.Date == nil %}
+        {% break %}
+    {% endif %}
     <div class="col-sm-6">
         <div class="card my-2">
             <div class="card-header">

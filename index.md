@@ -13,6 +13,23 @@ title: Home
 </script>
 
 <!-- begin row 1 -->
+<div class="card bg-light text-center mt-3">
+<div class="card-header text-center">
+    2024 Season Sign Up
+</div>
+<div class="card-body">
+<div class="row" markdown=1>
+The Goddard Soccer League 2024 will be starting soon! We are running a **six team, 10 game league starting in mid June** - with a championship game. 
+<br><br>
+The **cost is $50** which goes toward maintaining the field, and the games will be self-refereed. Games are played on **Tuesdays, Wednesdays, and Thursdays on-site at the field near Building 11**, with rainout make up games on Thursdays. Click the **button below to go the sign up form**, we hope you join and look forward to seeing you on the pitch!
+</div>
+<div class="row mt-3 mx-3">
+<a type="button" class="btn btn-primary" href="https://forms.gle/iggf2sibER2xtd7z8">Sign Up Form</a>
+</div>
+</div>
+</div>
+
+<!-- begin row 2 -->
 <div class="card bg-light text-center my-3">
 <div class="card-header text-center">
     Welcome to the GSL Website
@@ -31,26 +48,25 @@ title: Home
 </div>
 
 <!-- begin row 2 -->
-<div class="card bg-light text-center my-3">
+<!-- <div class="card bg-light text-center my-3">
 <div class="card-header text-center">
     Latest Updates
 </div>
 <div class="card-body" markdown=1>
 The 2023 league season was a huge success! Thanks to everyone for reinvigorating this storied league post COVID and **a special shoutout to all the behind scenes work done!**
 
-There is still on going discussion on the format for the next season with the hope being we can move up to 6 teams. Team balancing is also a major discussion at the moment, as always, updates will be posted here.
+We are currently planning the 2024 season! The goal will be 6 teams with Blue and White making a return! Details such as team balancing are being finalized and the sign up will be available soon. We will have free scrimmages before the season begins, so get excited!!!
 </div>
-</div>
+</div> -->
 
 <!-- begin row 3 -->
-<div class="card bg-light text-center my-3">
+<!-- <div class="card bg-light text-center my-3">
 <div class="card-header text-center">
     2023 Leading Goal Scorer
 </div>
 <div class="card-body" markdown=1>
-
-<div class="col-12 d-flex justify-content-center">
-<div class="overflow-auto">
+<div class="d-flex justify-content-center">
+<div class="overflow-auto w-100">
 
 <table>
     <tr>
@@ -62,52 +78,47 @@ There is still on going discussion on the format for the next season with the ho
 </div>
 </div>
 </div>
-</div>
+</div> -->
 
 <!-- begin row 4 -->
 <div class="card bg-light text-center mt-3">
 <div class="card-header text-center">
     Teams
 </div>
-<div class="card-body">
+<div class="card-body bg-white">
 <div class="row">
-    <div class="col-3 my-auto">
-        <a href="/green">
+    <div class="col-2 my-auto">
+        <a href="/rosters">
+            <img src="/images/teams/blue.jpg" class="img-fluid rounded"/>
+        </a>
+    </div>
+    <div class="col-2 my-auto">
+        <a href="/rosters">
             <img src="/images/teams/green.jpg" class="img-fluid rounded"/>
         </a>
     </div>
-    <div class="col-3 my-auto">
-        <a href="/orange">
+    <div class="col-2 my-auto">
+        <a href="/rosters">
             <img src="/images/teams/orange.jpg" class="img-fluid rounded"/>
         </a>
     </div>
-    <div class="col-3 my-auto">
-        <a href="/purple">
+    <div class="col-2 my-auto">
+        <a href="/rosters">
             <img src="/images/teams/purple.jpg" class="img-fluid rounded"/>
         </a>
     </div>
-        <div class="col-3 my-auto">
-        <a href="/red">
+    <div class="col-2 my-auto">
+        <a href="/rosters">
             <img src="/images/teams/red.jpg" class="img-fluid rounded"/>
+        </a>
+    </div>
+    <div class="col-2 my-auto">
+        <a href="/rosters">
+            <img src="/images/teams/white.jpg" class="img-fluid rounded"/>
         </a>
     </div>
 </div>
 </div>
 </div>
 
-<!-- begin row 5 -->
-<!--
-<div class="card bg-light text-center mt-3">
-<div class="card-header text-center">
-    Summer 2023 Sign Up
-</div>
-<div class="card-body">
-<div class="row" markdown=1>
-The Goddard Soccer League returns for the summer of 2023! We are running a **four team, 10 game league starting in mid June** - with a championship game. The **cost is $50** which goes toward maintaining the field, and the games will be self-refereed. Games are played **Tuesdays and Wednesdays on-site at the field near Building 11**, with rainout make up games on Thursdays. Click the **button below to go the sign up form**, we hope you join and look forward to seeing you on the pitch!
-</div>
-<div class="row mt-3 mx-3">
-<a type="button" class="btn btn-primary" href="https://forms.gle/iggf2sibER2xtd7z8">Sign Up Form</a>
-</div>
-</div>
-</div>
--->
+

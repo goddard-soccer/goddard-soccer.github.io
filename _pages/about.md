@@ -26,18 +26,18 @@ The Goddard Soccer League was founded with the sole purpose of providing soccer 
 <div class="card-header text-center">Officers</div>
 <div class="card-body mx-auto" markdown=1>
 
+| **President** | Marcello Rodriguez |
 | ------------- | ----------------- |
-| **President** | Marcelo Rodriquez |
 | **Vice President** | Tyler Lee |
 | **Secretary** | Dayne Ford |
 | **Treasurer** | Kashayar Parsay |
-| **Field Chairman** | Brandon Holderofburk |
-| **Scheduler** | Kevin Rhoads |
-| **Webmaster** | Dorukhan Ardag |
+| **Field Chairman** | Brandon Burkinafaso |
+| **Scheduler** | Dorukhan Ardag |
 
 </div>
 </div>
 </div>
+
 <div class="col-md-6 mt-3 d-flex align-items-stretch">
 <div class="card">
 <div class="card-header text-center">Join the League</div>
@@ -64,9 +64,42 @@ The Goddard Soccer League was founded with the sole purpose of providing soccer 
 </div>
 
 <!-- begin row 3 -->
-<div class="card mt-3">
-<div class="card-header text-center">League History</div>
+<div class="row">
 
+<div class="col-md-3 mt-3">
+<div class="card">
+<div class="card-header text-center">Goddard Cup</div>
+<div class="card-body">
+<div class="d-flex justify-content-center">
+<div class="overflow-auto w-100">
+
+<table>
+    <tr>
+        <th>Year</th>
+        <th>Winner</th>
+        <th>Runner Up</th>
+    </tr>
+
+{% for row in site.data.titles reversed %}
+    <tr>
+        <td>{{ row.Year }}</td>
+        <td class="text-white bg-{{ row.Winner | downcase }}">{{ row.Winner }}</td>
+        <td class="text-white bg-{{ row.RunnerUp | downcase }}">{{ row.RunnerUp }}</td>
+    </tr>
+{% endfor %}
+
+</table>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="col-md-9 mt-3">
+
+<div class="card">
+<div class="card-header text-center">League History</div>
 <div class="row mt-3 g-0">
 <div class="col-md-4">
 <img src="/images/history-1.jpg" class="img-fluid w-100 rounded" />
@@ -110,33 +143,7 @@ When the league started and was sanctioned by GEWA, there were four teams - the 
 <div class="card-footer text-center">Written by Brian Dennis</div>
 </div>
 
-<div class="row">
 </div>
 
 <!-- begin row 4 -->
-<div class="card mt-3">
-<div class="card-header text-center">Goddard Cup</div>
 
-<div class="card-body">
-<div class="col-12 d-flex justify-content-center">
-<div class="overflow-auto ">
-
-<table>
-    <tr>
-        <th>Year</th>
-        <th>Winner</th>
-        <th>Runner Up</th>
-    </tr>
-
-{% for row in site.data.titles reversed %}
-    <tr>
-        <td>{{ row.Year }}</td>
-        <td class="text-white bg-{{ row.Winner | downcase }}">{{ row.Winner }}</td>
-        <td class="text-white bg-{{ row.RunnerUp | downcase }}">{{ row.RunnerUp }}</td>
-    </tr>
-{% endfor %}
-
-</table>
-
-</div>
-</div>
