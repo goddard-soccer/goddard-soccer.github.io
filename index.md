@@ -15,11 +15,11 @@ title: Home
 <!-- begin row sign up -->
 <div class="card bg-light text-center mt-3">
 <div class="card-header text-center">
-    2024 Season Sign Up
+    2024 Spring Season Sign Up
 </div>
 <div class="card-body">
 <div class="row" markdown=1>
-The Goddard Soccer League 2024 will be starting soon! We are currently planning a 9 game league consisting of 4 teams, starting in late-April with a championship game. League schedule and the number of teams are subject to change depending on the number of sign-ups. 
+The Goddard Soccer League 2024 will be starting soon! We are currently planning a 9 game spring season consisting of 4 teams, starting in late April with a championship game. League schedule and the number of teams are subject to change depending on the number of sign-ups.
 <br><br>
 The **cost is $50** which goes toward maintaining the field, and the games will be self-refereed. Games are played on **Tuesdays, Wednesdays, and Thursdays on-site at the field near Building 11**, with rainout make up games on Thursdays. Click the **button below to go the sign up form**, we hope you join and look forward to seeing you on the pitch!
 </div>
@@ -120,5 +120,3 @@ We are currently planning the 2024 season! The goal will be 6 teams with Blue an
 </div>
 </div>
 </div>
-
-
