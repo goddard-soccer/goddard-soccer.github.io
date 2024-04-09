@@ -4,6 +4,16 @@ title: Rosters
 permalink: /rosters/
 ---
 
+<!-- begin row news updates -->
+<div class="card bg-light text-center my-3">
+<div class="card-header text-center">
+    PSA
+</div>
+<div class="card-body" markdown=1>
+These are not the final rosters, this a preliminary cut for exec team purposes. Balancing will occur after more sign ups :D
+</div>
+</div>
+
 <div class="row">
 
 <div class="col-md-3 pb-2">
