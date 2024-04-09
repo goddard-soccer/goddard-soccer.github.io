@@ -11,13 +11,13 @@ permalink: /rosters/
 <div class="card-header text-center text-white bg-green">Green</div>
 <div class="card-body w-100" markdown=1>
 
-| Captain | Kate Fowee Gasaway |
+| Female | Kate Fowee Gasaway |
 | Co-Captain | Lateef Ajayi |
 | ---------- | ---------- |
 | Player | David "Cats" Katzenberg |
 | Player | Grant "50 Cal" Barrett |
 | Player | Ian Carroll |
-| Player | Jordan Gasaway  |
+| Guest | Jordan Gasaway  |
 | Player | Keegan O'Connor |
 | Player | Tyler "TLee" Lee |
 
@@ -31,7 +31,7 @@ permalink: /rosters/
 <div class="card-body w-100" markdown=1>
 
 | Captain | Grace Jackson |
-| Co-Captain | Dayne Ford |
+| Female | Dayne Ford |
 | ---------- | ---------- |
 | Player | Andrew McVey |
 | Player | Dorukhan "Ecomaster" Ardag |
@@ -54,10 +54,10 @@ permalink: /rosters/
 | Captain | Payum Shakoorzadeh |
 | Co-Captain | Marcello Rodriguez |
 | ---------- | ---------- |
-| Pirate | Brandon "AC" Burkdroper |
+| The Antichrist | Brandon Burkdroper |
 | Player | Carlos Aguilar |
 | Player | Constantine Hadjidimoulas |
-| Player | Kaylie Vess |
+| Female/Guest | Kaylie Vess |
 | Player | Kyle Demmerle |
 | Player | Marco Tanda |
 
@@ -80,7 +80,7 @@ permalink: /rosters/
 | Player | Joaqin Chaves |
 | Player | Michael MacKay |
 | Player | Nicholas Martucci |
-| Player | Sierra "Nevada" Budinoff |
+| Female | Sierra "Nevada" Budinoff |
 | Player | Tyler Parsotan |
 
 </div>
