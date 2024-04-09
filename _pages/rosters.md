@@ -4,23 +4,9 @@ title: Rosters
 permalink: /rosters/
 ---
 
-<div class="row p-0 m-0">
+<div class="row">
 
-<div class="col-md-4 p-0 mx-3">
-<div class="card">
-<div class="card-header text-center text-white bg-blue">Blue</div>
-<div class="card-body w-100" markdown=1>
-
-| Captain | Brandon "AC" Burkholder |
-| Co-Captain | TBD |
-| ---------- | ---------- |
-| Player | TBD |
-
-</div>
-</div>
-</div>
-
-<div class="col-md-4 p-0 mx-3">
+<div class="col-md-3 pb-2">
 <div class="card">
 <div class="card-header text-center text-white bg-green">Green</div>
 <div class="card-body w-100" markdown=1>
@@ -28,10 +14,96 @@ permalink: /rosters/
 | Captain | Kate Fowee Gasaway |
 | Co-Captain | Lateef Ajayi |
 | ---------- | ---------- |
-| Player | Amy McNally  |
+| Player | David "Cats" Katzenberg |
+| Player | Grant "50 Cal" Barrett |
+| Player | Ian Carroll |
+| Player | Jordan Gasaway  |
+| Player | Keegan O'Connor |
+| Player | Tyler "TLee" Lee |
+
+</div>
+</div>
+</div>
+
+<div class="col-md-3 pb-2">
+<div class="card">
+<div class="card-header text-center text-white bg-orange">Orange</div>
+<div class="card-body w-100" markdown=1>
+
+| Captain | Grace Jackson |
+| Co-Captain | Dayne Ford |
+| ---------- | ---------- |
+| Player | Andrew McVey |
+| Player | Dorukhan "Ecomaster" Ardag |
+| Player | Hessam Izadkhah |
+| Player | John Baker |
+| Player | Joseph Galassi |
+| Player | Joseph Watson |
+| General | Luis "Spaniard" Rodriguez Decimus Maridius |
+| Player | Luke Amatucci |
+
+</div>
+</div>
+</div>
+
+<div class="col-md-3 pb-2">
+<div class="card">
+<div class="card-header text-center text-white bg-purple">Purple</div>
+<div class="card-body w-100" markdown=1>
+
+| Captain | Payum Shakoorzadeh |
+| Co-Captain | Marcello Rodriguez |
+| ---------- | ---------- |
+| Pirate | Brandon "AC" Burkdroper |
+| Player | Carlos Aguilar |
+| Player | Constantine Hadjidimoulas |
+| Player | Kaylie Vess |
+| Player | Kyle Demmerle |
+| Player | Marco Tanda |
+
+</div>
+</div>
+</div>
+
+<div class="col-md-3 pb-2">
+<div class="card">
+<div class="card-header text-center text-white bg-red">Red</div>
+<div class="card-body w-100" markdown=1>
+
+| Captain | Kevin Rhoads |
+| Co-Captain | Justin Brannan |
+| ---------- | ---------- |
+| Player | Anders Lundkvist |
+| Player | Ben Winkler |
+| Player | Eric "Florida" Poole |
+| Player | Jack Topper |
+| Player | Joaqin Chaves |
+| Player | Michael MacKay |
+| Player | Nicholas Martucci |
+| Player | Sierra "Nevada" Budinoff |
+| Player | Tyler Parsotan |
+
+</div>
+</div>
+</div>
+
+</div> <!-- end row -->
+
+
+<div class="row">
+
+<div class="col-md-3">
+<div class="card">
+<div class="card-header text-center text-white bg-green">Green</div>
+<div class="card-body w-100" markdown=1>
+
+| Captain | Kate Fowee Gasaway |
+| Co-Captain | Lateef Ajayi |
+| ---------- | ---------- |
+| Player | Amy McNally |
 | Player | David "Cats" Katzenberg |
 | Player | Derek Val-Addo |
-| Player | Francois Mernier  |
+| Player | Francois Mernier |
 | Player | Fredrick Naikal |
 | Player | Grant "50 Cal" Barrett |
 | Player | Ian Carroll |
@@ -40,19 +112,19 @@ permalink: /rosters/
 | Player | Keegan O'Connor |
 | Player | Linda Arterburn |
 | Player | Nhut Truong |
-| Player | Steven Owolabi  |
-| Player | Taiwo Oluyemo  |
-| Player | Theresa Bender  |
+| Player | Steven Owolabi |
+| Player | Taiwo Oluyemo |
+| Player | Theresa Bender |
 | Player | Tyler "TLee" Lee |
-| Player | Tyler Salkowski  |
-| Player | Uzoije Anison  |
+| Player | Tyler Salkowski |
+| Player | Uzoije Anison |
 | Player | Zack Chilton |
 
 </div>
 </div>
 </div>
 
-<div class="col-md-4 p-0 mx-3">
+<div class="col-md-3">
 <div class="card">
 <div class="card-header text-center text-white bg-orange">Orange</div>
 <div class="card-body w-100" markdown=1>
@@ -83,11 +155,7 @@ permalink: /rosters/
 </div>
 </div>
 
-</div> <!-- end row -->
-
-<div class="row">
-
-<div class="col-md-4 p-0 mx-3">
+<div class="col-md-3">
 <div class="card">
 <div class="card-header text-center text-white bg-purple">Purple</div>
 <div class="card-body w-100" markdown=1>
@@ -119,7 +187,7 @@ permalink: /rosters/
 </div>
 </div>
 
-<div class="col-md-4 p-0 mx-3">
+<div class="col-md-3">
 <div class="card">
 <div class="card-header text-center text-white bg-red">Red</div>
 <div class="card-body w-100" markdown=1>
@@ -147,21 +215,6 @@ permalink: /rosters/
 | Player | Tony Cazeau |
 | Player | Tony Martinez |
 | Player | Wattana "Wu" Kem |
-
-</div>
-</div>
-</div>
-
-<div class="col-md-4 p-0 mx-3">
-<div class="card">
-<div class="card-header text-center bg-white">White</div>
-<div class="card-body w-100" markdown=1>
-
-| Captain | David "Cats" Katzenberg |
-| Co-Captain | TBD |
-| ---------- | ---------- |
-| Player | TBD |
-
 
 </div>
 </div>

@@ -30,7 +30,7 @@ The Goddard Soccer League was founded with the sole purpose of providing soccer 
 | ------------- | ----------------- |
 | **Vice President** | Tyler Lee |
 | **Secretary** | Dayne Ford |
-| **Treasurer** | Kashayar Parsay |
+| **Treasurer** | COULD BE YOU! |
 | **Field Chairman** | Brandon Burkinafaso |
 | **Scheduler** | Dorukhan Ardag |
 

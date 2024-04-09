@@ -12,7 +12,7 @@ title: Home
     }
 </script>
 
-<!-- begin row 1 -->
+<!-- begin row sign up -->
 <div class="card bg-light text-center mt-3">
 <div class="card-header text-center">
     2024 Season Sign Up
@@ -29,7 +29,7 @@ The **cost is $50** which goes toward maintaining the field, and the games will 
 </div>
 </div>
 
-<!-- begin row 2 -->
+<!-- begin row champ video -->
 <!-- <div class="card bg-light text-center my-3">
 <div class="card-header text-center">
     2023 Championship Game
@@ -47,7 +47,7 @@ The **cost is $50** which goes toward maintaining the field, and the games will 
 </div>
 </div> -->
 
-<!-- begin row 3 -->
+<!-- begin row news updates -->
 <!-- <div class="card bg-light text-center my-3">
 <div class="card-header text-center">
     Latest Updates
@@ -59,7 +59,7 @@ We are currently planning the 2024 season! The goal will be 6 teams with Blue an
 </div>
 </div> -->
 
-<!-- begin row 3 -->
+<!-- begin row leading goal scorer -->
 <!-- <div class="card bg-light text-center my-3">
 <div class="card-header text-center">
     2023 Leading Goal Scorer
@@ -80,43 +80,43 @@ We are currently planning the 2024 season! The goal will be 6 teams with Blue an
 </div>
 </div> -->
 
-<!-- begin row 4 -->
+<!-- begin row teams -->
 <div class="card bg-light text-center mt-3">
 <div class="card-header text-center">
     Teams
 </div>
 <div class="card-body bg-white">
 <div class="row">
-    <div class="col-2 my-auto">
+    <!-- <div class="col-2 my-auto">
         <a href="/rosters">
             <img src="/images/teams/blue.jpg" class="img-fluid rounded"/>
         </a>
-    </div>
-    <div class="col-2 my-auto">
+    </div> -->
+    <div class="col-3 my-auto">
         <a href="/rosters">
             <img src="/images/teams/green.jpg" class="img-fluid rounded"/>
         </a>
     </div>
-    <div class="col-2 my-auto">
+    <div class="col-3 my-auto">
         <a href="/rosters">
             <img src="/images/teams/orange.jpg" class="img-fluid rounded"/>
         </a>
     </div>
-    <div class="col-2 my-auto">
+    <div class="col-3 my-auto">
         <a href="/rosters">
             <img src="/images/teams/purple.jpg" class="img-fluid rounded"/>
         </a>
     </div>
-    <div class="col-2 my-auto">
+    <div class="col-3 my-auto">
         <a href="/rosters">
             <img src="/images/teams/red.jpg" class="img-fluid rounded"/>
         </a>
     </div>
-    <div class="col-2 my-auto">
+    <!-- <div class="col-2 my-auto">
         <a href="/rosters">
             <img src="/images/teams/white.jpg" class="img-fluid rounded"/>
         </a>
-    </div>
+    </div> -->
 </div>
 </div>
 </div>
