@@ -29,7 +29,6 @@ These are not the final rosters, this a preliminary cut for exec team purposes. 
 | Player | Ian Carroll |
 | Guest | Jordan Gasaway  |
 | Player | Keegan O'Connor |
-| Player | Tyler "TLee" Lee |
 
 </div>
 </div>
@@ -40,7 +39,7 @@ These are not the final rosters, this a preliminary cut for exec team purposes. 
 <div class="card-header text-center text-white bg-orange">Orange</div>
 <div class="card-body w-100" markdown=1>
 
-| Captain | Grace Jackson |
+| Captain |  |
 | Female | Dayne Ford |
 | ---------- | ---------- |
 | Player | Andrew McVey |
@@ -62,8 +61,9 @@ These are not the final rosters, this a preliminary cut for exec team purposes. 
 <div class="card-body w-100" markdown=1>
 
 | Captain | Payum Shakoorzadeh |
-| Co-Captain | Marcello Rodriguez |
+| Co-Captain |  |
 | ---------- | ---------- |
+| Player | Marcello Rodriguez |
 | The Antichrist | Brandon Burkdroper |
 | Player | Carlos Aguilar |
 | Player | Constantine Hadjidimoulas |
@@ -81,8 +81,9 @@ These are not the final rosters, this a preliminary cut for exec team purposes. 
 <div class="card-body w-100" markdown=1>
 
 | Captain | Kevin Rhoads |
-| Co-Captain | Justin Brannan |
+| Co-Captain | Dan Dassoulas |
 | ---------- | ---------- |
+| Female | Sierra "Nevada" Budinoff |
 | Player | Anders Lundkvist |
 | Player | Ben Winkler |
 | Player | Eric "Florida" Poole |
@@ -90,7 +91,7 @@ These are not the final rosters, this a preliminary cut for exec team purposes. 
 | Player | Joaqin Chaves |
 | Player | Michael MacKay |
 | Player | Nicholas Martucci |
-| Female | Sierra "Nevada" Budinoff |
+| Player | Tyler "TLee" Lee |
 | Player | Tyler Parsotan |
 
 </div>
