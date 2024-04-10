@@ -29,6 +29,7 @@ These are not the final rosters, this a preliminary cut for exec team purposes. 
 | Player | Ian Carroll |
 | Guest | Jordan Gasaway  |
 | Player | Keegan O'Connor |
+| Player | Will Alberding |
 
 </div>
 </div>
@@ -50,6 +51,7 @@ These are not the final rosters, this a preliminary cut for exec team purposes. 
 | Player | Joseph Watson |
 | General | Luis "Spaniard" Rodriguez Decimus Maridius |
 | Player | Luke Amatucci |
+| Player | Trevor "Hat" Robinson |
 
 </div>
 </div>
@@ -70,6 +72,7 @@ These are not the final rosters, this a preliminary cut for exec team purposes. 
 | Female/Guest | Kaylie Vess |
 | Player | Kyle Demmerle |
 | Player | Marco Tanda |
+| Player | Garrett Layne |
 
 </div>
 </div>
@@ -83,7 +86,7 @@ These are not the final rosters, this a preliminary cut for exec team purposes. 
 | Captain | Kevin Rhoads |
 | Co-Captain | Dan Dassoulas |
 | ---------- | ---------- |
-| Female | Sierra "Nevada" Budinoff |
+| Player | Ali Vakili |
 | Player | Anders Lundkvist |
 | Player | Ben Winkler |
 | Player | Eric "Florida" Poole |
@@ -91,6 +94,7 @@ These are not the final rosters, this a preliminary cut for exec team purposes. 
 | Player | Joaqin Chaves |
 | Player | Michael MacKay |
 | Player | Nicholas Martucci |
+| Female | Sierra "Nevada" Budinoff |
 | Player | Tyler "TLee" Lee |
 | Player | Tyler Parsotan |
 
