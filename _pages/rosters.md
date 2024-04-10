@@ -63,10 +63,9 @@ These are not the final rosters, this a preliminary cut for exec team purposes. 
 <div class="card-body w-100" markdown=1>
 
 | Captain | Payum Shakoorzadeh |
-| Co-Captain |  |
+| Co-Captain | Carlos Aguilar |
 | ---------- | ---------- |
 | The Antichrist | Brandon Burkdroper |
-| Player | Carlos Aguilar |
 | Player | Constantine Hadjidimoulas |
 | Player | Garrett Layne |
 | Female/Guest | Kaylie Vess |
