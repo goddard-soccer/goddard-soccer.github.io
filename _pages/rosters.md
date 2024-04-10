@@ -65,14 +65,14 @@ These are not the final rosters, this a preliminary cut for exec team purposes. 
 | Captain | Payum Shakoorzadeh |
 | Co-Captain |  |
 | ---------- | ---------- |
-| Player | Marcello Rodriguez |
 | The Antichrist | Brandon Burkdroper |
 | Player | Carlos Aguilar |
 | Player | Constantine Hadjidimoulas |
+| Player | Garrett Layne |
 | Female/Guest | Kaylie Vess |
 | Player | Kyle Demmerle |
+| Player | Marcello Rodriguez |
 | Player | Marco Tanda |
-| Player | Garrett Layne |
 
 </div>
 </div>
@@ -86,7 +86,7 @@ These are not the final rosters, this a preliminary cut for exec team purposes. 
 | Captain | Kevin Rhoads |
 | Co-Captain | Dan Dassoulas |
 | ---------- | ---------- |
-| Player | Ali Vakili |
+| Guest | Ali Vakili |
 | Player | Anders Lundkvist |
 | Player | Ben Winkler |
 | Player | Eric "Florida" Poole |
