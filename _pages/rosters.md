@@ -42,6 +42,7 @@ These are not the final rosters, this a preliminary cut for exec team purposes. 
 | Captain | David "Cats" Katzenberg |
 | Female | Dayne Ford |
 | ---------- | ---------- |
+| Guest | Ali Vakili |
 | Player | Andrew McVey |
 | Player | Dorukhan "Ecomaster" Ardag |
 | Player | Hessam Izadkhah |
@@ -85,7 +86,6 @@ These are not the final rosters, this a preliminary cut for exec team purposes. 
 | Captain | Kevin Rhoads |
 | Co-Captain | Dan Dassoulas |
 | ---------- | ---------- |
-| Guest | Ali Vakili |
 | Player | Anders Lundkvist |
 | Player | Ben Winkler |
 | Player | Eric "Florida" Poole |
@@ -94,7 +94,7 @@ These are not the final rosters, this a preliminary cut for exec team purposes. 
 | Player | Michael MacKay |
 | Player | Nicholas Martucci |
 | Female | Sierra "Nevada" Budinoff |
-| Player | Tyler "TLee" Lee |
+| Player | Tyler Lee ;) |
 | Player | Tyler Parsotan |
 
 </div>
