@@ -11,6 +11,8 @@ permalink: /rosters/
 </div>
 <div class="card-body" markdown=1>
 These are not the final rosters, this a preliminary cut for exec team purposes. Balancing will occur after more sign ups :D
+
+Generally speaking we are trying to retain previous teams, but 
 </div>
 </div>
 
@@ -24,11 +26,11 @@ These are not the final rosters, this a preliminary cut for exec team purposes. 
 | Female | Kate Fowee Gasaway |
 | Co-Captain | Lateef Ajayi |
 | ---------- | ---------- |
-| Player | Grant "50 Cal" Barrett |
+| Player | **Grant "50 Cal" Barrett** |
 | Player | Ian Carroll |
-| Guest | Jordan Gasaway  |
-| Player | Keegan O'Connor |
-| Player | Will Alberding |
+| Guest | **Jordan Gasaway** |
+| Player | **Keegan O'Connor** |
+| Player | **Will Alberding** |
 
 </div>
 </div>
@@ -39,20 +41,20 @@ These are not the final rosters, this a preliminary cut for exec team purposes. 
 <div class="card-header text-center text-white bg-orange">Orange</div>
 <div class="card-body w-100" markdown=1>
 
-| Captain | David "Cats" Katzenberg |
+| Captain | **David "Cats" Katzenberg** |
 | Female | Dayne Ford |
 | ---------- | ---------- |
 | Guest | Ali Vakili |
 | Player | Andrew McVey |
 | Player | Dorukhan "Ecomaster" Ardag |
-| Player | Hessam Izadkhah |
+| Player | **Hessam Izadkhah** |
 | Player | John Baker |
 | Player | Joseph Galassi |
 | Player | Joseph Watson |
 | Player | Lucas Hayes |
 | General | Luis "Spaniard" Rodriguez Decimus Maridius |
 | Player | Luke Amatucci |
-| Guest | Trevor "Hat" Robinson |
+| Guest | **Trevor "Hat" Robinson** |
 
 </div>
 </div>
@@ -66,13 +68,14 @@ These are not the final rosters, this a preliminary cut for exec team purposes. 
 | Captain | Payum Shakoorzadeh |
 | Co-Captain | Carlos Aguilar |
 | ---------- | ---------- |
-| The Antichrist | Brandon Burkdroper |
+| The Antichrist | **Brandon Burkdroper** |
 | Player | Constantine Hadjidimoulas |
-| Player | Garrett Layne |
+| Player | **Garrett Layne** |
 | Female/Guest | Kaylie Vess |
 | Player | Kyle Demmerle |
-| Player | Marcello Rodriguez |
+| Player | **Marcello Rodriguez** |
 | Player | Marco Tanda |
+| Player | Timothy Wilcox |
 
 </div>
 </div>
@@ -89,13 +92,13 @@ These are not the final rosters, this a preliminary cut for exec team purposes. 
 | Player | Anders Lundkvist |
 | Player | Ben Winkler |
 | Player | Eric "Florida" Poole |
-| Player | Jack Topper |
+| Player | **Jack Topper** |
 | Player | Joaqin Chaves |
 | Player | Michael MacKay |
 | Female | Naomi Park |
-| Player | Nicholas Martucci |
+| Player | **Nicholas Martucci** |
 | Female | Sierra "Nevada" Budinoff |
-| Player | Tyler Lee ;) |
+| Player | **Tyler Lee ;)** |
 | Player | Tyler Parsotan |
 
 </div>
@@ -112,25 +115,17 @@ These are not the final rosters, this a preliminary cut for exec team purposes. 
 <div class="card-header text-center text-white bg-green">Green</div>
 <div class="card-body w-100" markdown=1>
 
-| Captain | Kate Fowee Gasaway |
-| Co-Captain | Lateef Ajayi |
+| Recruiter | Kate Fowee Gasaway |
 | ---------- | ---------- |
 | Player | Amy McNally |
-| Player | David "Cats" Katzenberg |
 | Player | Derek Val-Addo |
 | Player | Francois Mernier |
 | Player | Fredrick Naikal |
-| Player | Grant "50 Cal" Barrett |
-| Player | Ian Carroll |
 | Player | Jeremy Gross |
-| Player | Jordan Gasaway  |
-| Player | Keegan O'Connor |
-| Player | Linda Arterburn |
 | Player | Nhut Truong |
 | Player | Steven Owolabi |
 | Player | Taiwo Oluyemo |
 | Player | Theresa Bender |
-| Player | Tyler "TLee" Lee |
 | Player | Tyler Salkowski |
 | Player | Uzoije Anison |
 | Player | Zack Chilton |
@@ -144,27 +139,17 @@ These are not the final rosters, this a preliminary cut for exec team purposes. 
 <div class="card-header text-center text-white bg-orange">Orange</div>
 <div class="card-body w-100" markdown=1>
 
-| Captain | Grace Jackson |
-| Co-Captain | Dayne Ford |
+| Recruiter | Dayne Ford |
 | ---------- | ---------- |
-| Player | Andrew McVey |
 | Player | Aum "Ω" Vyas |
-| Player | Dorukhan "Ecomaster" Ardag |
 | Player | Fan Wu  |
 | Player | Hua Jiao |
 | Player | Jaime Esper |
 | Player | Jimmy Ni "Cricket" |
-| Player | John Baker |
-| Player | Joseph Galassi |
-| Player | Joseph Watson |
 | Player | Khashy Parsay |
-| Player | Kieran Enzian |
 | Player | Kunpeng Zhang  |
-| Player | Lucas Hayes  |
-| General | Luis "Spaniard" Rodriguez Decimus Maridius |
 | Player | Seth Abramczyk |
 | Player | Titus Szobody  |
-| Player | Trevor "Hat" Robinson  |
 
 </div>
 </div>
@@ -175,27 +160,19 @@ These are not the final rosters, this a preliminary cut for exec team purposes. 
 <div class="card-header text-center text-white bg-purple">Purple</div>
 <div class="card-body w-100" markdown=1>
 
-| Captain | Payum Shakoorzadeh |
-| Co-Captain | Marcello Rodriguez |
+| Recruiter | Payum Shakoorzadeh |
 | ---------- | ---------- |
 | Player | Andy Vernor  |
 | Player | Anibal Robles  |
-| Pirate | Brandon "AC" Burkdroper |
 | Player | Brian Cox |
-| Player | Carlos Aguilar |
-| Player | Constantine Hadjidimoulas |
 | Player | Daniel Rodriguez  |
 | Player | David Hawbecker |
-| Player | Emily Cassidy  |
-| Player | Garrett Layne |
+| Player | Emily Cassidy |
 | Player | Hossein Mohammed |
-| Player | Kaylie Vess |
-| Player | Kyle Demmerle |
 | Player | Nico Moldovean  |
 | Player | Paul Kennedy |
 | Player | Ramon Luquin |
 | Player | Sepehr Sarbakhshian |
-| Player | Timothy Wilcox |
 | Player | Tosh Keune |
 
 </div>
@@ -207,29 +184,21 @@ These are not the final rosters, this a preliminary cut for exec team purposes. 
 <div class="card-header text-center text-white bg-red">Red</div>
 <div class="card-body w-100" markdown=1>
 
-| Captain | Kevin Rhoads |
-| Co-Captain | Justin Brannan |
+| Recruiter | Kevin Rhoads |
 | ---------- | ---------- |
 | Player | Alejandro Rodriguez |
-| Player | Ali Vakili |
-| Player | Ben Winkler |
 | Player | Charles Dorsey |
 | Player | Christian "Rio" Calian |
 | Player | Curtiss Burnett |
-| Player | Dan Dassoulas |
 | Player | Ed Santos Jr |
 | Player | Ed "Tio" Santos Sr |
 | Player | Edwin Garzon |
-| Player | Eric "Florida" Alexis Poole |
-| Player | Hessam Izadkhah |
 | Player | Masoud Soltanveis |
 | Player | Miguel Briones Ruiz |
 | Player | Moustafa "Mo" Ahmed |
 | Player | Najaf Ali  |
-| Player | Sierra Budinoff |
 | Player | Tony Cazeau |
 | Player | Tony Martinez |
-| Player | Wattana "Wu" Kem |
 
 </div>
 </div>
