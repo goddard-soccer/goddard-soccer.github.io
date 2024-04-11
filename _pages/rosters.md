@@ -24,7 +24,6 @@ These are not the final rosters, this a preliminary cut for exec team purposes. 
 | Female | Kate Fowee Gasaway |
 | Co-Captain | Lateef Ajayi |
 | ---------- | ---------- |
-| Player | David "Cats" Katzenberg |
 | Player | Grant "50 Cal" Barrett |
 | Player | Ian Carroll |
 | Guest | Jordan Gasaway  |
@@ -40,7 +39,7 @@ These are not the final rosters, this a preliminary cut for exec team purposes. 
 <div class="card-header text-center text-white bg-orange">Orange</div>
 <div class="card-body w-100" markdown=1>
 
-| Captain |  |
+| Captain | David "Cats" Katzenberg |
 | Female | Dayne Ford |
 | ---------- | ---------- |
 | Player | Andrew McVey |
@@ -49,9 +48,10 @@ These are not the final rosters, this a preliminary cut for exec team purposes. 
 | Player | John Baker |
 | Player | Joseph Galassi |
 | Player | Joseph Watson |
+| Player | Lucas Hayes |
 | General | Luis "Spaniard" Rodriguez Decimus Maridius |
 | Player | Luke Amatucci |
-| Player | Trevor "Hat" Robinson |
+| Guest | Trevor "Hat" Robinson |
 
 </div>
 </div>
