@@ -69,11 +69,11 @@ Generally speaking we are trying to retain previous teams, but with some edits t
 | Co-Captain | Carlos Aguilar |
 | ---------- | ---------- |
 | The Antichrist | **Brandon Burkdroper** |
-| Player | **Garrett Layne** |
-| Player | **Marcello Rodriguez** |
 | Player | Constantine Hadjidimoulas |
+| Player | **Garrett Layne** |
 | Female/Guest | Kaylie Vess |
 | Player | Kyle Demmerle |
+| Player | **Marcello Rodriguez** |
 | Player | Marco Tanda |
 | Player | Michael MacKay |
 | Player | Rosembeth Lopez |
