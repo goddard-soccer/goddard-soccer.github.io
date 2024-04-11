@@ -98,7 +98,7 @@ Generally speaking we are trying to retain previous teams, but
 | Female | Naomi Park |
 | Player | **Nicholas Martucci** |
 | Female | Sierra "Nevada" Budinoff |
-| Player | **Tyler Lee ;)** |
+| Player | **Tyler ";)" Lee ** |
 | Player | Tyler Parsotan |
 
 </div>
