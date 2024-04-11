@@ -69,12 +69,14 @@ Generally speaking we are trying to retain previous teams, but with some edits t
 | Co-Captain | Carlos Aguilar |
 | ---------- | ---------- |
 | The Antichrist | **Brandon Burkdroper** |
-| Player | Constantine Hadjidimoulas |
 | Player | **Garrett Layne** |
+| Player | **Marcello Rodriguez** |
+| Player | Constantine Hadjidimoulas |
 | Female/Guest | Kaylie Vess |
 | Player | Kyle Demmerle |
-| Player | **Marcello Rodriguez** |
 | Player | Marco Tanda |
+| Player | Michael MacKay |
+| Player | Rosembeth Lopez |
 | Player | Timothy Wilcox |
 
 </div>
@@ -94,7 +96,6 @@ Generally speaking we are trying to retain previous teams, but with some edits t
 | Player | Eric "Florida" Poole |
 | Player | **Jack Topper** |
 | Player | Joaqin Chaves |
-| Player | Michael MacKay |
 | Female | Naomi Park |
 | Player | **Nicholas Martucci** |
 | Female | Sierra "Nevada" Budinoff |
