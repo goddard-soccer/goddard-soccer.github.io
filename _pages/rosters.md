@@ -30,6 +30,7 @@ Generally speaking we are trying to retain previous teams, but with some edits t
 | Player | Ian Carroll |
 | Guest | **Jordan Gasaway** |
 | Player | **Keegan O'Connor** |
+| Player | Miguel Hernandez |
 | Player | **Will Alberding** |
 
 </div>
