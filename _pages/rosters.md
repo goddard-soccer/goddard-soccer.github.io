@@ -92,6 +92,7 @@ These are not the final rosters, this a preliminary cut for exec team purposes. 
 | Player | Jack Topper |
 | Player | Joaqin Chaves |
 | Player | Michael MacKay |
+| Female | Naomi Park |
 | Player | Nicholas Martucci |
 | Female | Sierra "Nevada" Budinoff |
 | Player | Tyler Lee ;) |
