@@ -12,7 +12,7 @@ permalink: /rosters/
 <div class="card-body" markdown=1>
 These are not the final rosters, this a preliminary cut for exec team purposes. Balancing will occur after more sign ups :D
 
-Generally speaking we are trying to retain previous teams, but 
+Generally speaking we are trying to retain previous teams, but with some edits to ensure competitive play.
 </div>
 </div>
 
