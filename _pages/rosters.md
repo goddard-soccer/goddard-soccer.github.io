@@ -78,7 +78,7 @@ Generally speaking we are trying to retain previous teams, but with some edits t
 | Player | **Marcello Rodriguez** |
 | Player | Marco Tanda |
 | Player | Michael MacKay |
-| Player | Rosembeth Lopez |
+| Player | **Rosembeth Lopez** |
 | Player | Timothy Wilcox |
 
 </div>
@@ -144,12 +144,12 @@ Generally speaking we are trying to retain previous teams, but with some edits t
 | Recruiter | Dayne Ford |
 | ---------- | ---------- |
 | Player | Aum "Ω" Vyas |
-| Player | Fan Wu  |
+| Player | Fan Wu |
 | Player | Hua Jiao |
 | Player | Jaime Esper |
 | Player | Jimmy Ni "Cricket" |
 | Player | Khashy Parsay |
-| Player | Kunpeng Zhang  |
+| Player | Kunpeng Zhang |
 | Player | Seth Abramczyk |
 | Player | Titus Szobody  |
 
@@ -164,10 +164,10 @@ Generally speaking we are trying to retain previous teams, but with some edits t
 
 | Recruiter | Payum Shakoorzadeh |
 | ---------- | ---------- |
-| Player | Andy Vernor  |
+| Player | Andy Vernor |
 | Player | Anibal Robles  |
 | Player | Brian Cox |
-| Player | Daniel Rodriguez  |
+| Player | Daniel Rodriguez |
 | Player | David Hawbecker |
 | Player | Emily Cassidy |
 | Player | Hossein Mohammed |
