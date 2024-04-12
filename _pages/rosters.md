@@ -148,7 +148,6 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | ---------- | ---------- |
 | Player | Aum "Ω" Vyas |
 | Player | Fan Wu |
-| Player | Hua Jiao |
 | Player | Jaime Esper |
 | Player | Jimmy Ni "Cricket" |
 | Player | Khashy Parsay |
@@ -170,10 +169,8 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Player | Andy Vernor |
 | Player | Anibal Robles  |
 | Player | Brian Cox |
-| Player | Daniel Rodriguez |
 | Player | David Hawbecker |
 | Player | Emily Cassidy |
-| Player | Hossein Mohammed |
 | Player | Nico Moldovean  |
 | Player | Paul Kennedy |
 | Player | Ramon Luquin |
@@ -197,7 +194,6 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Player | Curtiss Burnett |
 | Player | Ed Santos Jr |
 | Player | Ed "Tio" Santos Sr |
-| Player | Edwin Garzon |
 | Player | Masoud Soltanveis |
 | Player | Miguel Briones Ruiz |
 | Player | Moustafa "Mo" Ahmed |
