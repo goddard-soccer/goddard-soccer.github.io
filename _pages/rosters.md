@@ -10,9 +10,9 @@ permalink: /rosters/
     PSA
 </div>
 <div class="card-body" markdown=1>
-These are not the final rosters, this a preliminary cut for exec team purposes. Balancing will occur after more sign ups :D
+**These are not the final rosters**, this a preliminary cut for exec team purposes. Balancing will occur after more sign ups :D
 
-Generally speaking we are trying to retain previous teams, but with some edits to ensure competitive play.
+Generally speaking we are trying to retain previous teams, but there will be some edits to ensure competitive play.
 </div>
 </div>
 
@@ -52,6 +52,7 @@ Generally speaking we are trying to retain previous teams, but with some edits t
 | Player | John Baker |
 | Player | Joseph Galassi |
 | Player | Joseph Watson |
+| Player | Hua Jiao |
 | Player | Lucas Hayes |
 | General | Luis "Spaniard" Rodriguez Decimus Maridius |
 | Player | Luke Amatucci |
@@ -72,9 +73,11 @@ Generally speaking we are trying to retain previous teams, but with some edits t
 | The Antichrist | **Brandon Burkdroper** |
 | Player | Constantine Hadjidimoulas |
 | Player | Daniel Jansen |
+| Guest | Daniel Rodriguez |
 | Player | **Garrett Layne** |
 | Female/Guest | Kaylie Vess |
 | Player | Kyle Demmerle |
+| Player | Hossein M. Khan |
 | Player | **Marcello Rodriguez** |
 | Player | Marco Tanda |
 | Player | Michael MacKay |
@@ -199,6 +202,7 @@ Generally speaking we are trying to retain previous teams, but with some edits t
 | Player | Miguel Briones Ruiz |
 | Player | Moustafa "Mo" Ahmed |
 | Player | Najaf Ali  |
+| Player | Stavros Katsas |
 | Player | Tony Cazeau |
 | Player | Tony Martinez |
 
