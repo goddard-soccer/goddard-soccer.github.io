@@ -124,12 +124,10 @@ Generally speaking we are trying to retain previous teams, but with some edits t
 | Player | Amy McNally |
 | Player | Derek Val-Addo |
 | Player | Francois Mernier |
-| Player | Fredrick Naikal |
 | Player | Jeremy Gross |
 | Player | Nhut Truong |
 | Player | Steven Owolabi |
 | Player | Taiwo Oluyemo |
-| Player | Theresa Bender |
 | Player | Tyler Salkowski |
 | Player | Uzoije Anison |
 | Player | Zack Chilton |
