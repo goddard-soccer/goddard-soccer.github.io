@@ -71,6 +71,7 @@ Generally speaking we are trying to retain previous teams, but with some edits t
 | ---------- | ---------- |
 | The Antichrist | **Brandon Burkdroper** |
 | Player | Constantine Hadjidimoulas |
+| Player | Daniel Jansen |
 | Player | **Garrett Layne** |
 | Female/Guest | Kaylie Vess |
 | Player | Kyle Demmerle |
@@ -94,6 +95,7 @@ Generally speaking we are trying to retain previous teams, but with some edits t
 | ---------- | ---------- |
 | Player | Anders Lundkvist |
 | Player | Ben Winkler |
+| Player | Edwin Garzon |
 | Player | Eric "Florida" Poole |
 | Player | **Jack Topper** |
 | Player | Joaqin Chaves |
