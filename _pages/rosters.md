@@ -27,10 +27,12 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Co-Captain | Lateef Ajayi |
 | ---------- | ---------- |
 | Player | **Grant "50 Cal" Barrett** |
+| Player | Francois Mernier |
 | Player | Ian Carroll |
 | Guest | **Jordan Gasaway** |
 | Player | **Keegan O'Connor** |
 | Player | Miguel Hernandez |
+| Player | Nhut Truong |
 | Player | **Will Alberding** |
 
 </div>
