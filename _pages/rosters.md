@@ -82,6 +82,7 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Player | **Marcello Rodriguez** |
 | Player | Marco Tanda |
 | Player | Michael MacKay |
+| Player | Nima Pahlevan |
 | Player | **Rosembeth Lopez** |
 | Player | Timothy Wilcox |
 
