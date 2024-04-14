@@ -72,7 +72,6 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Captain | Payum Shakoorzadeh |
 | Co-Captain | Carlos Aguilar |
 | ---------- | ---------- |
-| The Antichrist | **Brandon Burkdroper** |
 | Player | Constantine Hadjidimoulas |
 | Player | Daniel Jansen |
 | Guest | Daniel Rodriguez |
@@ -100,6 +99,7 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | ---------- | ---------- |
 | Player | Anders Lundkvist |
 | Player | Ben Winkler |
+| The Antichrist | **Brandon Burkdroper** |
 | Player | Edwin Garzon |
 | Player | Eric "Florida" Poole |
 | Player | **Jack Topper** |
