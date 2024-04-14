@@ -100,6 +100,7 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Player | Anders Lundkvist |
 | Player | Ben Winkler |
 | The Antichrist | **Brandon Burkdroper** |
+| Player | Drinor Cacaj |
 | Player | Edwin Garzon |
 | Player | Eric "Florida" Poole |
 | Player | **Jack Topper** |
