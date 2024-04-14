@@ -130,9 +130,7 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | ---------- | ---------- |
 | Player | Amy McNally |
 | Player | Derek Val-Addo |
-| Player | Francois Mernier |
 | Player | Jeremy Gross |
-| Player | Nhut Truong |
 | Player | Steven Owolabi |
 | Player | Taiwo Oluyemo |
 | Player | Tyler Salkowski |
