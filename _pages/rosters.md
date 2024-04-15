@@ -26,8 +26,10 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Female | Kate Fowee Gasaway |
 | Co-Captain | Lateef Ajayi |
 | ---------- | ---------- |
-| Player | **Grant "50 Cal" Barrett** |
+| Player | Ben Winkler |
 | Player | Francois Mernier |
+| Player | **Grant "50 Cal" Barrett** |
+| Goalie | Hossein M. Khan |
 | Player | Ian Carroll |
 | Guest | **Jordan Gasaway** |
 | Player | **Keegan O'Connor** |
@@ -53,11 +55,11 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Player | **Hessam Izadkhah** |
 | Player | John Baker |
 | Player | Joseph Galassi |
-| Player | Joseph Watson |
 | Player | Hua Jiao |
-| Player | Lucas Hayes |
+| Goalie | Lucas Hayes |
 | General | Luis "Spaniard" Rodriguez Decimus Maridius |
 | Player | Luke Amatucci |
+| Player | **Nicholas Martucci** |
 | Guest | **Trevor "Hat" Robinson** |
 
 </div>
@@ -78,12 +80,11 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Player | **Garrett Layne** |
 | Female/Guest | Kaylie Vess |
 | Player | Kyle Demmerle |
-| Player | Hossein M. Khan |
 | Player | **Marcello Rodriguez** |
 | Player | Marco Tanda |
 | Player | Michael MacKay |
 | Player | Nima Pahlevan |
-| Player | **Rosembeth Lopez** |
+| Goalie | **Rosembeth Lopez** |
 | Player | Timothy Wilcox |
 
 </div>
@@ -99,15 +100,14 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Co-Captain | Dan Dassoulas |
 | ---------- | ---------- |
 | Player | Anders Lundkvist |
-| Player | Ben Winkler |
 | The Antichrist | **Brandon Burkdroper** |
 | Player | Drinor Cacaj |
 | Player | Edwin Garzon |
 | Player | Eric "Florida" Poole |
 | Player | **Jack Topper** |
 | Player | Joaqin Chaves |
+| Player | Joseph Watson |
 | Female | Naomi Park |
-| Player | **Nicholas Martucci** |
 | Female | Sierra "Nevada" Budinoff |
 | Player | **Tyler ";)" Lee** |
 | Player | Tyler Parsotan |
