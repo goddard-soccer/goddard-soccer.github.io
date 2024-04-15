@@ -29,7 +29,6 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Player | Ben Winkler |
 | Player | Francois Mernier |
 | Player | **Grant "50 Cal" Barrett** |
-| Goalie | Hossein M. Khan |
 | Player | Ian Carroll |
 | Guest | **Jordan Gasaway** |
 | Player | **Keegan O'Connor** |
@@ -78,6 +77,7 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Player | Daniel Jansen |
 | Guest | Daniel Rodriguez |
 | Player | **Garrett Layne** |
+| Player | Hossein M. Khan |
 | Player | **Jack Topper** |
 | Female/Guest | Kaylie Vess |
 | Player | Kyle Demmerle |
