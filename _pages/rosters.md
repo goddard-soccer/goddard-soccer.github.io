@@ -78,12 +78,12 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Player | Daniel Jansen |
 | Guest | Daniel Rodriguez |
 | Player | **Garrett Layne** |
+| Player | **Jack Topper** |
 | Female/Guest | Kaylie Vess |
 | Player | Kyle Demmerle |
 | Player | **Marcello Rodriguez** |
 | Player | Marco Tanda |
 | Player | Michael MacKay |
-| Player | Nima Pahlevan |
 | Goalie | **Rosembeth Lopez** |
 | Player | Timothy Wilcox |
 
@@ -104,10 +104,10 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Player | Drinor Cacaj |
 | Player | Edwin Garzon |
 | Player | Eric "Florida" Poole |
-| Player | **Jack Topper** |
 | Player | Joaqin Chaves |
 | Player | Joseph Watson |
 | Female | Naomi Park |
+| Player | Nima Pahlevan |
 | Female | Sierra "Nevada" Budinoff |
 | Player | **Tyler ";)" Lee** |
 | Player | Tyler Parsotan |
