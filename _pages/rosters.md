@@ -115,6 +115,7 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Female | Sierra "Nevada" Budinoff |
 | Player | **Tyler ";)" Lee** |
 | Player | Tyler Parsotan |
+| Player | Victor Tran |
 
 </div>
 </div>
