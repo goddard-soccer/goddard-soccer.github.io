@@ -27,11 +27,13 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Co-Captain | Lateef Ajayi |
 | ---------- | ---------- |
 | Player | Ben Winkler |
+| Player | Chris Pagán |
 | Player | Francois Mernier |
 | Player | **Grant "50 Cal" Barrett** |
 | Player | Ian Carroll |
 | Guest | **Jordan Gasaway** |
 | Player | **Keegan O'Connor** |
+| Player | Mahdi Alimardani |
 | Player | Miguel Hernandez |
 | Player | Nhut Truong |
 | Player | **Will Alberding** |
@@ -86,6 +88,7 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Player | Michael MacKay |
 | Goalie | **Rosembeth Lopez** |
 | Player | Timothy Wilcox |
+| Player | Zoran Kahric |
 
 </div>
 </div>
@@ -106,6 +109,7 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Player | Eric "Florida" Poole |
 | Player | Joaqin Chaves |
 | Player | Joseph Watson |
+| Player | Juan Gomez |
 | Female | Naomi Park |
 | Player | Nima Pahlevan |
 | Female | Sierra "Nevada" Budinoff |
