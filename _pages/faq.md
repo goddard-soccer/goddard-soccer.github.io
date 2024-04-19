@@ -27,6 +27,9 @@ A: Look at the Goddard Sports Soccer Teams page for step by step instructions.
 Q: I don't have Venmo to pay league fees, can I still participate?<br>
 A: Yes, however, we strongly prefer league fee payments via Venmo. If you do not have Venmo, please email nasagoddardsoccer@gmail.com for alternative payment options. 
 
+Q: I can't make every scheduled game, can I still participate?<br>
+A: Yes! We understand that players may not be able to attend every game. Once placed on a team, please coordinate with the associated Team Captain to inform them of your availability.  
+
 Q: Does GSL hold weekly pick-up games?<br>
 A: GSL only holds weekly pick-up games outside of active league seasons when daylight and weather permit. Weekly pickup games begin at 5PM and are held on the Main Lawn in between Buildings 1 and 3/14. For more information on pickup games, please join our Teams channel!
 
