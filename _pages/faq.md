@@ -12,11 +12,25 @@ Q: Where are the games played?<br>
 A: Games will take place at the Goddard soccer field behind the B11 parking lot, just look for the sign!
 <img src="/images/map.jpg" class="img-fluid rounded" />
 
+Q: How long are the games?<br>
+A: Eaach game consists of two 35-minute halves with a 5-minute half-time in between periods. 
+
+Q: Who can join the league?<br>
+A: GSL is operated under Goddard's Employee Welfare Association (GEWA) and is open to all badged Goddard employees. The league is co-ed and is open to players of all skill levels! We welcome and encourage everyone interested in the sport of soccer to participate. 
+
 Q: Can I bring a guest?<br>
 A: Yes! We are permitting one guest per badged employee
 
 Q: How do I get my guest in?<br>
-A: Look at the Goddard Sports soccer teams page for step by step instructions.
+A: Look at the Goddard Sports Soccer Teams page for step by step instructions.
+
+Q: I don't have Venmo to pay league fees, can I still participate?<br>
+A: Yes, however, we strongly prefer league fee payments via Venmo. If you do not have Venmo, please email nasagoddardsoccer@gmail.com for alternative payment options. 
+
+Q: Does GSL hold weekly pick-up games?<br>
+A: GSL only holds weekly pick-up games outside of active league seasons when daylight and weather permit. Weekly pickup games begin at 5PM and are held on the Main Lawn in between Buildings 1 and 3/14. For more information on pickup games, please join our Teams channel!
+
+
 </div>
 
 </div>
