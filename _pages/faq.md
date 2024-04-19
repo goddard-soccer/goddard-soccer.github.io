@@ -13,7 +13,7 @@ A: Games will take place at the Goddard soccer field behind the B11 parking lot,
 <img src="/images/map.jpg" class="img-fluid rounded" />
 
 Q: How long are the games?<br>
-A: Eaach game consists of two 35-minute halves with a 5-minute half-time in between periods. 
+A: Each game consists of two 35-minute halves with a 5-minute half-time in between periods. 
 
 Q: Who can join the league?<br>
 A: GSL is operated under Goddard's Employee Welfare Association (GEWA) and is open to all badged Goddard employees. The league is co-ed and is open to players of all skill levels! We welcome and encourage everyone interested in the sport of soccer to participate. 
@@ -31,8 +31,7 @@ Q: I can't make every scheduled game, can I still participate?<br>
 A: Yes! We understand that players may not be able to attend every game. Once placed on a team, please coordinate with the associated Team Captain to inform them of your availability.  
 
 Q: Does GSL hold weekly pick-up games?<br>
-A: GSL only holds weekly pick-up games outside of active league seasons when daylight and weather permit. Weekly pickup games begin at 5PM and are held on the Main Lawn in between Buildings 1 and 3/14. For more information on pickup games, please join our Teams channel!
-
+A: GSL only holds weekly pick-up games outside of active league seasons when daylight and weather permit. Weekly pickup games begin at 5PM and are held on the Main Lawn in between Buildings 1 and 3/14. For more information on pickup games, please join our [Teams channel](https://teams.microsoft.com/l/team/19%3ag6UYrqOstWyW6S9Q-_jaSfmMqjkvoZauibWuiVI-HcY1%40thread.tacv2/conversations?groupId=5a25d439-e73f-44bf-9232-5bc6fd755435&tenantId=7005d458-45be-48ae-8140-d43da96dd17b)!
 
 </div>
 
