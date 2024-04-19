@@ -115,7 +115,7 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | ---------- | ---------- |
 | Player | Anders Lundkvist |
 | Antichrist | Brandon Burkdroper |
-| Player | Edwin Garzon |
+| Player | Edwin "The Revolution" Garzon |
 | Player | Eric "Florida" Poole |
 | Player | Joaqin Chaves |
 | Player | John Lloyd |
