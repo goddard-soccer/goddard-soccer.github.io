@@ -114,7 +114,7 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Co-Captain | Dan Dassoulas |
 | ---------- | ---------- |
 | Player | Anders Lundkvist |
-| The Antichrist | Brandon Burkdroper |
+| Antichrist | Brandon Burkdroper |
 | Player | Edwin Garzon |
 | Player | Eric "Florida" Poole |
 | Player | Joaqin Chaves |
@@ -124,7 +124,7 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Player | Justin Brannan |
 | Player | Juan Novillo |
 | Player | Nima Pahlevan |
-| Female | Sierra "Nevada" Budinoff |
+| Player | Sierra "Nevada" Budinoff |
 | Player | Tyler ";)" Lee |
 | Player | Tyler Parsotan |
 | Player | Victor Tran |
