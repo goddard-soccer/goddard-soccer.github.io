@@ -34,7 +34,7 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Player | Donnell Lassiter |
 | Player | Drinor Cacaj |
 | Player | Erin Rogers |
-| Player | Francois Mernier |
+| Player | Francois "Hazard" Mernier |
 | Player | Grant "50 Cal" Barrett |
 | Player | Ian Carroll |
 | Player | James Riordon |
