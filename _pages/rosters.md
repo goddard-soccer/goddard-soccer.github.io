@@ -58,7 +58,7 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Co-Captain | Dayne Ford |
 | ---------- | ---------- |
 | Player | Ali Vakili |
-| Player | Aum Vyas | 3 |
+| Player | Aum Vyas |
 | Player | Andrew McVey |
 | Player | Dorukhan "Ecomaster" Ardag |
 | Player | Hessam Izadkhah |
