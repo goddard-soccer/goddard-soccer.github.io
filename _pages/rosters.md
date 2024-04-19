@@ -5,6 +5,7 @@ permalink: /rosters/
 ---
 
 <!-- begin row news updates -->
+<!--
 <div class="card bg-light text-center my-3">
 <div class="card-header text-center">
     PSA
@@ -15,6 +16,8 @@ permalink: /rosters/
 Generally speaking we are trying to retain previous teams, but there will be some edits to ensure competitive play.
 </div>
 </div>
+-->
+<!-- end row news updates -->
 
 <div class="row">
 
@@ -23,20 +26,24 @@ Generally speaking we are trying to retain previous teams, but there will be som
 <div class="card-header text-center text-white bg-green">Green</div>
 <div class="card-body w-100" markdown=1>
 
-| Female | Kate Fowee Gasaway |
+| Captain | Kate Gasaway |
 | Co-Captain | Lateef Ajayi |
 | ---------- | ---------- |
 | Player | Ben Winkler |
 | Player | Chris Pagán |
+| Player | Donnell Lassiter |
+| Player | Drinor Cacaj |
+| Player | Erin Rogers |
 | Player | Francois Mernier |
-| Player | **Grant "50 Cal" Barrett** |
+| Player | Grant "50 Cal" Barrett |
 | Player | Ian Carroll |
-| Guest | **Jordan Gasaway** |
-| Player | **Keegan O'Connor** |
+| Player | James Riordon |
+| Player | Jordan Gasaway |
+| Player | Keegan O'Connor |
 | Player | Mahdi Alimardani |
 | Player | Miguel Hernandez |
 | Player | Nhut Truong |
-| Player | **Will Alberding** |
+| Player | Ramon Luquin |
 
 </div>
 </div>
@@ -47,21 +54,24 @@ Generally speaking we are trying to retain previous teams, but there will be som
 <div class="card-header text-center text-white bg-orange">Orange</div>
 <div class="card-body w-100" markdown=1>
 
-| Captain | **David "Cats" Katzenberg** |
-| Female | Dayne Ford |
+| Captain | David "Cats" Katzenberg |
+| Co-Captain | Dayne Ford |
 | ---------- | ---------- |
-| Guest | Ali Vakili |
+| Player | Ali Vakili |
+| Player | Aum Vyas | 3 |
 | Player | Andrew McVey |
 | Player | Dorukhan "Ecomaster" Ardag |
-| Player | **Hessam Izadkhah** |
+| Player | Hessam Izadkhah |
+| Player | Jason Emperador |
 | Player | John Baker |
-| Player | Joseph Galassi |
+| Player | Joe "Flyers" Galassi |
+| Player | Joseph Watson |
 | Player | Hua Jiao |
 | Goalie | Lucas Hayes |
 | General | Luis "Spaniard" Rodriguez Decimus Maridius |
 | Player | Luke Amatucci |
-| Player | **Nicholas Martucci** |
-| Guest | **Trevor "Hat" Robinson** |
+| Player | Nicholas Martucci |
+| Player | Trevor "Hat" Robinson |
 
 </div>
 </div>
@@ -77,17 +87,18 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | ---------- | ---------- |
 | Player | Constantine Hadjidimoulas |
 | Player | Daniel Jansen |
-| Guest | Daniel Rodriguez |
-| Player | **Garrett Layne** |
+| Player | Daniel Rodriguez |
+| Player | Garrett Layne |
 | Player | Hossein M. Khan |
-| Player | **Jack Topper** |
-| Female/Guest | Kaylie Vess |
+| Player | Jack Topper |
+| Player | Kaylie Vess |
 | Player | Kyle Demmerle |
-| Player | **Marcello Rodriguez** |
+| Player | Marcello Rodriguez |
 | Player | Marco Tanda |
 | Player | Michael MacKay |
-| Goalie | **Rosembeth Lopez** |
+| Goalie | Rosembeth Lopez |
 | Player | Timothy Wilcox |
+| Player | Will Alberding |
 | Player | Zoran Kahric |
 
 </div>
@@ -103,17 +114,18 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Co-Captain | Dan Dassoulas |
 | ---------- | ---------- |
 | Player | Anders Lundkvist |
-| The Antichrist | **Brandon Burkdroper** |
-| Player | Drinor Cacaj |
+| The Antichrist | Brandon Burkdroper |
 | Player | Edwin Garzon |
 | Player | Eric "Florida" Poole |
 | Player | Joaqin Chaves |
-| Player | Joseph Watson |
+| Player | John Lloyd |
+| Player | Josiah Killam |
 | Player | Juan Gomez |
-| Female | Naomi Park |
+| Player | Justin Brannan |
+| Player | Juan Novillo |
 | Player | Nima Pahlevan |
 | Female | Sierra "Nevada" Budinoff |
-| Player | **Tyler ";)" Lee** |
+| Player | Tyler ";)" Lee |
 | Player | Tyler Parsotan |
 | Player | Victor Tran |
 
@@ -121,9 +133,10 @@ Generally speaking we are trying to retain previous teams, but there will be som
 </div>
 </div>
 
-</div> <!-- end row -->
+</div>
+<!-- end row -->
 
-
+<!--
 <div class="row">
 
 <div class="col-md-3">
@@ -131,7 +144,7 @@ Generally speaking we are trying to retain previous teams, but there will be som
 <div class="card-header text-center text-white bg-green">Green</div>
 <div class="card-body w-100" markdown=1>
 
-| Recruiter | Kate Fowee Gasaway |
+| Recruiter | Kate Gasaway |
 | ---------- | ---------- |
 | Player | Amy McNally |
 | Player | Derek Val-Addo |
@@ -180,7 +193,6 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Player | Emily Cassidy |
 | Player | Nico Moldovean  |
 | Player | Paul Kennedy |
-| Player | Ramon Luquin |
 | Player | Sepehr Sarbakhshian |
 | Player | Tosh Keune |
 
@@ -205,7 +217,6 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Player | Miguel Briones Ruiz |
 | Player | Moustafa "Mo" Ahmed |
 | Player | Najaf Ali  |
-| Player | Stavros Katsas |
 | Player | Tony Cazeau |
 | Player | Tony Martinez |
 
@@ -213,4 +224,6 @@ Generally speaking we are trying to retain previous teams, but there will be som
 </div>
 </div>
 
-</div> <!-- end row -->
+</div>
+--> 
+<!-- end row -->
