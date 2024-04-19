@@ -42,7 +42,7 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Player | Keegan O'Connor |
 | Player | Mahdi Alimardani |
 | Player | Miguel Hernandez |
-| Player | Nhut Truong |
+| Player | Nhut "DUKE NHUT'M" Truong |
 | Player | Ramon Luquin |
 
 </div>

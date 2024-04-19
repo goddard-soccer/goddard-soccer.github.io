@@ -19,7 +19,7 @@ Q: Who can join the league?<br>
 A: GSL is operated under Goddard's Employee Welfare Association (GEWA) and is open to all badged Goddard employees. The league is co-ed and is open to players of all skill levels! We welcome and encourage everyone interested in the sport of soccer to participate. 
 
 Q: Can I bring a guest?<br>
-A: Yes! We are permitting one guest per badged employee
+A: Yes! We are permitting one guest per badged employee.
 
 Q: How do I get my guest in?<br>
 A: Look at the Goddard Sports Soccer Teams page for step by step instructions.
