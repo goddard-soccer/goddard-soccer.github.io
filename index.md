@@ -59,27 +59,6 @@ We are currently planning the 2024 season! The goal will be 6 teams with Blue an
 </div>
 </div> -->
 
-<!-- begin row leading goal scorer -->
-<!-- <div class="card bg-light text-center my-3">
-<div class="card-header text-center">
-    2023 Leading Goal Scorer
-</div>
-<div class="card-body" markdown=1>
-<div class="d-flex justify-content-center">
-<div class="overflow-auto w-100">
-
-<table>
-    <tr>
-        <th class="bg-purple px-4">Brandon "🫏" Burdenloader</th>
-        <th class="bg-rainbow px-4" onclick="playSound('firework')">41 Goals!<br>⭐ You're a superstar!!! ⭐</th>
-    </tr>
-</table>
-
-</div>
-</div>
-</div>
-</div> -->
-
 <!-- begin row teams -->
 <div class="card bg-light text-center mt-3">
 <div class="card-header text-center">
@@ -117,6 +96,26 @@ We are currently planning the 2024 season! The goal will be 6 teams with Blue an
             <img src="/images/teams/white.jpg" class="img-fluid rounded"/>
         </a>
     </div> -->
+</div>
+</div>
+</div>
+
+<!-- begin row leading goal scorer -->
+<div class="card bg-light text-center mt-3">
+<div class="card-header text-center">
+    How many goals has Brandon scored?
+</div>
+<div class="card-body" markdown=1>
+<div class="d-flex justify-content-center">
+<div class="overflow-auto w-100">
+
+<table>
+    <tr>
+        <th class="bg-rainbow px-4" onclick="playSound('firework')"><h2>0 Goals!</h2><h4>⭐ "We're so proud of you XOXOXOXO" - Mom ⭐</h4></th>
+    </tr>
+</table>
+
+</div>
 </div>
 </div>
 </div>
