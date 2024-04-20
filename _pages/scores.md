@@ -223,6 +223,22 @@ permalink: /scores/
 {% for row in site.data.schedule %}
     {% if row.Date == nil %}
         {% break %}
+    {% elsif row.Date == "Break" %}
+    <div class="col-sm-12">
+        <div class="card my-2">
+            <div class="card-header">
+                Break
+            </div>
+            <div class="card-body p-0 overflow">
+                <div class="row mx-auto">
+                    <div class="col-12 p-2" style="border-radius: 0 0 5px 5px">
+                        {{ row.Home }}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+        {% continue %}
     {% endif %}
     <div class="col-sm-6">
         <div class="card my-2">

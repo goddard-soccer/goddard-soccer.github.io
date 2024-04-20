@@ -44,7 +44,6 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Player | Miguel Hernandez |
 | Player | Nhut "DUKE NHUT'M" Truong |
 | Player | Ramon Luquin |
-| Player | Stavros Katsas |
 
 </div>
 </div>
