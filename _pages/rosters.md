@@ -97,7 +97,7 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Player | Marcello Rodriguez |
 | Player | Marco Tanda |
 | Player | Michael MacKay |
-| Goalie | Rosembeth Lopez |
+| Goalie | Rosemberth Lopez |
 | Player | Timothy Wilcox |
 | Player | Will Alberding |
 | Player | Zoran Kahric |
