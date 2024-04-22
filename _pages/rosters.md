@@ -72,6 +72,7 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | General | Luis "Spaniard" Rodriguez Decimus Maridius |
 | Player | Luke Amatucci |
 | Player | Nicholas Martucci |
+| Player | Tony Cazeau |
 | Player | Trevor "Hat" Robinson |
 
 </div>
