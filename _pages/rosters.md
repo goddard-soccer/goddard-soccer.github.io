@@ -31,6 +31,7 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | ---------- | ---------- |
 | Player | Ben Winkler |
 | Player | Chris Pagán |
+| Player | Derek Val |
 | Player | Donnell Lassiter |
 | Player | Drinor Cacaj |
 | Player | Erin Rogers |
@@ -42,6 +43,7 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Player | Keegan O'Connor |
 | Player | Mahdi Alimardani |
 | Player | Miguel Hernandez |
+| Player | Nobel Sindjui |
 | Player | Nhut "DUKE NHUT'M" Truong |
 | Player | Ramon Luquin |
 | Player | Stavros Katsas |
@@ -87,12 +89,14 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Captain | Payum Shakoorzadeh |
 | Co-Captain | Carlos Aguilar |
 | ---------- | ---------- |
+| Player | Brandon Bustillo |
 | Player | Constantine Hadjidimoulas |
 | Player | Daniel Jansen |
 | Player | Daniel Rodriguez |
 | Player | Garrett Layne |
 | Player | Hossein M. Khan |
 | Player | Jack Topper |
+| Player | Jordan Whiting |
 | Player | Kaylie Vess |
 | Player | Kyle Demmerle |
 | Player | Marcello Rodriguez |
@@ -117,6 +121,7 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | ---------- | ---------- |
 | Player | Anders Lundkvist |
 | Antichrist | Brandon Burkdroper |
+| Player | Christian Naylor |
 | Player | Edwin "The Revolution" Garzon |
 | Player | Eric "Florida" Poole |
 | Player | Joaqin Chaves |
