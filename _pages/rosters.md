@@ -126,6 +126,7 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Player | Christian Naylor |
 | Player | Edwin "The Revolution" Garzon |
 | Player | Eric "Florida" Poole |
+| Player | Holum Fong |
 | Player | Joaqin Chaves |
 | Player | John Garrett |
 | Player | John Lloyd |
