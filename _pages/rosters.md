@@ -125,6 +125,7 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Player | Edwin "The Revolution" Garzon |
 | Player | Eric "Florida" Poole |
 | Player | Joaqin Chaves |
+| Player | John Garrett |
 | Player | John Lloyd |
 | Player | Josiah Killam |
 | Player | Juan Gomez |
