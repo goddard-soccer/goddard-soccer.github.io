@@ -60,9 +60,11 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Captain | David "Cats" Katzenberg |
 | Co-Captain | Dayne Ford |
 | ---------- | ---------- |
+| Player | Addison Johnson-Green |
 | Player | Ali Vakili |
-| Player | Aum "Ω" Vyas |
 | Player | Andrew McVey |
+| Player | Aum "Ω" Vyas |
+| Player | Ava Afghahi |
 | Player | Dorukhan "Ecomaster" Ardag |
 | Player | Hessam Izadkhah |
 | Player | Jason Emperador |
