@@ -101,19 +101,50 @@ We are currently planning the 2024 season! The goal will be 6 teams with Blue an
 </div>
 
 <!-- begin row leading goal scorer -->
+<script>
+    const bfacts = [
+        "Brandon draws circles at a below-average first grader level.",
+        "Brandon spits out the sunflower seeds and eats the shells.",
+        "Brandon swapped the water pipes out for lead ones because he likes the taste.",
+        "Brandon doesn't think Shania Twain is the greatest country singer of all time.",
+        "Brandon puts one chopstick in each hand and uses the wide end.",
+        "Brandon doesn't like dogs because they \"want to hang out too much\".",
+        "Brandon thinks Allie should have stayed with Lon instead choosing Noah.",
+        "Brandon tapes every Dane Cook stand up routine on his VCR.",
+        "Brandon can't pronounce basic words like \"water\" and \"Florida\".",
+        "Brandon has totaled a car in a driveway.",
+        "Brandon thinks we should move the nation's capitol to Des Moines.",
+        "Brandon was glad Jeopardy moved on from Alex Trebek.",
+        "Brandon celebrates Harambe's death annually.",
+        "Brandon shuffles playing cards face up.",
+        "Brandon has missed penalty kicks for throw ins.",
+        "Brandon holds computer mice with two hands.",
+        "Brandon complains that Sesame Street \"isn't political enough\".",
+        "Brandon brings his own sand to the beach because \"beach sand is too coarse\".",
+        "Brandon thinks the fuchsia crayons have a more refined taste than the sea green crayons.",
+        "Brandon doesn't sing happy birthday to children under 10.",
+    ];
+
+    function bfactGen() {
+        bfactsInt = Math.floor(Math.random() * bfacts.length);
+        document.getElementById("bfact").innerHTML = 'Fact #' + (bfactsInt+1) + ': ' + bfacts[bfactsInt];
+    }
+</script>
+
 <div class="card bg-light text-center mt-3">
 <div class="card-header text-center">
     How many goals has Brandon scored?
 </div>
-<div class="card-body" markdown=1>
+<div class="card-body bg-rainbow" onclick="playSound('hero'); bfactGen();" markdown=1>
 <div class="d-flex justify-content-center">
 <div class="overflow-auto w-100">
 
-<table>
-    <tr>
-        <th class="bg-rainbow px-4" onclick="playSound('firework')"><h2>6 Goals!</h2><h4>Brandon Fact: Your average 1st grader draws better circles than Brandon.</h4></th>
-    </tr>
-</table>
+<h2>6 Goals!</h2>
+<h4 id="bfact">Fact #1: Brandon draws circles at a below-average first grader level.</h4>
+
+<script>
+    bfactGen();
+</script>
 
 </div>
 </div>

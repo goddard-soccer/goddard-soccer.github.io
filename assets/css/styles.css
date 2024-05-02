@@ -101,13 +101,14 @@ td {
 }
 
 .bg-rainbow {
-  background: linear-gradient(to right, red, orange, yellow, green, blue, violet, red);
-  background-size: 200% 200%;
-  animation: animateGlow 5s linear infinite;
+  background: linear-gradient(45deg, red, orange, yellow, green, blue, violet, red);
+  background-size: 400% 400%;
   font-family: comic-sans;
   color: black;
-  -webkit-text-stroke-width: 0.5px;
+  text-shadow: 0 0 14px white;
+  -webkit-text-stroke-width: 0.2px;
   -webkit-text-stroke-color: white;
+  animation: animateGlow 15s linear infinite;
 }
 
 @keyframes animateGlow {
@@ -115,7 +116,7 @@ td {
     background-position: 0% 50%;
   }
   100% {
-    background-position: 200% 50%;
+    background-position: 400% 50%;
   }
 }
 
