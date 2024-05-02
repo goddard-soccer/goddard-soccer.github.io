@@ -115,7 +115,7 @@ We are currently planning the 2024 season! The goal will be 6 teams with Blue an
         "Brandon has totaled a car in a driveway.",
         "Brandon thinks we should move the nation's capitol to Des Moines.",
         "Brandon was glad Jeopardy moved on from Alex Trebek.",
-        "Brandon celebrates Harambe's death annually.",
+        "Brandon celebrates on Harambe rememberance day.",
         "Brandon shuffles playing cards face up.",
         "Brandon has missed penalty kicks for throw ins.",
         "Brandon holds computer mice with two hands.",
@@ -123,6 +123,11 @@ We are currently planning the 2024 season! The goal will be 6 teams with Blue an
         "Brandon brings his own sand to the beach because \"beach sand is too coarse\".",
         "Brandon thinks the fuchsia crayons have a more refined taste than the sea green crayons.",
         "Brandon doesn't sing happy birthday to children under 10.",
+        "Brandon orders sparkling water at beer gardens.",
+        "Brandon doesn't think Hakuna Matata is a wonderful phrase.",
+        "Brandon maintains that Pokemon should be pay-to-win.",
+        "Brandon uses hydroponics to grow mosquito larvae.",
+        "Brandon protested the release of Harry Potter and the Deathly Hallows.",
     ];
 
     function bfactGen() {
