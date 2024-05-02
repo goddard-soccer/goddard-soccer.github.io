@@ -111,7 +111,7 @@ We are currently planning the 2024 season! The goal will be 6 teams with Blue an
 
 <table>
     <tr>
-        <th class="bg-rainbow px-4" onclick="playSound('firework')"><h2>0 Goals!</h2><h4>⭐ "We're so proud of you XOXOXOXO" - Mom ⭐</h4></th>
+        <th class="bg-rainbow px-4" onclick="playSound('firework')"><h2>6 Goals!</h2><h4>Brandon Fact: Your average 1st grader draws better circles than Brandon.</h4></th>
     </tr>
 </table>
 
