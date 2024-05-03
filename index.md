@@ -132,6 +132,7 @@ We are currently planning the 2024 season! The goal will be 6 teams with Blue an
         "Brandon wishes Halloween was always held on a school night.",
         "Brandon is happy the polar ice caps are melting so that \"Santa has no home\".",
         "Brandon advocates against the installation of wheelchair accessibility ramps.",
+        "Brandon licks his fingers after every cheeseball, even when sharing.",
     ];
 
     function bfactGen() {
