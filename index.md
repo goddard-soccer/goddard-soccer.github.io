@@ -128,6 +128,7 @@ We are currently planning the 2024 season! The goal will be 6 teams with Blue an
         "Brandon maintains that Pokemon should be pay-to-win.",
         "Brandon uses hydroponics to grow mosquito larvae.",
         "Brandon protested the release of Harry Potter and the Deathly Hallows.",
+        "Brandon didn't think McCarthyism involved any unlawful persecution or fear mongering.",
     ];
 
     function bfactGen() {

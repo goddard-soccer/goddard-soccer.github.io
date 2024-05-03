@@ -73,7 +73,7 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Player | Joe "Flyers" Galassi |
 | Player | Joseph Watson |
 | Player | Hua Jiao |
-| Goalie | Lucas Hayes |
+| Player | Lucas Hayes |
 | General | Luis "Spaniard" Rodriguez Decimus Maridius |
 | Player | Luke Amatucci |
 | Player | Nicholas Martucci |
@@ -105,7 +105,8 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Player | Marcello Rodriguez |
 | Player | Marco Tanda |
 | Player | Michael MacKay |
-| Goalie | Rosemberth Lopez |
+| Player | Rosemberth Lopez |
+| Player | Sepehr Sarbakhshian |
 | Player | Timothy Wilcox |
 | Player | Will Alberding |
 | Player | Zoran Kahric |
