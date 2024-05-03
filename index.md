@@ -129,6 +129,9 @@ We are currently planning the 2024 season! The goal will be 6 teams with Blue an
         "Brandon uses hydroponics to grow mosquito larvae.",
         "Brandon protested the release of Harry Potter and the Deathly Hallows.",
         "Brandon didn't think McCarthyism involved any unlawful persecution or fear mongering.",
+        "Brandon wishes Halloween was always held on a school night.",
+        "Brandon is happy the polar ice caps are melting so that \"Santa has no home\".",
+        "Brandon advocates against the installation of wheelchair accessibility ramps.",
     ];
 
     function bfactGen() {
