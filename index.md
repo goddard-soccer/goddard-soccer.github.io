@@ -134,6 +134,7 @@ We are currently planning the 2024 season! The goal will be 6 teams with Blue an
         "Brandon advocates against the installation of wheelchair accessibility ramps.",
         "Brandon licks his fingers after every cheeseball, even when sharing.",
         "Brandon tried to sabatoge the Super Soaker factory.",
+        "Brandon secretly tramples on his neighbor's flower garden.",
     ];
 
     function bfactGen() {
