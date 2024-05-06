@@ -123,7 +123,7 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Captain | Kevin Rhoads |
 | Co-Captain | Dan Dassoulas |
 | ---------- | ---------- |
-| Player | Anders Lundkvist |
+| Player | "Colonel" Anders Lundkvist |
 | Antichrist | Brandon Burkdroper |
 | Player | Christian Naylor |
 | Player | Edwin "The Revolution" Garzon |
