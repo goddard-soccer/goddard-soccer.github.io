@@ -135,6 +135,8 @@ We are currently planning the 2024 season! The goal will be 6 teams with Blue an
         "Brandon licks his fingers after every cheeseball, even when sharing.",
         "Brandon tried to sabatoge the Super Soaker factory.",
         "Brandon secretly tramples on his neighbor's flower garden.",
+        "Brandon once brought a ladle to a knife fight.",
+        "Brandon thinks the Golgi apparatus is the powerhouse of the cell.",
     ];
 
     function bfactGen() {
