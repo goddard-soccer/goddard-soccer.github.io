@@ -143,7 +143,7 @@ We are currently planning the 2024 season! The goal will be 6 teams with Blue an
         "Brandon only knows the dry cereal guy living on Drury Lane.",
         "Brandon has invented 17 forms of metastatic cancer to date.",
         "Brandon believes Napoleon's Russian campaign was a strategic masterclass.",
-        "Brandon has gotten multiple perfect 100's on breathalyzer tests.",
+        "Brandon has gotten mostly A's and a few B's on breathalyzer tests.",
         "Brandon beat a koala in a head to head duel the koala didn't know about.",
         "Brandon turns around and goes back upon encountering two roads diverging in a wood.",
         "Brandon always gives a standing ovation when the plane lands.",
