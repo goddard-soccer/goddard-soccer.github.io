@@ -146,6 +146,8 @@ We are currently planning the 2024 season! The goal will be 6 teams with Blue an
         "Brandon has gotten multiple perfect 100's on breathalyzer tests.",
         "Brandon beat a koala in a head to head duel the koala didn't know about.",
         "Brandon turns around and goes back upon encountering two roads diverging in a wood.",
+        "Brandon always gives a standing ovation when the plane lands.",
+        "Brandon thinks McLovin got his driver license from Pennsylvania.",
     ];
 
     function bfactGen() {
