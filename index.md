@@ -149,7 +149,7 @@ We are currently planning the 2024 season! The goal will be 6 teams with Blue an
         "Brandon always gives a standing ovation when the plane lands.",
         "Brandon is under the impression McLovin learned to drive in Pennsylvania.",
         "Brandon thinks horseradish sauce was concocted by \"hardcore left-wing media pundits\".",
-        "Brandon doesn't understand why cheaters eat so much pumpkin.",
+        "Brandon doesn't understand why cheaters have to eat so much pumpkin, but \"it is delicious\".",
     ];
 
     function bfactGen() {
