@@ -147,7 +147,9 @@ We are currently planning the 2024 season! The goal will be 6 teams with Blue an
         "Brandon beat a koala in a head to head duel the koala didn't know about.",
         "Brandon turns around and goes back upon encountering two roads diverging in a wood.",
         "Brandon always gives a standing ovation when the plane lands.",
-        "Brandon thinks McLovin got his driver license from Pennsylvania.",
+        "Brandon is under the impression McLovin learned to drive in Pennsylvania.",
+        "Brandon thinks horseradish sauce was concocted by \"hardcore left-wing media pundits\".",
+        "Brandon doesn't understand why cheaters eat so much pumpkin.",
     ];
 
     function bfactGen() {
