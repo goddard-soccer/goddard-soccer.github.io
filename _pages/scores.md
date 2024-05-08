@@ -169,16 +169,6 @@ permalink: /scores/
         <th>Differential</th>
     </tr>
     <tr>
-        <td class="bg-red text-white">Red</td>
-        <td>{{ redWins }}</td>
-        <td>{{ redDraws }}</td>
-        <td>{{ redLosses }}</td>
-        <td>{{ redPoints }}</td>
-        <td>{{ redFor }}</td>
-        <td>{{ redAgainst }}</td>
-        <td>{{ redDiffer }}</td>
-    </tr>
-    <tr>
         <td class="bg-green text-white">Green</td>
         <td>{{ greenWins }}</td>
         <td>{{ greenDraws }}</td>
@@ -187,6 +177,16 @@ permalink: /scores/
         <td>{{ greenFor }}</td>
         <td>{{ greenAgainst }}</td>
         <td>{{ greenDiffer }}</td>
+    </tr>
+    <tr>
+        <td class="bg-red text-white">Red</td>
+        <td>{{ redWins }}</td>
+        <td>{{ redDraws }}</td>
+        <td>{{ redLosses }}</td>
+        <td>{{ redPoints }}</td>
+        <td>{{ redFor }}</td>
+        <td>{{ redAgainst }}</td>
+        <td>{{ redDiffer }}</td>
     </tr>
     <tr>
         <td class="bg-orange text-white">Orange</td>
