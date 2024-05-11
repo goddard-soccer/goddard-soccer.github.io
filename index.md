@@ -134,7 +134,7 @@ We are currently planning the 2024 season! The goal will be 6 teams with Blue an
         "Brandon advocates against the installation of wheelchair accessibility ramps.",
         "Brandon licks his fingers after every cheeseball, even when sharing.",
         "Brandon was caught trying to sabatoge a Super Soaker manufacturing plant.",
-        "Brandon secretly tramples on his neighbor's flower garden.",
+        "Brandon buys taxidermied deer legs to \"trample his neighbor's flower garden without arousing suspicion\".",
         "Brandon once brought a ladle to a knife fight.",
         "Brandon thinks the Golgi apparatus is the powerhouse of the cell.",
         "Brandon loves Dreamworks Madagascar but doesn't even know the name of the zebra.",
@@ -151,6 +151,12 @@ We are currently planning the 2024 season! The goal will be 6 teams with Blue an
         "Brandon thinks horseradish sauce was concocted by \"hardcore left-wing media pundits\".",
         "Brandon doesn't understand why cheaters have to eat so much pumpkin, but \"it is delicious\".",
         "Brandon buys two gallons of 2% milk and mixes them becuase he only drinks 4%.",
+        "Brandon is an avid cubic-nepturner."
+        "Brandon considers Nickleback's 2nd album, The State, to be more of a \"sensual experience\" than Curb, their 1st.",
+        "Brandon thinks the prime meridian is latitudinal.",
+        "Brandon wanted to be a debt collector specifically for \"impovershied single mothers\" growing up.",
+        "Brandon once said the Shrek soundtrack is \"like no cap pretty mid skibidi rizzler\".",
+        "Brandon brings wire cutters to karoke night becuase he doesn't like how excited people get.", 
     ];
 
     function bfactGen() {
