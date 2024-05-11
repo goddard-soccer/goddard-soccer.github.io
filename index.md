@@ -151,7 +151,7 @@ We are currently planning the 2024 season! The goal will be 6 teams with Blue an
         "Brandon thinks horseradish sauce was concocted by \"hardcore left-wing media pundits\".",
         "Brandon doesn't understand why cheaters have to eat so much pumpkin, but \"it is delicious\".",
         "Brandon buys two gallons of 2% milk and mixes them becuase he only drinks 4%.",
-        "Brandon is an avid cubic-nepturner."
+        "Brandon is an avid cubic-Neptuner."
         "Brandon considers Nickleback's 2nd album, The State, to be more of a \"sensual experience\" than Curb, their 1st.",
         "Brandon thinks the prime meridian is latitudinal.",
         "Brandon wanted to be a debt collector specifically for \"impovershied single mothers\" growing up.",
