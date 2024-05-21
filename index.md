@@ -158,7 +158,8 @@ We are currently planning the 2024 season! The goal will be 6 teams with Blue an
         "Brandon once said the Shrek soundtrack is \"like no cap pretty mid skibidi rizzler\".",
         "Brandon brings wire cutters to karoke night because he doesn't like how excited people get.",
         "Brandon lives in a reality based in object impermanence.",
-        "Brandon once received a speeding ticket for driving down an elementary school hallway to \"avoid traffic\".",
+        "Brandon once received a speeding ticket for driving down an elementary school hallway.",
+        "Brandon files complaints if the flight attendent isn't there within 45 seconds.",
     ];
 
     function bfactGen() {
@@ -175,7 +176,7 @@ We are currently planning the 2024 season! The goal will be 6 teams with Blue an
 <div class="d-flex justify-content-center">
 <div class="overflow-auto w-100">
 
-<h2>8 Goals!</h2>
+<h2>10 Goals!</h2>
 <h4 id="bfact">Fact #1: Brandon draws circles at a below-average first grader level.</h4>
 
 <script>
