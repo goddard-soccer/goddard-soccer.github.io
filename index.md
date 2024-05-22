@@ -152,7 +152,7 @@ We are currently planning the 2024 season! The goal will be 6 teams with Blue an
         "Brandon doesn't understand why cheaters have to eat so much pumpkin, but \"it is delicious\".",
         "Brandon buys two gallons of 2% milk and mixes them because he only drinks 4%.",
         "Brandon is an avid cubic-Neptuner.",
-        "Brandon considers Nickleback's 2nd album, The State, to be more of a \"sensual experience\" than Curb, their 1st.",
+        "Brandon considers Nickleback's 2nd album, The State, to be more \"sensual \" than Curb, their 1st.",
         "Brandon thinks the prime meridian is latitudinal.",
         "Brandon wanted to be a debt collector specifically for \"impovershied single mothers\" growing up.",
         "Brandon once said the Shrek soundtrack is \"like no cap pretty mid skibidi rizzler\".",
@@ -160,6 +160,7 @@ We are currently planning the 2024 season! The goal will be 6 teams with Blue an
         "Brandon lives in a reality based in object impermanence.",
         "Brandon once received a speeding ticket for driving down an elementary school hallway.",
         "Brandon files complaints if the flight attendent isn't there within 45 seconds.",
+        "Brandon thinks he is impervious to the Dunning-Kruger effect.",
     ];
 
     function bfactGen() {
