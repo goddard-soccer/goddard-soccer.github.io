@@ -65,6 +65,7 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Player | Andrew McVey |
 | Player | Aum "Ω" Vyas |
 | Player | Ava Afghahi |
+| Player | Carolyn Fisk |
 | Player | CJ Dorsey |
 | Player | Dorukhan "Ecomaster" Ardag |
 | Player | Hessam Izadkhah |
