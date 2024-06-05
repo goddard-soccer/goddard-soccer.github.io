@@ -130,6 +130,7 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Player | Edwin "The Revolution" Garzon |
 | Player | Eric "Florida" Poole |
 | Player | Holum Fong |
+| Player | Jean-Marie Denis |
 | Player | Joaqin Chaves |
 | Player | John Garrett |
 | Player | John Lloyd |
