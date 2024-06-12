@@ -19,7 +19,7 @@ title: Home
 </div>
 <div class="card-body">
 <div class="row" markdown=1>
-The Goddard Soccer League 2024 is live! We are currently planning a 9 game spring season consisting of 4 teams, started in late April with a championship game/cook out in mid July. Fall season is also 9 games and will start shortly after in late July, concluding in late October.
+The Goddard Soccer League 2024 is live! We are currently planning a 9 game spring season consisting of 4 teams, started in late April with a championship game/cook out in mid July. Fall season is also 9 games and will start shortly after in late July, concluding in early October.
 <br><br>
 The **cost per season is $50 <span class="text-rainbow">(current $25 intern discount)</span>** which goes toward maintaining the field, and the games will be self-refereed. Games are played on **Tuesdays and Wednesdays on-site at the field near Building 11**, with rainout make up games on Thursdays. Click the **button below to go the sign up form**, we hope you join and look forward to seeing you on the pitch!
 </div>
