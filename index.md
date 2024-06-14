@@ -17,7 +17,7 @@ title: Home
 <div class="card-header text-center">
     League Sign Up
 </div>
-<div class="card-body">
+<div class="card-body">.
 <div class="row" markdown=1>
 The Goddard Soccer League 2024 is live! We are currently planning a 9 game spring season consisting of 4 teams, started in late April with a championship game/cook out in mid July. Fall season is also 9 games and will start shortly after in late July, concluding in early October.
 <br><br>
