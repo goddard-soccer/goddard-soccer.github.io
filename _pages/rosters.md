@@ -138,7 +138,9 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Player | Juan Gomez |
 | Player | Justin Brannan |
 | Player | Juan Novillo |
+| Player | Mark Lannaman |
 | Player | Nima Pahlevan |
+| Player | Samuel Obiorah |
 | Player | Sierra "Nevada" Budinoff |
 | Player | Tyler ";)" Lee |
 | Player | Tyler Parsotan |
