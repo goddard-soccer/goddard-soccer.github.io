@@ -23,12 +23,12 @@ The Goddard Soccer League 2024 is live! We are currently planning a 9 game sprin
 <br><br>
 The **cost per season is $50 <span class="text-rainbow">(current $25 intern discount)</span>** which goes toward maintaining the field, and the games will be self-refereed. Games are played on **Tuesdays and Wednesdays on-site at the field near Building 11**, with rainout make up games on Thursdays. Click the **button below to go the sign up form**, we hope you join and look forward to seeing you on the pitch!
 </div>
-<div class="row mt-3 px-3 ">
-<div class="col-md-6">
+<div class="row px-3 ">
+<div class="col-md-6 mt-3">
     <a type="button" class="btn btn-primary col-6" href="https://forms.gle/iggf2sibER2xtd7z8">Spring Sign Up Form</a>
 </div>
-<div class="col-md-6">
-    <a type="button" class="btn btn-primary col-6" href="https://forms.gle/iggf2sibER2xtd7z8">Fall Sign Up Coming Soon</a>
+<div class="col-md-6 mt-3">
+    <a type="button" class="btn btn-primary col-6" href="https://forms.gle/YN3VdfuhnKLRoKez9">Fall Sign Up Form</a>
 </div>
 </div>
 </div>
