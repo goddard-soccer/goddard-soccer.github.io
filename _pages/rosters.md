@@ -61,6 +61,7 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Co-Captain | Dayne Ford |
 | ---------- | ---------- |
 | Player | Addison Johnson-Green |
+| Player | Alejandro Rodriguez |
 | Player | Ali Vakili |
 | Player | Andrew McVey |
 | Player | Aum "Ω" Vyas |
@@ -77,6 +78,7 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Player | Lucas Hayes |
 | General | Luis "Spaniard" Rodriguez Decimus Maridius |
 | Player | Luke Amatucci |
+| Player | Mark Bilger |
 | Player | Nicholas Martucci |
 | Player | Tony Cazeau |
 | Player | Trevor "Hat" Robinson |
