@@ -194,7 +194,7 @@ We are currently planning the 2024 season! The goal will be 6 teams with Blue an
 <div class="d-flex justify-content-center">
 <div class="overflow-auto w-100">
 
-<h2>18 Goals!</h2>
+<h2>20 Goals!</h2>
 <h4 id="bfact">Fact #1: Brandon draws circles at a below-average first grader level.</h4>
 
 <script>
