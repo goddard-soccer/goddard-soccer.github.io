@@ -19,7 +19,7 @@ title: Home
 </div>
 <div class="card-body">
 <div class="row" markdown=1>
-Come to the Goddard Soccer League cookout <strong>5pm, July 17th at the soccer field</strong> and enjoy a free meal while watching the final, <span class="text-success">Green</span> vs <span class="text-danger">Red</span>! We will be grilling out hamburgers and hot dogs and chilling out under our new umbrellas and picnic benches. Come one, come all!
+Come to the Goddard Soccer League cookout <strong>~~5pm, July 17th~~ 5PM, sometime ne`xt week at the soccer field</strong> and enjoy a free meal while watching the final, <span class="text-success">Green</span> vs <span class="text-danger">Red</span>! We will be grilling out hamburgers and hot dogs and chilling out under our new umbrellas and picnic benches. Come one, come all!
 </div>
 </div>
 </div>
