@@ -13,7 +13,7 @@ title: Home
 </script>
 
 <!-- begin cookout -->
-<div class="card bg-light text-center mt-3">
+<!-- <div class="card bg-light text-center mt-3">
 <div class="card-header text-center">
     Final Cookout
 </div>
@@ -22,18 +22,18 @@ title: Home
 Come to the Goddard Soccer League cookout <strong>5pm, Tuesday July 23rd</strong> and enjoy a free meal while watching the final, <span class="text-success">Green</span> vs <span class="text-danger">Red</span>! We will be grilling out hamburgers and hot dogs and chilling out under our new umbrellas and picnic benches. Come one, come all!
 </div>
 </div>
-</div>
+</div> -->
 
 <!-- begin row sign up -->
 <div class="card bg-light text-center mt-3">
 <div class="card-header text-center">
-    League Sign Up
+    Fall Season Sign Up
 </div>
 <div class="card-body">.
 <div class="row" markdown=1>
-The Goddard Soccer League 2024 is live! We are currently playing a 9 game spring season consisting of 4 teams, started in late April with a championship game/cook out on July 17th. Fall season is also 9 games and will start shortly after in late July, concluding in early October.
+The Goddard soccer league continues with the Fall season! The fall season is also 9 games and will start shortly after in late July, concluding in early October.
 <br><br>
-The **cost per season is $50 <span class="text-rainbow">(or $25 for interns)</span>** which goes toward maintaining the field, and the games will be self-refereed. Games are played on **Tuesdays and Wednesdays on-site at the field near Building 11**, with rainout make up games on Thursdays. Click the **button below to go the sign up form**, we hope you join and look forward to seeing you on the pitch!
+The **cost of fall season is $50 <span class="text-rainbow">(or $25 for interns)</span>** which goes toward maintaining the field, and the games will be self-refereed. Games are played on **Tuesdays and Wednesdays on-site at the field near Building 11**, with rainout make up games on Thursdays. Click the **button below to go the sign up form**, we hope you join and look forward to seeing you on the pitch!
 </div>
 <div class="row px-3 ">
 <!-- <div class="col-md-6 mt-3">
@@ -206,7 +206,7 @@ We are currently planning the 2024 season! The goal will be 6 teams with Blue an
 <div class="d-flex justify-content-center">
 <div class="overflow-auto w-100">
 
-<h2>22 Goals!</h2>
+<h2>23 Goals!</h2>
 <h4 id="bfact">Fact #1: Brandon draws circles at a below-average first grader level.</h4>
 
 <script>
