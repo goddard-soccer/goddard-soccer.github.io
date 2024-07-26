@@ -90,7 +90,6 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Player | John Baker |
 | Player | Joseph Watson |
 | Player | Hua Jiao |
-| Player | Lucas Hayes |
 
 </div>
 </div>
@@ -104,10 +103,12 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Captain | Payum Shakoorzadeh |
 | Co-Captain | Carlos Aguilar |
 | ---------- | ---------- |
+| Player | Adam Maggard |
 | Player | Constantine Hadjidimoulas |
 | Player | Hossein Mohammadkhan |
 | Player | Itunu Jagun |
 | Player | Jack Topper |
+| Player | Joe Hart |
 | Player | Kyle Demmerle |
 | Player | Marcello Rodriguez |
 | Player | Marco Tanda |
@@ -139,14 +140,12 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Captain | Kevin Rhoads |
 | Co-Captain | Dan Dassoulas |
 | ---------- | ---------- |
-| Player | Adam Maggard | None |
 | Player | Anders Lundkvist |
 | Player | Christian Naylor |
 | Player | Curtiss Burnett |
 | Player | Edwin Garzon |
 | Player | Eric Poole |
 | Player | Holum Fong |
-| Player | Joe Hart | None |
 | Player | Josiah Killam |
 | Player | Juan Novillo |
 | Player | Naomi Park |
@@ -164,10 +163,8 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Player | John Lloyd |
 | Player | Juan Gomez |
 | Player | Justin Brannan |
-| Player | Juan Novillo |
 | Player | Mark Lannaman |
 | Player | Nima Pahlevan |
-| Player | Samuel Obiorah |
 | Player | Victor Tran |
 
 </div>
