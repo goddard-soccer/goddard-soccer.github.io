@@ -29,7 +29,7 @@ Come to the Goddard Soccer League cookout <strong>5pm, Tuesday July 23rd</strong
 <div class="card-header text-center">
     Fall Season Sign Up
 </div>
-<div class="card-body">.
+<div class="card-body">
 <div class="row" markdown=1>
 The Goddard soccer league continues with the Fall season! The fall season is also 9 games and will start shortly after in late July, concluding in early October.
 <br><br>
