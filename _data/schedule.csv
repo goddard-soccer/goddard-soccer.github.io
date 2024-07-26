@@ -1,4 +1,25 @@
 Date,Home,Away,HomeScore,AwayScore
+6/8/2024,Orange,Green
+7/8/2024,Purple,Red
+13/8/2024,Purple,Orange
+14/8/2024,Green,Red
+20/8/2024,Red,Orange
+21/8/2024,Green,Purple
+27/8/2024,Purple,Red
+28/8/2024,Green,Orange
+Break,Labor Day Week
+10/9/2024,Red,Green
+11/9/2024,Orange,Purple
+17/9/2024,Orange,Green
+18/9/2024,Red,Purple
+24/9/2024,Purple,Green
+25/9/2024,Red,Orange
+1/10/2024,Orange,Purple
+2/10/2024,Red,Green
+8/10/2024,Purple,Green
+9/10/2024,Orange,Red
+
+# Spring 2024
 30/4/2024,Green,Orange,5,4
 1/5/2024,Red,Purple,7,3
 7/5/2024,Red,Green,5,8
@@ -22,25 +43,6 @@ Break,Fourth of July Week
 24/7/2024,Orange,Purple,6,3
 23/7/2024,Green,Red,0,5
 Break,End of Spring Season
-30/7/2024,Orange,Green
-31/7/2024,Purple,Red
-6/8/2024,Purple,Orange
-7/8/2024,Green,Red
-13/8/2024,Red,Orange
-14/8/2024,Green,Purple
-20/8/2024,Purple,Red
-21/8/2024,Green,Orange
-27/8/2024,Red,Green
-28/8/2024,Orange,Purple
-Break,Labor Day Week
-10/9/2024,Orange,Green
-11/9/2024,Red,Purple
-17/9/2024,Purple,Green
-18/9/2024,Red,Orange
-24/9/2024,Orange,Purple
-25/9/2024,Red,Green
-1/10/2024,Purple,Green
-2/10/2024,Orange,Red
 
 # Summer 2023
 13/6/2023,Green,Purple,4,2

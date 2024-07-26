@@ -5,3 +5,4 @@ _site
 vendor
 .swp
 _pages/rosters2.md
+.DS_Store

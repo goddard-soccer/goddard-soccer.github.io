@@ -2,14 +2,32 @@ import csv
 import argparse
 
 parser = argparse.ArgumentParser()
-
-parser.add_argument('-r', '--row', type=int, default=1)
-parser.add_argument('-f', '--file', type=str, default="teams.csv")
-
+parser.add_argument("inputFile", type=str, default="teams.csv")
 args = parser.parse_args()
 
-with open(args.file, newline='') as csvfile:
+with open(args.inputFile, newline='') as csvfile:
     reader = csv.reader(csvfile)
-    for row in reader:
-        print("| Player | " + row[args.row] + " |")
+    rows = list(reader)
+    rowHeaders = rows[0]
 
+    nameIndex = rowHeaders.index("Name (First and Last)")
+    teamIndex = rowHeaders.index("Previous Team or Preferred Team (not a guarantee, we will try to be accommodating)")
+    
+    roster = []
+    for row in rows:
+        team = "Unassigned"
+        if "Green" in row[teamIndex]:
+            team = "Green"
+        elif "Orange" in row[teamIndex]:
+            team = "Orange"
+        elif "Purple" in row[teamIndex]:
+            team = "Purple"
+        elif "Red" in row[teamIndex]:
+            team = "Red"
+
+        roster.append([row[nameIndex].strip(), team])
+
+    roster.sort(key=lambda x: (x[1], x[0]))
+
+    for r in roster:
+        print(f"| Player | {r[0]} | {r[1]} |")

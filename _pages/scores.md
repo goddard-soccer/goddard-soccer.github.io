@@ -179,16 +179,6 @@ permalink: /scores/
         <td>{{ greenDiffer }}</td>
     </tr>
     <tr>
-        <td class="bg-red text-white">Red</td>
-        <td>{{ redWins }}</td>
-        <td>{{ redDraws }}</td>
-        <td>{{ redLosses }}</td>
-        <td>{{ redPoints }}</td>
-        <td>{{ redFor }}</td>
-        <td>{{ redAgainst }}</td>
-        <td>{{ redDiffer }}</td>
-    </tr>
-    <tr>
         <td class="bg-orange text-white">Orange</td>
         <td>{{ orangeWins }}</td>
         <td>{{ orangeDraws }}</td>
@@ -207,6 +197,16 @@ permalink: /scores/
         <td>{{ purpleFor }}</td>
         <td>{{ purpleAgainst }}</td>
         <td>{{ purpleDiffer }}</td>
+    </tr>
+    <tr>
+        <td class="bg-red text-white">Red</td>
+        <td>{{ redWins }}</td>
+        <td>{{ redDraws }}</td>
+        <td>{{ redLosses }}</td>
+        <td>{{ redPoints }}</td>
+        <td>{{ redFor }}</td>
+        <td>{{ redAgainst }}</td>
+        <td>{{ redDiffer }}</td>
     </tr>
 </table>
 

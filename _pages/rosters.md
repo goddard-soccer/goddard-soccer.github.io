@@ -30,23 +30,28 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Co-Captain | Lateef Ajayi |
 | ---------- | ---------- |
 | Player | Ben Winkler |
+| Player | Elliott Chambon |
+| Player | Erin Rogers |
+| Player | Francois Mernier |
+| Player | Grant Barrett |
+| Player | Ian Carroll  |
+| Player | Jordan Gasaway |
+| Player | Lateef Ajayi |
+| Player | Nhut Truong |
+| Player | Stavros Katsas |
+
+| Not yet | Lateef Ajayi |
+| ---------- | ---------- |
 | Player | Chris Pagán |
 | Player | Derek Val |
 | Player | Donnell Lassiter |
 | Player | Drinor Cacaj |
-| Player | Erin Rogers |
-| Player | Francois "Hazard" Mernier |
-| Player | Grant "50 Cal" Barrett |
-| Player | Ian Carroll |
 | Player | James Riordon |
-| Player | Jordan Gasaway |
 | Player | Keegan O'Connor |
 | Player | Mahdi Alimardani |
 | Player | Miguel Hernandez |
 | Player | Nobel Sindjui |
-| Player | Nhut "DUKE NHUT'M" Truong |
 | Player | Ramon Luquin |
-| Player | Stavros Katsas |
 
 </div>
 </div>
@@ -60,28 +65,35 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Captain | David "Cats" Katzenberg |
 | Co-Captain | Dayne Ford |
 | ---------- | ---------- |
-| Player | Addison Johnson-Green |
-| Player | Alejandro Rodriguez |
 | Player | Ali Vakili |
 | Player | Andrew McVey |
+| Player | D "BlackStar" Val |
+| Player | Dorukhan Ardag |
+| Player | Hessam izadkhah |
+| Player | John Baker |
+| Player | Joseph Galassi |
+| Player | Lucas Hayes |
+| General | Luis "Spaniard" Rodriguez Decimus Maridius |
+| Player | Luke Amatucci |
+| Player | Matt Bilger |
+| Player | Nicholas Martucci |
+| Player | Tony Cazeau |
+| Player | Trevor Robinson |
+
+| Not yet |  |
+| ---------- | ---------- |
+| Player | Addison Johnson-Green |
+| Player | Alejandro Rodriguez |
 | Player | Aum "Ω" Vyas |
 | Player | Ava Afghahi |
 | Player | Carolyn Fisk |
 | Player | CJ Dorsey |
 | Player | Dorukhan "Ecomaster" Ardag |
-| Player | Hessam Izadkhah |
 | Player | Jason Emperador |
 | Player | John Baker |
-| Player | Joe "Flyers" Galassi |
 | Player | Joseph Watson |
 | Player | Hua Jiao |
 | Player | Lucas Hayes |
-| General | Luis "Spaniard" Rodriguez Decimus Maridius |
-| Player | Luke Amatucci |
-| Player | Mark Bilger |
-| Player | Nicholas Martucci |
-| Player | Tony Cazeau |
-| Player | Trevor "Hat" Robinson |
 
 </div>
 </div>
@@ -95,22 +107,26 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Captain | Payum Shakoorzadeh |
 | Co-Captain | Carlos Aguilar |
 | ---------- | ---------- |
-| Player | Brandon Bustillo |
 | Player | Constantine Hadjidimoulas |
-| Player | Daniel Jansen |
-| Player | Daniel Rodriguez |
-| Player | Garrett Layne |
-| Player | Hossein M. Khan |
+| Player | Hossein Mohammadkhan |
+| Player | Itunu Jagun |
 | Player | Jack Topper |
-| Player | Jordan Whiting |
-| Player | Kaylie Vess |
 | Player | Kyle Demmerle |
 | Player | Marcello Rodriguez |
 | Player | Marco Tanda |
 | Player | Michael MacKay |
-| Player | Rosemberth Lopez |
 | Player | Sepehr Sarbakhshian |
 | Player | Timothy Wilcox |
+
+| Not yet |  |
+| ---------- | ---------- |
+| Player | Brandon Bustillo |
+| Player | Daniel Jansen |
+| Player | Daniel Rodriguez |
+| Player | Garrett Layne |
+| Player | Jordan Whiting |
+| Player | Kaylie Vess |
+| Player | Rosemberth Lopez |
 | Player | Will Alberding |
 | Player | Zoran Kahric |
 
@@ -126,26 +142,35 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Captain | Kevin Rhoads |
 | Co-Captain | Dan Dassoulas |
 | ---------- | ---------- |
-| Player | "Colonel" Anders Lundkvist |
-| Antichrist | Brandon Burkdroper |
+| Player | Adam Maggard | None |
+| Player | Anders Lundkvist |
 | Player | Christian Naylor |
-| Player | Edwin "The Revolution" Garzon |
-| Player | Eric "Florida" Poole |
+| Player | Curtiss Burnett |
+| Player | Edwin Garzon |
+| Player | Eric Poole |
 | Player | Holum Fong |
+| Player | Joe Hart | None |
+| Player | Josiah Killam |
+| Player | Juan Novillo |
+| Player | Naomi Park |
+| Player | Samuel Obiorah |
+| Player | Shintaveous "Shithead" Furfsburton |
+| Player | Sierra Budinoff |
+| Player | Tyler Lee |
+| Player | Tyler Parsotan |
+
+| Not yet | Dan Dassoulas |
+| ---------- | ---------- |
 | Player | Jean-Marie Denis |
 | Player | Joaqin Chaves |
 | Player | John Garrett |
 | Player | John Lloyd |
-| Player | Josiah Killam |
 | Player | Juan Gomez |
 | Player | Justin Brannan |
 | Player | Juan Novillo |
 | Player | Mark Lannaman |
 | Player | Nima Pahlevan |
 | Player | Samuel Obiorah |
-| Player | Sierra "Nevada" Budinoff |
-| Player | Tyler ";)" Lee |
-| Player | Tyler Parsotan |
 | Player | Victor Tran |
 
 </div>
