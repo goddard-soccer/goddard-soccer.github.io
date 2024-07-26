@@ -30,6 +30,7 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Co-Captain | Lateef Ajayi |
 | ---------- | ---------- |
 | Player | Ben Winkler |
+| Player | Derek Val |
 | Player | Elliott Chambon |
 | Player | Erin Rogers |
 | Player | Francois Mernier |
@@ -43,9 +44,7 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Not yet | Lateef Ajayi |
 | ---------- | ---------- |
 | Player | Chris Pagán |
-| Player | Derek Val |
 | Player | Donnell Lassiter |
-| Player | Drinor Cacaj |
 | Player | James Riordon |
 | Player | Keegan O'Connor |
 | Player | Mahdi Alimardani |
