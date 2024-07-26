@@ -67,8 +67,7 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | ---------- | ---------- |
 | Player | Ali Vakili |
 | Player | Andrew McVey |
-| Player | D "BlackStar" Val |
-| Player | Dorukhan Ardag |
+| Player | Dorukhan "Ecomaster" Ardag |
 | Player | Hessam izadkhah |
 | Player | John Baker |
 | Player | Joseph Galassi |
@@ -88,7 +87,6 @@ Generally speaking we are trying to retain previous teams, but there will be som
 | Player | Ava Afghahi |
 | Player | Carolyn Fisk |
 | Player | CJ Dorsey |
-| Player | Dorukhan "Ecomaster" Ardag |
 | Player | Jason Emperador |
 | Player | John Baker |
 | Player | Joseph Watson |
