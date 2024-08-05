@@ -68,7 +68,6 @@ permalink: /rosters/
 | Not yet |  |
 | ---------- | ---------- |
 | Player | Addison Johnson-Green |
-| Player | Alejandro Rodriguez |
 | Player | Aum "Ω" Vyas |
 | Player | CJ Dorsey |
 | Player | Jason Emperador |
