@@ -22,20 +22,11 @@ permalink: /rosters/
 | Player | Grant Barrett |
 | Player | Ian Carroll |
 | Player | Jordan Gasaway |
+| Player | Keegan O'Connor |
 | Player | Miguel Hernandez |
 | Player | Nhut Truong |
 | Player | Spencer Harman |
 | Player | Stavros Katsas |
-
-| Not yet |  |
-| ---------- | ---------- |
-| Player | Chris Pagán |
-| Player | Donnell Lassiter |
-| Player | James Riordon |
-| Player | Keegan O'Connor |
-| Player | Mahdi Alimardani |
-| Player | Nobel Sindjui |
-| Player | Ramon Luquin |
 
 </div>
 </div>
@@ -64,15 +55,6 @@ permalink: /rosters/
 | Player | Nicholas Martucci |
 | Player | Tony Cazeau |
 | Player | Trevor Robinson |
-
-| Not yet |  |
-| ---------- | ---------- |
-| Player | Addison Johnson-Green |
-| Player | Aum "Ω" Vyas |
-| Player | CJ Dorsey |
-| Player | Jason Emperador |
-| Player | Joseph Watson |
-| Player | Hua Jiao |
 
 </div>
 </div>
@@ -103,16 +85,6 @@ permalink: /rosters/
 | Player | Sepehr Sarbakhshian |
 | Player | Timothy Wilcox |
 
-| Not yet |  |
-| ---------- | ---------- |
-| Player | Daniel Jansen |
-| Player | Daniel Rodriguez |
-| Player | Jordan Whiting |
-| Player | Kaylie Vess |
-| Player | Rosemberth Lopez |
-| Player | Will Alberding |
-| Player | Zoran Kahric |
-
 </div>
 </div>
 </div>
@@ -142,15 +114,6 @@ permalink: /rosters/
 | Player | Sierra Budinoff |
 | Player | Tyler Lee |
 | Player | Tyler Parsotan |
-
-| Not yet |  |
-| ---------- | ---------- |
-| Player | Jean-Marie Denis |
-| Player | Joaqin Chaves |
-| Player | John Lloyd |
-| Player | Juan Gomez |
-| Player | Mark Lannaman |
-| Player | Nima Pahlevan |
 | Player | Victor Tran |
 
 </div>
