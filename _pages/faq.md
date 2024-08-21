@@ -41,7 +41,7 @@ permalink: /faq/
 **A:** GSL only holds weekly pick-up games outside of active league seasons when daylight and weather permit. Weekly pickup games begin at 5PM and are held on the Main Lawn in between Buildings 1 and 3/14. For more information on pickup games, please join our [Teams channel](https://teams.microsoft.com/l/team/19%3ag6UYrqOstWyW6S9Q-_jaSfmMqjkvoZauibWuiVI-HcY1%40thread.tacv2/conversations?groupId=5a25d439-e73f-44bf-9232-5bc6fd755435&tenantId=7005d458-45be-48ae-8140-d43da96dd17b)!
 
 **Q:** What are the GSL rules?<br>
-**A:** Great question, hope you aren't in the middle of an arguement :D. The rules can be found [here](/assets/docs/rules.pdf)
+**A:** Great question, hope you aren't in the middle of an argument :D. The rules can be found [here](/assets/docs/rules.pdf)
 
 **Q:** Is Brandon Burkholder literally the worst thing that has happened, is happening, or will ever happen to humanity?<br>
 **A:** Definitely. As scientists we are normally far from certain, even math has been proven incomplete, but in this regard it is beyond the scope of our perceived reality or any other reality, dimensioned or non-dimensioned.
