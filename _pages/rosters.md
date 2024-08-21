@@ -15,6 +15,7 @@ permalink: /rosters/
 | Co-Captain | Lateef Ajayi |
 | ---------- | ---------- |
 | Player | Ben Winkler |
+| Player | Chris Pagán |
 | Player | D "BlackStar" Val |
 | Player | Elliott Chambon |
 | Player | Erin Rogers |
@@ -44,8 +45,10 @@ permalink: /rosters/
 | Player | Andrew McVey |
 | Player | Ava Afghahi |
 | Player | Carolyn Fisk |
+| Player | David Russell |
 | Player | Dorukhan Ardag |
 | Player | Hessam Izadkhah |
+| Player | Jason Emperador |
 | Player | John Baker |
 | Player | Joseph Galassi |
 | Player | Lucas Hayes |
@@ -99,8 +102,8 @@ permalink: /rosters/
 | ---------- | ---------- |
 | Player | Anders Lundkvist |
 | Player | Christian Naylor |
+| Player | Craig Johnston |
 | Player | Curtiss Burnett |
-| Player | Dan Dassoulas |
 | Player | Edwin Garzon |
 | Player | Eric Poole |
 | Player | Holum Fong |

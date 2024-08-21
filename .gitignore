@@ -5,4 +5,5 @@ _site
 vendor
 .swp
 _pages/rosters2.md
+assets/docs/teams.csv
 .DS_Store

@@ -198,6 +198,7 @@ We are currently planning the 2024 season! The goal will be 6 teams with Blue an
     }
 </script>
 
+<!--
 <div class="card bg-light text-center mt-3">
 <div class="card-header text-center">
     How many goals has Brandon scored?
@@ -216,4 +217,54 @@ We are currently planning the 2024 season! The goal will be 6 teams with Blue an
 </div>
 </div>
 </div>
+</div> -->
+
+<div class="card bg-light text-center mt-3">
+<div class="card-header text-center">
+    How many goals has Trevor scored?
 </div>
+<div class="card-body bg-orange" onclick="playSound('hero'); bfactGen();" markdown=1>
+<div class="d-flex justify-content-center">
+<div class="overflow-auto w-100">
+
+<h2>8 Goals!</h2>
+<p>
+
+In the heart of the Goddard Soccer League’s glow,<br>
+Where heroes are made and legends will grow,<br>
+There stood a name that all came to see,<br>
+Trevor Robinson, fierce as could be.<br><br>
+
+With a hat worn backward, tilted just right,<br>
+He danced on the field, a thrilling sight.<br>
+Eight goals he scored, a record so grand,<br>
+Each strike like a comet, each shot like a band.<br><br>
+
+The crowd roared loud with each thunderous cheer,<br>
+For Trevor’s prowess made it crystal clear.<br>
+But among his feats, a moment stood tall—<br>
+A shot so fierce, it nearly made John fall.<br><br>
+
+The ball rocketed with a force untamed,<br>
+A blur in the air, as the netframes flamed.<br>
+John ducked with a shiver, a near-miss at best,<br>
+While Trevor, unshaken, just grinned with the rest.<br><br>
+
+He wore that backward hat with a swaggering pride,<br>
+A symbol of greatness, no need to hide.<br>
+Eight goals, a close call, and a backward cap,<br>
+Trevor Robinson’s tale is a legendary map.<br><br>
+
+So here’s to the player who reigns supreme,<br>
+Who makes every game feel like a dream.<br>
+With a strike that could shake the very ground,<br>
+Trevor’s name echoes, a triumphant sound.
+
+</p>
+
+
+</div>
+</div>
+</div>
+</div>
+
