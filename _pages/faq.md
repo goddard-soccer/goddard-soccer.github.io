@@ -8,12 +8,13 @@ permalink: /faq/
 <div class="card-header text-center">Goddard Soccer Field</div>
 
 <div class="card-body" markdown=1>
-**Q:** Where are the games played?<br>
-**A:** Games will take place at the Goddard soccer field behind the B11 parking lot, just look for the sign!
-<img src="/images/map.jpg" class="img-fluid rounded" />
 
 **Q:** What if I signed up without a team preference but I don't see myself on the rosters page?<br>
 **A:** If the season hasn't started yet, relax, the exec. board is likely discussing roster changes, if necessary. If the season has started, message an exec. board member (preferably Tyler Lee at the moment), and we will get you on a team. You are also welcome to just come to the next game and we will get you playing.
+
+**Q:** Where are the games played?<br>
+**A:** Games will take place at the Goddard soccer field behind the B11 parking lot, just look for the sign!
+<img src="/images/map.jpg" class="img-fluid rounded" />
 
 **Q:** How long are the games?<br>
 **A:** Each game consists of two 35-minute halves with a 5-minute half-time in between periods. 
