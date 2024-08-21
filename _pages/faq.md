@@ -12,6 +12,9 @@ permalink: /faq/
 **Q:** What if I signed up without a team preference but I don't see myself on the rosters page?<br>
 **A:** If the season hasn't started yet, relax, the exec. board is likely discussing roster changes, if necessary. If the season has started, message an exec. board member via Microsoft Teams (preferably Tyler Lee at the moment), and we will get you on a team. You are also welcome to just come to the next game and we will get you playing.
 
+**Q:** How do I contact my team?<br>
+**A:** We generally leave this up to team captains, but typically each team has a GroupMe, Microsoft Team, or other forum of communication which they should be adding you to. If you are unable to message your captain, please message the global soccer [teams channel](https://teams.microsoft.com/l/team/19%3ag6UYrqOstWyW6S9Q-_jaSfmMqjkvoZauibWuiVI-HcY1%40thread.tacv2/conversations?groupId=5a25d439-e73f-44bf-9232-5bc6fd755435&tenantId=7005d458-45be-48ae-8140-d43da96dd17b) or failing that, an exec. board member. (See About page for exec. members)
+
 **Q:** Where are the games played?<br>
 **A:** Games will take place at the Goddard soccer field behind the B11 parking lot, just look for the sign!
 <img src="/images/map.jpg" class="img-fluid rounded" />
