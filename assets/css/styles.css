@@ -117,6 +117,12 @@ td {
   animation: animateGlow 60s linear infinite;
 }
 
+.bg-sunset {
+  background: linear-gradient(to top, #ff7e5f, #feb47b);
+  text-shadow: -1px -1px 0 #feb47b, 1px -1px 0 #feb47b, -1px 1px 0 #ff7e5f, 1px 1px 0 #ff7e5f;
+  color: white;
+}
+
 @keyframes animateGlow {
   0% {
     background-position: 0% 50%;

@@ -207,7 +207,7 @@ We are currently planning the 2024 season! The goal will be 6 teams with Blue an
 <div class="d-flex justify-content-center">
 <div class="overflow-auto w-100">
 
-<h2>3 Goals!</h2>
+<h2>8 Goals!</h2>
 <h4 id="bfact">Fact #1: Brandon draws circles at a below-average first grader level.</h4>
 
 <script>
@@ -223,45 +223,36 @@ We are currently planning the 2024 season! The goal will be 6 teams with Blue an
 <div class="card-header text-center">
     How many goals has Trevor scored?
 </div>
-<div class="card-body bg-orange" onclick="playSound('hero'); bfactGen();" markdown=1>
+<div class="card-body bg-sunset" onclick="playSound('holding-out'); bfactGen();" markdown=1>
 <div class="d-flex justify-content-center">
 <div class="overflow-auto w-100">
 
-<h2>8 Goals!</h2>
-<p>
+<h2>9 Goals!</h2>
 
-In the heart of the Goddard Soccer League’s glow,<br>
-Where heroes are made and legends will grow,<br>
-There stood a name that all came to see,<br>
-Trevor Robinson, fierce as could be.<br><br>
+In the heart of the field where the orange sun glows,<br>
+There’s a player whose talent the whole city knows,<br>
+Trevor’s his name, with a hat worn askew,<br>
+Backwards and bold, as if daring the view.<br><br>
 
-With a hat worn backward, tilted just right,<br>
-He danced on the field, a thrilling sight.<br>
-Eight goals he scored, a record so grand,<br>
-Each strike like a comet, each shot like a band.<br><br>
+With a kick like a storm and a shot fierce and true,<br>
+He’s scored nine goals now, but he’s far from through,<br>
+The ball finds its path in the net with a roar,<br>
+A symphony of victory that fans adore.<br><br>
 
-The crowd roared loud with each thunderous cheer,<br>
-For Trevor’s prowess made it crystal clear.<br>
-But among his feats, a moment stood tall—<br>
-A shot so fierce, it nearly made John fall.<br><br>
+He dances through defenses with effortless grace,<br>
+A blur of orange, a smile on his face,<br>
+The pitch is his canvas, each match a new art,<br>
+His powerful strikes are a pure work of heart.<br><br>
 
-The ball rocketed with a force untamed,<br>
-A blur in the air, as the netframes flamed.<br>
-John ducked with a shiver, a near-miss at best,<br>
-While Trevor, unshaken, just grinned with the rest.<br><br>
+Underneath that cap, there’s a fire so bright,<br>
+It lights up the field, makes the whole game take flight,<br>
+In the grand theater of soccer’s great show,<br>
+Trevor’s the star with a rhythm to follow.<br><br>
 
-He wore that backward hat with a swaggering pride,<br>
-A symbol of greatness, no need to hide.<br>
-Eight goals, a close call, and a backward cap,<br>
-Trevor Robinson’s tale is a legendary map.<br><br>
-
-So here’s to the player who reigns supreme,<br>
-Who makes every game feel like a dream.<br>
-With a strike that could shake the very ground,<br>
-Trevor’s name echoes, a triumphant sound.
-
-</p>
-
+So here’s to the player who stands out from the crowd,<br>
+With a backward hat and a shot so proud,<br>
+To Trevor, the hero of the orange-clad dream,<br>
+A legend in motion, a goal-scoring machine.<br><br>
 
 </div>
 </div>
