@@ -151,8 +151,10 @@ permalink: /scores/
 {% assign purpleDiffer = purpleFor | minus: purpleAgainst %}
 {% assign redDiffer = redFor | minus: redAgainst %}
 
-<div class="card text-center mt-3">
-<div class="card-header">Standings</div>
+<div class="card text-center mt-3 bg-theme">
+<div class="card-header bg-light">
+    <h5>Standings</h5>
+</div>
 <div class="card-body">
 <div class="col-12 d-flex justify-content-center">
 <div class="overflow-auto ">
@@ -170,43 +172,43 @@ permalink: /scores/
     </tr>
     <tr>
         <td class="bg-orange text-white">Orange</td>
-        <td>{{ orangeWins }}</td>
-        <td>{{ orangeDraws }}</td>
-        <td>{{ orangeLosses }}</td>
-        <td>{{ orangePoints }}</td>
-        <td>{{ orangeFor }}</td>
-        <td>{{ orangeAgainst }}</td>
-        <td>{{ orangeDiffer }}</td>
+        <td class="bg-light">{{ orangeWins }}</td>
+        <td class="bg-light">{{ orangeDraws }}</td>
+        <td class="bg-light">{{ orangeLosses }}</td>
+        <td class="bg-light">{{ orangePoints }}</td>
+        <td class="bg-light">{{ orangeFor }}</td>
+        <td class="bg-light">{{ orangeAgainst }}</td>
+        <td class="bg-light">{{ orangeDiffer }}</td>
     </tr>
     <tr>
         <td class="bg-red text-white">Red</td>
-        <td>{{ redWins }}</td>
-        <td>{{ redDraws }}</td>
-        <td>{{ redLosses }}</td>
-        <td>{{ redPoints }}</td>
-        <td>{{ redFor }}</td>
-        <td>{{ redAgainst }}</td>
-        <td>{{ redDiffer }}</td>
+        <td class="bg-light">{{ redWins }}</td>
+        <td class="bg-light">{{ redDraws }}</td>
+        <td class="bg-light">{{ redLosses }}</td>
+        <td class="bg-light">{{ redPoints }}</td>
+        <td class="bg-light">{{ redFor }}</td>
+        <td class="bg-light">{{ redAgainst }}</td>
+        <td class="bg-light">{{ redDiffer }}</td>
     </tr>
     <tr>
         <td class="bg-green text-white">Green</td>
-        <td>{{ greenWins }}</td>
-        <td>{{ greenDraws }}</td>
-        <td>{{ greenLosses }}</td>
-        <td>{{ greenPoints }}</td>
-        <td>{{ greenFor }}</td>
-        <td>{{ greenAgainst }}</td>
-        <td>{{ greenDiffer }}</td>
+        <td class="bg-light">{{ greenWins }}</td>
+        <td class="bg-light">{{ greenDraws }}</td>
+        <td class="bg-light">{{ greenLosses }}</td>
+        <td class="bg-light">{{ greenPoints }}</td>
+        <td class="bg-light">{{ greenFor }}</td>
+        <td class="bg-light">{{ greenAgainst }}</td>
+        <td class="bg-light">{{ greenDiffer }}</td>
     </tr>
     <tr>
         <td class="bg-purple text-white">Purple</td>
-        <td>{{ purpleWins }}</td>
-        <td>{{ purpleDraws }}</td>
-        <td>{{ purpleLosses }}</td>
-        <td>{{ purplePoints }}</td>
-        <td>{{ purpleFor }}</td>
-        <td>{{ purpleAgainst }}</td>
-        <td>{{ purpleDiffer }}</td>
+        <td class="bg-light">{{ purpleWins }}</td>
+        <td class="bg-light">{{ purpleDraws }}</td>
+        <td class="bg-light">{{ purpleLosses }}</td>
+        <td class="bg-light">{{ purplePoints }}</td>
+        <td class="bg-light">{{ purpleFor }}</td>
+        <td class="bg-light">{{ purpleAgainst }}</td>
+        <td class="bg-light">{{ purpleDiffer }}</td>
     </tr>
 </table>
 
@@ -215,8 +217,10 @@ permalink: /scores/
 </div>
 </div>
 
-<div class="card mt-3 text-center">
-<div class="card-header">{{ page.title }}</div>
+<div class="card mt-3 text-center bg-theme">
+<div class="card-header bg-light">
+    <h5>{{ page.title }}</h5>
+</div>
 <div class="card-body mx-auto">
 
 <div class="row">

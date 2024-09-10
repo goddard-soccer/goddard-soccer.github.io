@@ -12,22 +12,10 @@ title: Home
     }
 </script>
 
-<!-- begin cookout -->
-<!-- <div class="card bg-light text-center mt-3">
-<div class="card-header text-center">
-    Final Cookout
-</div>
-<div class="card-body">
-<div class="row" markdown=1>
-Come to the Goddard Soccer League cookout <strong>5pm, Tuesday July 23rd</strong> and enjoy a free meal while watching the final, <span class="text-success">Green</span> vs <span class="text-danger">Red</span>! We will be grilling out hamburgers and hot dogs and chilling out under our new umbrellas and picnic benches. Come one, come all!
-</div>
-</div>
-</div> -->
-
 <!-- begin row sign up -->
-<div class="card bg-light text-center mt-3">
-<div class="card-header text-center">
-    Fall Season Sign Up
+<div class="card text-center mt-3 bg-theme">
+<div class="card-header text-center bg-light">
+    <h5>Fall Season Sign Up</h5>
 </div>
 <div class="card-body">
 <div class="row" markdown=1>
@@ -40,16 +28,16 @@ The **cost of fall season is $50 <span class="text-rainbow">(or $25 for interns)
     <a type="button" class="btn btn-primary col-6" href="https://forms.gle/iggf2sibER2xtd7z8">Spring Sign Up Form</a>
 </div> -->
 <div class="col-md-12 mt-3">
-    <a type="button" class="btn btn-primary col-6" href="https://forms.gle/YN3VdfuhnKLRoKez9">Fall Sign Up Form</a>
+    <a type="button" class="btn bg-button col-6" href="https://forms.gle/YN3VdfuhnKLRoKez9">Fall Sign Up Form</a>
 </div>
 </div>
 </div>
 </div>
 
 <!-- begin logo contest -->
-<div class="card bg-light text-center mt-3">
-<div class="card-header text-center">
-    Logo Contest
+<div class="card text-center mt-3 bg-theme">
+<div class="card-header text-center bg-light">
+    <h5>Logo Contest</h5>
 </div>
 <div class="card-body">
 <div class="row" markdown=1>
@@ -76,30 +64,13 @@ The Goddard soccer league is excited to announce <strong class="text-rainbow">a 
 </div>
 </div> -->
 
-<!-- begin row news updates -->
-<!-- <div class="card bg-light text-center my-3">
-<div class="card-header text-center">
-    Latest Updates
-</div>
-<div class="card-body" markdown=1>
-The 2023 league season was a huge success! Thanks to everyone for reinvigorating this storied league post COVID and **a special shoutout to all the behind scenes work done!**
-
-We are currently planning the 2024 season! The goal will be 6 teams with Blue and White making a return! Details such as team balancing are being finalized and the sign up will be available soon. We will have free scrimmages before the season begins, so get excited!!!
-</div>
-</div> -->
-
 <!-- begin row teams -->
-<div class="card bg-light text-center mt-3">
-<div class="card-header text-center">
-    Teams
+<div class="card text-center mt-3 bg-theme">
+<div class="card-header text-center bg-light">
+    <h5>Teams</h5>
 </div>
-<div class="card-body bg-white">
+<div class="card-body">
 <div class="row">
-    <!-- <div class="col-2 my-auto">
-        <a href="/rosters">
-            <img src="/images/teams/blue.jpg" class="img-fluid rounded"/>
-        </a>
-    </div> -->
     <div class="col-3 my-auto">
         <a href="/rosters">
             <img src="/images/teams/green.jpg" class="img-fluid rounded"/>
@@ -120,11 +91,6 @@ We are currently planning the 2024 season! The goal will be 6 teams with Blue an
             <img src="/images/teams/red.jpg" class="img-fluid rounded"/>
         </a>
     </div>
-    <!-- <div class="col-2 my-auto">
-        <a href="/rosters">
-            <img src="/images/teams/white.jpg" class="img-fluid rounded"/>
-        </a>
-    </div> -->
 </div>
 </div>
 </div>
@@ -219,11 +185,11 @@ We are currently planning the 2024 season! The goal will be 6 teams with Blue an
 </div>
 </div> -->
 
-<div class="card bg-light text-center mt-3">
-<div class="card-header text-center">
-    How many goals has Trevor scored?
+<div class="card text-center mt-3 bg-sunset">
+<div class="card-header text-center bg-light">
+    <h5>How many goals has Trevor scored?</h5>
 </div>
-<div class="card-body bg-sunset" onclick="playSound('holding-out'); bfactGen();" markdown=1>
+<div class="card-body" onclick="playSound('holding-out'); bfactGen();" markdown=1>
 <div class="d-flex justify-content-center">
 <div class="overflow-auto w-100">
 
@@ -252,7 +218,7 @@ Trevor’s the star with a rhythm to follow.<br><br>
 So here’s to the player who stands out from the crowd,<br>
 With a backward hat and a shot so proud,<br>
 To Trevor, the hero of the orange-clad dream,<br>
-A legend in motion, a goal-scoring machine.<br><br>
+A legend in motion, a goal-scoring machine.
 
 </div>
 </div>

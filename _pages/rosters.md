@@ -7,7 +7,7 @@ permalink: /rosters/
 <div class="row">
 
 <div class="col-md-3 pb-2">
-<div class="card">
+<div class="card bg-theme">
 <div class="card-header text-center text-white bg-green">Green</div>
 <div class="card-body w-100" markdown=1>
 
@@ -34,7 +34,7 @@ permalink: /rosters/
 </div>
 
 <div class="col-md-3 pb-2">
-<div class="card">
+<div class="card bg-theme">
 <div class="card-header text-center text-white bg-orange">Orange</div>
 <div class="card-body w-100" markdown=1>
 
@@ -64,7 +64,7 @@ permalink: /rosters/
 </div>
 
 <div class="col-md-3 pb-2">
-<div class="card">
+<div class="card bg-theme">
 <div class="card-header text-center text-white bg-purple">Purple</div>
 <div class="card-body w-100" markdown=1>
 
@@ -93,7 +93,7 @@ permalink: /rosters/
 </div>
 
 <div class="col-md-3 pb-2">
-<div class="card">
+<div class="card bg-theme">
 <div class="card-header text-center text-white bg-red">Red</div>
 <div class="card-body w-100" markdown=1>
 

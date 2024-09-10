@@ -101,7 +101,7 @@ td {
 }
 
 .text-rainbow {
-  background: linear-gradient(to right, #ef5350, #f48fb1, #7e57c2, #2196f3, #26c6da, #43a047, #eeff41, #f9a825, #ff5722);
+  background: linear-gradient(to right, #ef5350, #f48fb1, #26c6da, #43a047, #eeff41, #f9a825, #ff5722);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -117,9 +117,46 @@ td {
   animation: animateGlow 60s linear infinite;
 }
 
+th {
+  background: linear-gradient(to right, #f2709c, #ff9472);
+}
+
+td {
+  background: white;
+}
+
 .bg-sunset {
   background: linear-gradient(to top, #ff7e5f, #feb47b);
-  text-shadow: -1px -1px 0 #feb47b, 1px -1px 0 #feb47b, -1px 1px 0 #ff7e5f, 1px 1px 0 #ff7e5f;
+}
+.bg-sunset .card-header h4, .bg-sunset .card-header h5 {
+  margin: 0;
+  background: linear-gradient(to top, #ff7e5f, #feb47b);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.bg-sunset .card-body {
+  color: white;
+}
+
+.card {
+  border: none;
+}
+
+.bg-theme {
+  background: linear-gradient(to right, #4568dc, #b06ab3);
+}
+.bg-theme .card-header h4, .bg-theme .card-header h5 {
+  margin: 0;
+  background: linear-gradient(to right, #4568dc, #b06ab3);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.bg-theme .card-body p {
+  color: white;
+}
+
+.bg-button {
+  background: linear-gradient(to right, #f2709c, #ff9472);
   color: white;
 }
 
