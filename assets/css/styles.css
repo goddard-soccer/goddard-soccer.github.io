@@ -79,6 +79,11 @@ td {
   background-color: #DC3545;
 }
 
+.bg-covid {
+  background-color: #CCC !important;
+  color: light-gray !important;
+}
+
 .bg-white {
   background-color: white !important;
   color: black !important;
