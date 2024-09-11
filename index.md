@@ -168,7 +168,7 @@ The Goddard soccer league is excited to announce <strong class="text-rainbow">a 
 
 <div class="card text-center mt-3 bg-rainbow">
 <div class="card-header text-center bg-light">
-    <h5>Brandon's Ego Tracker</h5>
+    <h5>Brandon Ego Tracker</h5>
 </div>
 <div class="card-body" onclick="playSound('hero'); bfactGen();" markdown=1>
 <div class="d-flex justify-content-center">
