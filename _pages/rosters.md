@@ -112,7 +112,6 @@ permalink: /rosters/
 | Player | Juan Novillo |
 | Player | Justin Brannan |
 | Player | Naomi Park |
-| Player | Samuel Obiorah |
 | Player | Shintaveous Furfsburton |
 | Player | Sierra Budinoff |
 | Player | Tyler Lee |
