@@ -107,7 +107,7 @@ td {
 }
 
 .bg-rainbow {
-  background: linear-gradient(to left, rgb(255, 0, 0), rgb(255, 255, 0), rgb(0, 255, 0), rgb(0, 255, 255), rgb(0, 0, 255), rgb(255, 0, 255), rgb(255, 0, 0));
+  background-image: linear-gradient(90deg, #F38BA0, #F6AE99, #F1CA89, #D5ECC2, #BDD2B6, #87A7B3, #E4BAD4, #F38BA0);
   background-size: 400% 400%;
   font-family: comic-sans;
   color: black;

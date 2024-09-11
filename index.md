@@ -156,6 +156,7 @@ The Goddard soccer league is excited to announce <strong class="text-rainbow">a 
         "Brandon once received a speeding ticket for driving down an elementary school hallway.",
         "Brandon files complaints if the flight attendent isn't there within 45 seconds.",
         "Brandon thinks he is impervious to the Dunning-Kruger effect.",
+        "Brandon is considered a Team Edward ultra by the Twilight subreddit.",
     ];
 
     function bfactGen() {
@@ -164,16 +165,16 @@ The Goddard soccer league is excited to announce <strong class="text-rainbow">a 
     }
 </script>
 
-<!--
-<div class="card bg-light text-center mt-3">
-<div class="card-header text-center">
+
+<div class="card text-center mt-3 bg-rainbow">
+<div class="card-header text-center bg-light">
     How many goals has Brandon scored?
 </div>
-<div class="card-body bg-rainbow" onclick="playSound('hero'); bfactGen();" markdown=1>
+<div class="card-body" onclick="playSound('hero'); bfactGen();" markdown=1>
 <div class="d-flex justify-content-center">
 <div class="overflow-auto w-100">
 
-<h2>8 Goals!</h2>
+<h2>14 Goals!</h2>
 <h4 id="bfact">Fact #1: Brandon draws circles at a below-average first grader level.</h4>
 
 <script>
@@ -183,8 +184,9 @@ The Goddard soccer league is excited to announce <strong class="text-rainbow">a 
 </div>
 </div>
 </div>
-</div> -->
+</div>
 
+<!--
 <div class="card text-center mt-3 bg-sunset">
 <div class="card-header text-center bg-light">
     <h5>How many goals has Trevor scored?</h5>
@@ -224,4 +226,4 @@ A legend in motion, a goal-scoring machine.
 </div>
 </div>
 </div>
-
+ -->
