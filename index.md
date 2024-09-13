@@ -157,6 +157,7 @@ The Goddard soccer league is excited to announce <strong class="text-rainbow">a 
         "Brandon files complaints if the flight attendent isn't there within 45 seconds.",
         "Brandon thinks he is impervious to the Dunning-Kruger effect.",
         "Brandon is considered a Team Edward ultra by the Twilight subreddit.",
+        "Brandon says Gilgamesh from Virgil's The Odyssey is the best Shakesperean character.",
     ];
 
     function bfactGen() {
