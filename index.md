@@ -157,7 +157,12 @@ The Goddard soccer league is excited to announce <strong class="text-rainbow">a 
         "Brandon files complaints if the flight attendent isn't there within 45 seconds.",
         "Brandon thinks he is impervious to the Dunning-Kruger effect.",
         "Brandon is considered a Team Edward ultra by the Twilight subreddit.",
-        "Brandon says Gilgamesh from Virgil's The Odyssey is the best Shakesperean character.",
+        "Brandon says Gilgamesh from Virgil's The Odyssey is the most Kafkaesque Shakesperean character.",
+        "Brandon wants bird watching to require a commericial license.",
+        "Brandon refers to his parents as \"chat\" during family dinners.",
+        "Brandon puts cream cheese on the top of his bagels.",
+        "Brandon watches Attack of the Clones for the \"incredibly romantic dialogue\".",
+        "Brandon has never found Waldo and no longer believes in his existence.",
     ];
 
     function bfactGen() {
@@ -165,27 +170,6 @@ The Goddard soccer league is excited to announce <strong class="text-rainbow">a 
         document.getElementById("bfact").innerHTML = 'Fact #' + (bfactsInt+1) + ': ' + bfacts[bfactsInt];
     }
 </script>
-
-
-<!-- <div class="card text-center mt-3 bg-rainbow">
-<div class="card-header text-center bg-light">
-    <h5>Brandon Ego Tracker</h5>
-</div>
-<div class="card-body" onclick="playSound('hero'); bfactGen();" markdown=1>
-<div class="d-flex justify-content-center">
-<div class="overflow-auto w-100">
-
-<h2>14 Goals!</h2>
-<h4 id="bfact">Fact #1: Brandon draws circles at a below-average first grader level.</h4>
-
-<script>
-    bfactGen();
-</script>
-
-</div>
-</div>
-</div>
-</div> -->
 
 
 <div class="card text-center mt-3 bg-sunset">
@@ -237,6 +221,26 @@ So raise a toast to Trevor, strong and true,<br>
 A hero crafted from the sun and sea,<br>  
 In every tale of triumph, he breaks through,<br>  
 For in his heart, he holds our unity.
+
+</div>
+</div>
+</div>
+</div>
+
+<div class="card text-center mt-3 bg-rainbow">
+<div class="card-header text-center bg-light">
+    <h5>Brandon Ego Tracker</h5>
+</div>
+<div class="card-body" onclick="playSound('hero'); bfactGen();" markdown=1>
+<div class="d-flex justify-content-center">
+<div class="overflow-auto w-100">
+
+<h2>14 Goals!</h2>
+<h4 id="bfact">Fact #1: Brandon draws circles at a below-average first grader level.</h4>
+
+<script>
+    bfactGen();
+</script>
 
 </div>
 </div>
