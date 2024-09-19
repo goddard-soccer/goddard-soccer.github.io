@@ -167,7 +167,7 @@ The Goddard soccer league is excited to announce <strong class="text-rainbow">a 
 </script>
 
 
-<div class="card text-center mt-3 bg-rainbow">
+<!-- <div class="card text-center mt-3 bg-rainbow">
 <div class="card-header text-center bg-light">
     <h5>Brandon Ego Tracker</h5>
 </div>
@@ -185,9 +185,9 @@ The Goddard soccer league is excited to announce <strong class="text-rainbow">a 
 </div>
 </div>
 </div>
-</div>
+</div> -->
 
-<!--
+
 <div class="card text-center mt-3 bg-sunset">
 <div class="card-header text-center bg-light">
     <h5>How many goals has Trevor scored?</h5>
@@ -196,35 +196,49 @@ The Goddard soccer league is excited to announce <strong class="text-rainbow">a 
 <div class="d-flex justify-content-center">
 <div class="overflow-auto w-100">
 
-<h2>9 Goals!</h2>
+<h2>15 Goals!</h2>
 
-In the heart of the field where the orange sun glows,<br>
-There’s a player whose talent the whole city knows,<br>
-Trevor’s his name, with a hat worn askew,<br>
-Backwards and bold, as if daring the view.<br><br>
+In sunlit realms where palm trees gently sway,<br>  
+There lived a man named Trevor, bold and wise,<br>  
+A bearded figure from the sunny bay,<br>  
+With laughter bright, he lit the morning skies.<br><br>  
 
-With a kick like a storm and a shot fierce and true,<br>
-He’s scored nine goals now, but he’s far from through,<br>
-The ball finds its path in the net with a roar,<br>
-A symphony of victory that fans adore.<br><br>
+His backward hat, a beacon in the light,<br>  
+Crowned with the tales of wisdom deep and vast,<br>  
+Each word he spoke would turn the dark to bright,<br>  
+As if the shadows of the past were cast.<br><br>  
 
-He dances through defenses with effortless grace,<br>
-A blur of orange, a smile on his face,<br>
-The pitch is his canvas, each match a new art,<br>
-His powerful strikes are a pure work of heart.<br><br>
+Upon the fields of green, he reigned supreme,<br>  
+A soccer sage, with skills both sharp and keen,<br>  
+He danced like wind, a force that few could dream,<br>  
+With every goal, his prowess shone like sheen.<br><br>  
 
-Underneath that cap, there’s a fire so bright,<br>
-It lights up the field, makes the whole game take flight,<br>
-In the grand theater of soccer’s great show,<br>
-Trevor’s the star with a rhythm to follow.<br><br>
+The people gathered, drawn to hear his lore,<br>  
+In every story, lessons intertwined,<br>  
+From battles fought to friendships that endure,<br>  
+In Trevor’s gaze, the world’s own heart aligned.<br><br>  
 
-So here’s to the player who stands out from the crowd,<br>
-With a backward hat and a shot so proud,<br>
-To Trevor, the hero of the orange-clad dream,<br>
-A legend in motion, a goal-scoring machine.
+In twilight’s glow, he’d share his insights grand,<br>  
+On life, on love, on nature’s gentle grace,<br>  
+With laughter spilling forth like grains of sand,<br>  
+He wove a tapestry time can't erase.<br><br>  
+
+His wisdom spread like whispers through the town,<br>  
+A guiding star for those who felt alone,<br>  
+With every cheer and every lifting crown,<br>  
+Trevor the Wise, in hearts, had found his throne.<br><br>  
+
+Oh, Florida man, whose spirit soars on high,<br>  
+With backward hat and beard that caught the breeze,<br>  
+You teach us all to reach beyond the sky,<br>  
+And find the joy in life’s small mysteries.<br><br>  
+
+So raise a toast to Trevor, strong and true,<br>  
+A hero crafted from the sun and sea,<br>  
+In every tale of triumph, he breaks through,<br>  
+For in his heart, he holds our unity.
 
 </div>
 </div>
 </div>
 </div>
- -->
