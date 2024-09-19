@@ -192,7 +192,7 @@ The Goddard soccer league is excited to announce <strong class="text-rainbow">a 
 <div class="card-header text-center bg-light">
     <h5>How many goals has Trevor scored?</h5>
 </div>
-<div class="card-body" onclick="playSound('holding-out'); bfactGen();" markdown=1>
+<div class="card-body" onclick="playSound('scotland-the-brave');" markdown=1>
 <div class="d-flex justify-content-center">
 <div class="overflow-auto w-100">
 
