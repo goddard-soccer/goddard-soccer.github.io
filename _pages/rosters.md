@@ -70,8 +70,8 @@ permalink: /rosters/
 <div class="card-header text-center text-white bg-purple">Purple</div>
 <div class="card-body w-100" markdown=1>
 
-| Captain | Payum Shakoorzadeh |
-| Co-Captain | Carlos Aguilar |
+| Captain | Carlos Aguilar |
+| Co-Captain | Kyle Demmerle |
 | ---------- | ---------- |
 | Player | Adam Maggard |
 | Player | Alejandro Rodriguez |
@@ -82,10 +82,10 @@ permalink: /rosters/
 | Player | Hossein Mohammadkhan |
 | Player | Jack Topper |
 | Player | Joe Hart |
-| Player | Kyle Demmerle |
 | Player | Marcello Rodriguez |
 | Player | Marco Tanda |
 | Player | Michael MacKay |
+| Player | Payum Shakoorzadeh |
 | Player | Sepehr Sarbakhshian |
 | Player | Timothy Wilcox |
 
