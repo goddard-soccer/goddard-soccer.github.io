@@ -79,7 +79,6 @@ permalink: /rosters/
 | Player | Ed Bustillo |
 | Player | Garrett Layne |
 | Player | Hossein Mohammadkhan |
-| Player | Itunu Jagun |
 | Player | Jack Topper |
 | Player | Joe Hart |
 | Player | Kyle Demmerle |
