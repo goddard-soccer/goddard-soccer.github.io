@@ -26,6 +26,7 @@ permalink: /rosters/
 | Player | Keegan O'Connor |
 | Player | Miguel Hernandez |
 | Player | Nhut Truong |
+| Player | Santiago Gassó |
 | Player | Spencer Harman |
 | Player | Stavros Katsas |
 
