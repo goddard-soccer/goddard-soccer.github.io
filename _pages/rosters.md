@@ -42,6 +42,7 @@ permalink: /rosters/
 | Captain | David Katzenberg |
 | Co-Captain | Dayne Ford |
 | ---------- | ---------- |
+| Player | Addison Johnson-Green |
 | Player | Ali Vakili |
 | Player | Andrew McVey |
 | Player | Ava Afghahi |
