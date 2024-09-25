@@ -180,7 +180,7 @@ The Goddard soccer league is excited to announce <strong class="text-rainbow">a 
 <div class="d-flex justify-content-center">
 <div class="overflow-auto w-100">
 
-<h2>15 Goals!</h2>
+<h2>18 Goals!</h2>
 
 In sunlit realms where palm trees gently sway,<br>  
 There lived a man named Trevor, bold and wise,<br>  
