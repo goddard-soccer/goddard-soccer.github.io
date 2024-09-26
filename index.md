@@ -34,6 +34,18 @@ The **cost of fall season is $50 <span class="text-rainbow">(or $25 for interns)
 </div>
 </div>
 
+<!-- begin goal of the week -->
+<div class="card text-center mt-3 bg-theme">
+<div class="card-header text-center bg-light">
+    <h5>Goal of the Week</h5>
+</div>
+<div class="card-body">
+<div class="row text-white">
+    <h5>Dayne Ford - Maximum Confidence Header</h5>
+</div>
+</div>
+</div>
+
 <!-- begin logo contest -->
 <div class="card text-center mt-3 bg-theme">
 <div class="card-header text-center bg-light">
