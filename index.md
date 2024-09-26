@@ -171,6 +171,26 @@ The Goddard soccer league is excited to announce <strong class="text-rainbow">a 
     }
 </script>
 
+<div class="card text-center mt-3 bg-rainbow">
+<div class="card-header text-center bg-light">
+    <h5>Brandon Ego Tracker</h5>
+</div>
+<div class="card-body" onclick="playSound('hero'); bfactGen();" markdown=1>
+<div class="d-flex justify-content-center">
+<div class="overflow-auto w-100">
+
+<h2>19 Goals!</h2>
+<h4 id="bfact">Fact #1: Brandon draws circles at a below-average first grader level.</h4>
+
+<script>
+    bfactGen();
+</script>
+
+</div>
+</div>
+</div>
+</div>
+
 
 <div class="card text-center mt-3 bg-sunset">
 <div class="card-header text-center bg-light">
@@ -221,26 +241,6 @@ So raise a toast to Trevor, strong and true,<br>
 A hero crafted from the sun and sea,<br>  
 In every tale of triumph, he breaks through,<br>  
 For in his heart, he holds our unity.
-
-</div>
-</div>
-</div>
-</div>
-
-<div class="card text-center mt-3 bg-rainbow">
-<div class="card-header text-center bg-light">
-    <h5>Brandon Ego Tracker</h5>
-</div>
-<div class="card-body" onclick="playSound('hero'); bfactGen();" markdown=1>
-<div class="d-flex justify-content-center">
-<div class="overflow-auto w-100">
-
-<h2>14 Goals!</h2>
-<h4 id="bfact">Fact #1: Brandon draws circles at a below-average first grader level.</h4>
-
-<script>
-    bfactGen();
-</script>
 
 </div>
 </div>
