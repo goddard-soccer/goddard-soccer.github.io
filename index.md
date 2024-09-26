@@ -175,6 +175,7 @@ The Goddard soccer league is excited to announce <strong class="text-rainbow">a 
         "Brandon puts cream cheese on the top of his bagels.",
         "Brandon watches Attack of the Clones for the \"incredibly romantic dialogue\".",
         "Brandon has never found Waldo and no longer believes in his existence.",
+        "Brandon wrote a sing-along musical sequel to Bambi where Thumper dies in a bear trap.",
     ];
 
     function bfactGen() {
