@@ -168,14 +168,15 @@ The Goddard soccer league is excited to announce <strong class="text-rainbow">a 
         "Brandon once received a speeding ticket for driving down an elementary school hallway.",
         "Brandon files complaints if the flight attendent isn't there within 45 seconds.",
         "Brandon thinks he is impervious to the Dunning-Kruger effect.",
-        "Brandon is considered a Team Edward ultra by the Twilight subreddit.",
+        "Brandon has been banned from the Twilight subreddit on several accounts for being a Team Edward ultra.",
         "Brandon says Gilgamesh from Virgil's The Odyssey is the most Kafkaesque Shakesperean character.",
         "Brandon wants bird watching to require a commericial license.",
-        "Brandon refers to his parents as \"chat\" during family dinners.",
+        "Brandon refers to his coworkers as \"chat\" during online meetings.",
         "Brandon puts cream cheese on the top of his bagels.",
         "Brandon watches Attack of the Clones for the \"incredibly romantic dialogue\".",
         "Brandon has never found Waldo and no longer believes in his existence.",
         "Brandon wrote a sing-along musical sequel to Bambi where Thumper dies in a bear trap.",
+        "Brandon haggles at the dollar store.",
     ];
 
     function bfactGen() {
