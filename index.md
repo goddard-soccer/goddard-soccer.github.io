@@ -177,6 +177,7 @@ The Goddard soccer league is excited to announce <strong class="text-rainbow">a 
         "Brandon has never found Waldo and no longer believes in his existence.",
         "Brandon wrote a sing-along musical sequel to Bambi where Thumper dies in a bear trap.",
         "Brandon haggles at the dollar store.",
+        "Brandon bought an over the air high definition TV antenna for his Teletubbies onesie.",
     ];
 
     function bfactGen() {
