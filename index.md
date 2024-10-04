@@ -41,7 +41,7 @@ The **cost of fall season is $50 <span class="text-rainbow">(or $25 for interns)
 </div>
 <div class="card-body">
 <div class="row text-white">
-    <h5 class="m-0">Dayne Ford - Maximum Confidence Header</h5>
+    <h5 class="m-0">Green - Last Second Comeback</h5>
 </div>
 </div>
 </div>
