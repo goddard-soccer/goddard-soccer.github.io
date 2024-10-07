@@ -173,11 +173,13 @@ The Goddard soccer league is excited to announce <strong class="text-rainbow">a 
         "Brandon wants bird watching to require a commericial license.",
         "Brandon refers to his coworkers as \"chat\" during online meetings.",
         "Brandon puts cream cheese on the top of his bagels.",
-        "Brandon watches Attack of the Clones for the \"incredibly romantic dialogue\".",
+        "Brandon watches Attack of the Clones for the \"heart-wrenching romantic dialogue\".",
         "Brandon has never found Waldo and no longer believes in his existence.",
         "Brandon wrote a sing-along musical sequel to Bambi where Thumper dies in a bear trap.",
         "Brandon haggles at the dollar store.",
         "Brandon bought an over the air high definition TV antenna for his Teletubbies onesie.",
+        "Brandon thinks the second cut is deeper.",
+        "Brandon brags about having biological homochromia.",
     ];
 
     function bfactGen() {
