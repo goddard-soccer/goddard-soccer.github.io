@@ -180,6 +180,7 @@ The Goddard soccer league is excited to announce <strong class="text-rainbow">a 
         "Brandon bought an over the air high definition TV antenna for his Teletubbies onesie.",
         "Brandon thinks the second cut is deeper.",
         "Brandon brags about having a genetic predisposition to homochromia.",
+        "Brandon tried to re-invigorate the Sneetch belly star market.",
     ];
 
     function bfactGen() {
