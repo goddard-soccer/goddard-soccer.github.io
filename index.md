@@ -27,9 +27,9 @@ We will likely have some pick up games until day light savings (early November).
 <!-- <div class="col-md-6 mt-3">
     <a type="button" class="btn btn-primary col-6" href="https://forms.gle/iggf2sibER2xtd7z8">Spring Sign Up Form</a>
 </div> -->
-<div class="col-md-12 mt-3">
+<!-- <div class="col-md-12 mt-3">
     <a type="button" class="btn bg-button col-6" href="https://forms.gle/YN3VdfuhnKLRoKez9">Fall Sign Up Form</a>
-</div>
+</div> -->
 </div>
 </div>
 </div>
