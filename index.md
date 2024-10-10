@@ -19,7 +19,7 @@ title: Home
 </div>
 <div class="card-body">
 <div class="row" markdown=1>
-Thank you everyone for a great year of soccer! The Fall season and thus this year's soccer has come to an end. I've had the time of my life and I've never felt like this before. Yes I swear its the truth, and I owe it all to you!
+Thank you everyone for a great year of soccer! The Fall season and thus this year's soccer has come to an end. I've had the time of my life and I've never felt like this before. Yes I swear its the truth, and <strong class="text-rainbow">I owe it all to you!</strong>
 <br><br>
 We will likely have some pick up games until day light savings (early November). Official Goddard soccer will resume next year around March or April, so be on the look out for messages then!
 </div>
