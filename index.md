@@ -41,7 +41,7 @@ The **cost of fall season is $50 <span class="text-rainbow">(or $25 for interns)
 </div>
 <div class="card-body">
 <div class="row text-white">
-    <h5 class="m-0">Green - Last Second Comeback</h5>
+    <h5 class="m-0">Everyone for a great season :D</h5>
 </div>
 </div>
 </div>
@@ -172,7 +172,7 @@ The Goddard soccer league is excited to announce <strong class="text-rainbow">a 
         "Brandon says Gilgamesh from Virgil's The Odyssey is the most Kafkaesque Shakesperean character.",
         "Brandon wants bird watching to require a commericial license.",
         "Brandon refers to his coworkers as \"chat\" during online meetings.",
-        "Brandon puts cream cheese on the top of his bagels.",
+        "Brandon puts cream cheese in the hole of his bagels.",
         "Brandon watches Attack of the Clones for the \"heart-wrenching romantic dialogue\".",
         "Brandon has never found Waldo and no longer believes in his existence.",
         "Brandon wrote a sing-along musical sequel to Bambi where Thumper dies in a bear trap.",
@@ -197,7 +197,7 @@ The Goddard soccer league is excited to announce <strong class="text-rainbow">a 
 <div class="d-flex justify-content-center">
 <div class="overflow-auto w-100">
 
-<h2>22 Goals!</h2>
+<h2>25 Goals!</h2>
 <h4 id="bfact">Fact #1: Brandon draws circles at a below-average first grader level.</h4>
 
 <script>
@@ -209,56 +209,62 @@ The Goddard soccer league is excited to announce <strong class="text-rainbow">a 
 </div>
 </div>
 
+<div class="card text-center mt-3 bg-mono">
+<div class="card-header text-center bg-light">
+    <h5>Tyler's Stormtrooper Impression</h5>
+</div>
+<div class="card-body" onclick="playSound('bad-day');" markdown=1>
+<div class="d-flex justify-content-center">
+<div class="overflow-auto w-100">
+
+<h2>4 Point Blank Misses!</h2>
+<p>P.S. 4, 5, 6, 3, R1, 1, 7, S, 2, 9, 8</p>
+
+</div>
+</div>
+</div>
+</div>
+
 
 <div class="card text-center mt-3 bg-sunset">
 <div class="card-header text-center bg-light">
-    <h5>How many goals has Trevor scored?</h5>
+    <h5>Trevor's Cumulative Hat Tricks / 3</h5>
 </div>
 <div class="card-body" onclick="playSound('scotland-the-brave');" markdown=1>
 <div class="d-flex justify-content-center">
 <div class="overflow-auto w-100">
 
-<h2>20 Goals!</h2>
+<h2>22 Goals!</h2>
 
-In sunlit realms where palm trees gently sway,<br>  
-There lived a man named Trevor, bold and wise,<br>  
-A bearded figure from the sunny bay,<br>  
-With laughter bright, he lit the morning skies.<br><br>  
+In the fields of orange,<br>
+A knight with heart so bold,<br>
+Trevor leads his team,<br>
+With a story to be told.<br><br>
 
-His backward hat, a beacon in the light,<br>  
-Crowned with the tales of wisdom deep and vast,<br>  
-Each word he spoke would turn the dark to bright,<br>  
-As if the shadows of the past were cast.<br><br>  
+With a backward cap perched,<br>
+And a sexy beard that gleams,<br>
+He dances through defenders,<br>
+Crushing all their dreams.<br><br>
 
-Upon the fields of green, he reigned supreme,<br>  
-A soccer sage, with skills both sharp and keen,<br>  
-He danced like wind, a force that few could dream,<br>  
-With every goal, his prowess shone like sheen.<br><br>  
+Twenty-two goals this season,<br>
+Each strike a fiery spark,<br>
+The crowd erupts in cheers,<br>
+As he ignites the dark.<br><br>
 
-The people gathered, drawn to hear his lore,<br>  
-In every story, lessons intertwined,<br>  
-From battles fought to friendships that endure,<br>  
-In Trevor’s gaze, the world’s own heart aligned.<br><br>  
+His spirit lifts the team,<br>
+They find their strength anew,<br>
+In every pass and tackle,<br>
+Together they break through.<br><br>
 
-In twilight’s glow, he’d share his insights grand,<br>  
-On life, on love, on nature’s gentle grace,<br>  
-With laughter spilling forth like grains of sand,<br>  
-He wove a tapestry time can't erase.<br><br>  
+The championship awaits,<br>
+Their quest within their grasp,<br>
+With unity and courage,<br>
+They hold their fate, steadfast.<br><br>
 
-His wisdom spread like whispers through the town,<br>  
-A guiding star for those who felt alone,<br>  
-With every cheer and every lifting crown,<br>  
-Trevor the Wise, in hearts, had found his throne.<br><br>  
-
-Oh, Florida man, whose spirit soars on high,<br>  
-With backward hat and beard that caught the breeze,<br>  
-You teach us all to reach beyond the sky,<br>  
-And find the joy in life’s small mysteries.<br><br>  
-
-So raise a toast to Trevor, strong and true,<br>  
-A hero crafted from the sun and sea,<br>  
-In every tale of triumph, he breaks through,<br>  
-For in his heart, he holds our unity.
+In the final match they shine,<br>
+Trevor leads them true,<br>
+With skill and heart combined,<br>
+They shall claim the title due.
 
 </div>
 </div>
