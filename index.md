@@ -41,7 +41,7 @@ We will likely have some pick up games until day light savings (early November).
 </div>
 <div class="card-body">
 <div class="row text-white">
-    <h5 class="m-0">20 pull-ups without dropping</h5>
+    <h5 class="m-0">Make a stranger laugh</h5>
 </div>
 </div>
 </div>
