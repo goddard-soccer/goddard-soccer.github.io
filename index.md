@@ -15,13 +15,13 @@ title: Home
 <!-- begin row sign up -->
 <div class="card text-center mt-3 bg-theme">
 <div class="card-header text-center bg-light">
-    <h5>Fall Season Sign Up</h5>
+    <h5>League Status</h5>
 </div>
 <div class="card-body">
 <div class="row" markdown=1>
-The Goddard soccer league continues with the Fall season! The fall season is also 9 games and will start shortly after in late July, concluding in early October.
+Thank you everyone for a great year of soccer! The Fall season and thus this year's soccer has come to an end. I've had the time of my life and I've never felt like this before. Yes I swear its the truth, and I owe it all to you!
 <br><br>
-The **cost of fall season is $50 <span class="text-rainbow">(or $25 for interns)</span>** which goes toward maintaining the field, and the games will be self-refereed. Games are played on **Tuesdays and Wednesdays on-site at the field near Building 11**, with rainout make up games on Thursdays. Click the **button below to go the sign up form**, we hope you join and look forward to seeing you on the pitch!
+We will likely have some pick up games until day light savings (early November). Official Goddard soccer will resume next year around March or April, so be on the look out for messages then!
 </div>
 <div class="row px-3 ">
 <!-- <div class="col-md-6 mt-3">
@@ -41,7 +41,7 @@ The **cost of fall season is $50 <span class="text-rainbow">(or $25 for interns)
 </div>
 <div class="card-body">
 <div class="row text-white">
-    <h5 class="m-0">Everyone for a great season :D</h5>
+    <h5 class="m-0">20 pull-ups without dropping</h5>
 </div>
 </div>
 </div>
