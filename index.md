@@ -167,7 +167,7 @@ The Goddard soccer league is excited to announce <strong class="text-rainbow">a 
         "Brandon once received a speeding ticket for driving down an elementary school hallway.",
         "Brandon files complaints if the flight attendant isn't there within 45 seconds.",
         "Brandon thinks he is impervious to the Dunning-Kruger effect.",
-        "Brandon has been banned from the Twilight subreddit on several accounts for being a Team Edward ultra.",
+        "Brandon has multiple bans from the Twilight subreddit for being a Team Edward ultra.",
         "Brandon says Gilgamesh from Virgil's The Odyssey is the most Kafkaesque Shakesperean character.",
         "Brandon wants bird watching to require a commericial license.",
         "Brandon refers to his coworkers as \"chat\" during online meetings.",
