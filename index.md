@@ -41,7 +41,7 @@ We will likely have some pick up games until day light savings (early November).
 </div>
 <div class="card-body">
 <div class="row text-white">
-    <h5 class="m-0">Make a stranger laugh</h5>
+    <h5 class="m-0">Learn all the moves to Dirty Dancing's "The Time of My Life" scene</h5>
 </div>
 </div>
 </div>
@@ -160,7 +160,7 @@ The Goddard soccer league is excited to announce <strong class="text-rainbow">a 
         "Brandon is an avid cubic-Neptuner.",
         "Brandon considers Nickleback's 2nd album, The State, to be more \"sensual \" than Curb, their 1st.",
         "Brandon thinks the prime meridian is latitudinal.",
-        "Brandon wanted to be a debt collector specifically for \"impovershied single mothers\" growing up.",
+        "Brandon wanted to be a debt collector specifically for \"impoverished single mothers\" growing up.",
         "Brandon once said the Shrek soundtrack is \"like no cap pretty mid skibidi rizzler\".",
         "Brandon brings wire cutters to karoke night because he doesn't like how excited people get.",
         "Brandon lives in a reality based in object impermanence.",
