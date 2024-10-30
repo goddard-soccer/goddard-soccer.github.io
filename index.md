@@ -186,6 +186,7 @@ The Goddard soccer league is excited to announce <strong class="text-rainbow">a 
         "Brandon has seen the Barbie movie 873 times, but he still feels he is not Kenough.",
         "Brandon wears bucket hats backward so \"people will think he's cool\"."
         "Brandon was rejected from Blue Man Group tryouts for not following the color guidelines.",
+        "Brandon doesn't understand why every number system is technically base 10.",
     ];
 
     function bfactGen() {
