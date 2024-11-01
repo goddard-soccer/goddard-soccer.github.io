@@ -169,7 +169,7 @@ The Goddard soccer league is excited to announce <strong class="text-rainbow">a 
         "Brandon thinks he is impervious to the Dunning-Kruger effect.",
         "Brandon has multiple bans from the Twilight subreddit for being a Team Edward ultra.",
         "Brandon says Gilgamesh from Virgil's The Odyssey is the most Kafkaesque Shakesperean character.",
-        "Brandon wants bird watching to require a commericial license.",
+        "Brandon wants bird watching to require a commercial license.",
         "Brandon refers to his coworkers as \"chat\" during online meetings.",
         "Brandon only puts cream cheese in the hole of his bagels.",
         "Brandon watches Attack of the Clones for the \"heart-wrenching romantic dialogue\".",
