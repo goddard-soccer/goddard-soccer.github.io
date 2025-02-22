@@ -19,9 +19,10 @@ title: Home
 </div>
 <div class="card-body">
 <div class="row" markdown=1>
-Thank you everyone for a great year of soccer! The Fall season and thus this year's soccer has come to an end. I've had the time of my life and I've never felt like this before. Yes I swear its the truth, and <strong class="text-rainbow">I owe it all to you!</strong>
+<h4><strong class="text-rainbow">PUMP UP THE JAM!!!</strong></h4>
+Get excited for soccer to come back into season! We are currently ramping up for the Spring season, working on advertising and sign ups. There will be free pick up games to get everyone back into shape before the season begins!
 <br><br>
-We will likely have some pick up games until day light savings (early November). Official Goddard soccer will resume next year around March or April, so be on the look out for messages then!
+Official Goddard soccer will resume around March or April, but we will be messaging about pick up and sign ups long before then ;)
 </div>
 <div class="row px-3 ">
 <!-- <div class="col-md-6 mt-3">
@@ -41,19 +42,7 @@ We will likely have some pick up games until day light savings (early November).
 </div>
 <div class="card-body">
 <div class="row text-white">
-    <h5 class="m-0">Learn all the moves to Dirty Dancing's "The Time of My Life" scene</h5>
-</div>
-</div>
-</div>
-
-<!-- begin logo contest -->
-<div class="card text-center mt-3 bg-theme">
-<div class="card-header text-center bg-light">
-    <h5>Logo Contest</h5>
-</div>
-<div class="card-body">
-<div class="row" markdown=1>
-The Goddard soccer league is excited to announce <strong class="text-rainbow">a logo contest!!!</strong> (THE CROWD GOES WILD) We are looking for something elegant that will encapsulate the GSL teams and our love for soccer. The logo will be decided during the fall season. Dive into your artistic side engineers, the winner will get their Fall season dues wavied!
+    <h5 class="m-0">Listen to 1989 Belgian techno anthem masterpiece "Pump up the Jam" until I can no longer hear anything</h5>
 </div>
 </div>
 </div>
@@ -203,7 +192,7 @@ The Goddard soccer league is excited to announce <strong class="text-rainbow">a 
 <div class="d-flex justify-content-center">
 <div class="overflow-auto w-100">
 
-<h2>25 Goals!</h2>
+<h2>0 Goals!</h2>
 <h4 id="bfact">Fact #1: Brandon draws circles at a below-average first grader level.</h4>
 
 <script>
@@ -223,7 +212,7 @@ The Goddard soccer league is excited to announce <strong class="text-rainbow">a 
 <div class="d-flex justify-content-center">
 <div class="overflow-auto w-100">
 
-<h2>4 Point Blank Misses!</h2>
+<h2>0 Point Blank Misses!</h2>
 <p>P.S. 4, 5, 6, 3, R1, 1, 7, S, 2, 9, 8</p>
 
 </div>
@@ -231,7 +220,7 @@ The Goddard soccer league is excited to announce <strong class="text-rainbow">a 
 </div>
 </div>
 
-
+<!--
 <div class="card text-center mt-3 bg-sunset">
 <div class="card-header text-center bg-light">
     <h5>Trevor's Cumulative Hat Tricks / 3</h5>
@@ -240,39 +229,11 @@ The Goddard soccer league is excited to announce <strong class="text-rainbow">a 
 <div class="d-flex justify-content-center">
 <div class="overflow-auto w-100">
 
-<h2>22 Goals!</h2>
-
-In the fields of orange,<br>
-A knight with heart so bold,<br>
-Trevor leads his team,<br>
-With a story to be told.<br><br>
-
-With a backward cap perched,<br>
-And a sexy beard that gleams,<br>
-He dances through defenders,<br>
-Crushing all their dreams.<br><br>
-
-Twenty-two goals this season,<br>
-Each strike a fiery spark,<br>
-The crowd erupts in cheers,<br>
-As he ignites the dark.<br><br>
-
-His spirit lifts the team,<br>
-They find their strength anew,<br>
-In every pass and tackle,<br>
-Together they break through.<br><br>
-
-The championship awaits,<br>
-Their quest within their grasp,<br>
-With unity and courage,<br>
-They hold their fate, steadfast.<br><br>
-
-In the final match they shine,<br>
-Trevor leads them true,<br>
-With skill and heart combined,<br>
-They shall claim the title due.
+<h2>0 Goals!</h2>
 
 </div>
 </div>
 </div>
 </div>
+-->
+
