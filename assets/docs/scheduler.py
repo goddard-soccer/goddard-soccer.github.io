@@ -57,6 +57,8 @@ fall = []
 for w in cal[6]:
     if 4 in w:
         continue
+    if w[0] == 5:
+        continue # fourth of july on sunday
     if w[1] != 0:
         fall.append(f"{w[1]}/7/{year},")
     if w[2] != 0:
@@ -118,8 +120,8 @@ for a in range(2): # generate 24 pairings, enough for spring/fall
             
             pairs.append(f"{teams[t1]},{teams[t2]},")
             pairs.append(f"{teams[t3]},{teams[t4]},")
-pairs[18] = "Third,Fourth,"
-pairs[19] = "First,Second," 
+pairs.insert(18, "Third,Fourth,")
+pairs.insert(19, "First,Second,")
 
 # #################
 # combine
