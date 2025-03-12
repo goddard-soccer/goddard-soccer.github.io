@@ -20,17 +20,15 @@ title: Home
 <div class="card-body">
 <div class="row" markdown=1>
 <h4><strong class="text-rainbow">PUMP UP THE JAM!!!</strong></h4>
-Get excited for soccer to come back into season! We are currently ramping up for the Spring season, working on advertising and sign ups. There will be free pick up games to get everyone back into shape before the season begins!
+Pick up is in session, Wednesdays on the Goddard lawn, just inside the old main gate, next to the Building 1 Cafeteria! These are free for anyone to come and play!
 <br><br>
-Official Goddard soccer will resume around March or April, but we will be messaging about pick up and sign ups long before then ;)
+Click the button below to sign up for the Spring 2025 Season, which starts at the beginning of April! See the scores page for the full schedule!
 </div>
 <div class="row px-3 ">
-<!-- <div class="col-md-6 mt-3">
-    <a type="button" class="btn btn-primary col-6" href="https://forms.gle/iggf2sibER2xtd7z8">Spring Sign Up Form</a>
-</div> -->
-<!-- <div class="col-md-12 mt-3">
-    <a type="button" class="btn bg-button col-6" href="https://forms.gle/YN3VdfuhnKLRoKez9">Fall Sign Up Form</a>
-</div> -->
+<div class="col-md-12 mt-3">
+    <a type="button" class="btn btn-primary col-6 bg-sunset" href="https://forms.gle/HjmzVpioDQJY2MRWA">Spring Sign Up Form</a>
+</div>
+</div>
 </div>
 </div>
 </div>
