@@ -31,7 +31,6 @@ Click the button below to sign up for the Spring 2025 Season, which starts at th
 </div>
 </div>
 </div>
-</div>
 
 <!-- begin goal of the week -->
 <div class="card text-center mt-3 bg-theme">
