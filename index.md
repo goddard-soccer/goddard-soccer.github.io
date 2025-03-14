@@ -26,7 +26,7 @@ Click the button below to sign up for the Spring 2025 Season, which starts at th
 </div>
 <div class="row px-3 ">
 <div class="col-md-12 mt-3">
-    <a type="button" class="btn btn-primary col-6 bg-sunset" href="https://forms.gle/HjmzVpioDQJY2MRWA">Spring Sign Up Form</a>
+    <a type="button" class="btn bg-button col-6" href="https://forms.gle/HjmzVpioDQJY2MRWA">Spring Sign Up Form</a>
 </div>
 </div>
 </div>
