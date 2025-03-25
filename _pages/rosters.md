@@ -37,6 +37,7 @@ permalink: /rosters/
 | Captain | David Katzenberg |
 | Co-Captain | Dayne Ford |
 | ---------- | ---------- |
+| Player | Addison Johnson |
 | Player | Arijit Dutta |
 | Player | Ava Afghahi |
 | Player | David Russell |
@@ -68,6 +69,7 @@ permalink: /rosters/
 | Player | Michael MacKay |
 | Player | Naomi Park |
 | Player | Payum Shakoorzadeh |
+| Player | Thomas Mariano |
 | Player | Timothy Wilcox |
 | Player | Zachary McQueen |
 
@@ -141,7 +143,6 @@ permalink: /rosters/
 | Captain | David Katzenberg |
 | Co-Captain | Dayne Ford |
 | ---------- | ---------- |
-| Player | Addison Johnson-Green |
 | Player | Ali Vakili |
 | Player | Andrew McVey |
 | Player | Carolyn Fisk |
