@@ -19,7 +19,7 @@ title: Home
 </div>
 <div class="card-body">
 <div class="row" markdown=1>
-<h4><strong class="text-rainbow">PUMP UP THE JAM!!!</strong></h4>
+<img src="/images/logo.svg" style="text-align: center; height: 20vh"/><br><br>
 Pick up is in session, Wednesdays on the Goddard lawn, just inside the old main gate, next to the Building 1 Cafeteria! These are free for anyone to come and play!
 <br><br>
 Click the button below to sign up for the Spring 2025 Season, which starts at the beginning of April! See the scores page for the full schedule!
@@ -33,16 +33,16 @@ Click the button below to sign up for the Spring 2025 Season, which starts at th
 </div>
 
 <!-- begin goal of the week -->
-<div class="card text-center mt-3 bg-theme">
+<!-- <div class="card text-center mt-3 bg-theme">
 <div class="card-header text-center bg-light">
     <h5>Goal of the Week</h5>
 </div>
 <div class="card-body">
 <div class="row text-white">
-    <h5 class="m-0">Listen to 1989 Belgian techno anthem masterpiece "Pump up the Jam" until I can no longer hear anything</h5>
+    <h5 class="m-0">Text</h5>
 </div>
 </div>
-</div>
+</div> -->
 
 <!-- begin row champ video -->
 <!-- <div class="card bg-light text-center my-3">
@@ -140,8 +140,6 @@ Click the button below to sign up for the Spring 2025 Season, which starts at th
         "Brandon turns around and goes back upon encountering two roads diverging in a wood.",
         "Brandon always gives a standing ovation when the plane takes off.",
         "Brandon pretends to know McLovin's last name.",
-        // "Brandon thinks horseradish sauce was concocted by \"hardcore left-wing media pundits\".",
-        // "Brandon doesn't understand why cheaters have to eat so much pumpkin, but \"it is delicious\".",
         "Brandon buys two gallons of 2% milk and mixes them because he only drinks 4%.",
         "Brandon is an avid cubic-Neptuner.",
         "Brandon considers Nickleback's 2nd album, The State, to be more \"sensual \" than Curb, their 1st.",
@@ -173,6 +171,8 @@ Click the button below to sign up for the Spring 2025 Season, which starts at th
         "Brandon wears bucket hats backward so \"people will think he's cool\".",
         "Brandon was rejected from Blue Man Group tryouts for not following the color guidelines.",
         "Brandon doesn't understand why every number system is technically base 10.",
+        "Brandon can't figure out what Scotty doesn't know.",
+        "Brandon wouldn't give a Honda Civic to know the meaning of Stonehenge.",
     ];
 
     function bfactGen() {
@@ -201,7 +201,7 @@ Click the button below to sign up for the Spring 2025 Season, which starts at th
 </div>
 </div>
 
-<div class="card text-center mt-3 bg-mono">
+<!-- <div class="card text-center mt-3 bg-mono">
 <div class="card-header text-center bg-light">
     <h5>Tyler's Stormtrooper Impression</h5>
 </div>
@@ -215,7 +215,7 @@ Click the button below to sign up for the Spring 2025 Season, which starts at th
 </div>
 </div>
 </div>
-</div>
+</div> -->
 
 <!--
 <div class="card text-center mt-3 bg-sunset">

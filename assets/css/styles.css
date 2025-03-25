@@ -180,9 +180,11 @@ td {
 .bg-button {
   background: linear-gradient(to right, #f2709c, #ff9472);
   color: white;
+  font-weight: 700;
 }
 .bg-button:hover {
   background: linear-gradient(to right, #ff9472, #f2709c);
+  font-weight: 700;
   color: black;
 }
 

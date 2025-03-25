@@ -4,12 +4,16 @@ from datetime import datetime
 
 parser = argparse.ArgumentParser()
 parser.add_argument("inputFile", type=str, default="teams.csv")
-parser.add_argument('-o', '--outputFile', type=str, default="roster.md")
+parser.add_argument('-o', '--outputFile', type=str, default="rosters.md")
 parser.add_argument('-r', '--rating', action='store_true')
 args = parser.parse_args()
 
+if args.rating:
+    args.outputFile = "rosters2.md"
+
 open(args.outputFile, 'w').close()
 f = open(args.outputFile, 'a')
+
 
 f.write(f"""---
 layout: page
@@ -62,8 +66,8 @@ with open(args.inputFile, newline='') as csvfile:
     
     for k in rosterDict:
         f.write(f"""
-<div class="col-md-3 pb-2">
-<div class="card">
+<div class="col-md-3 pb-3">
+<div class="card bg-theme">
 <div class="card-header text-center text-white bg-{k.lower()}">{k}</div>
 <div class="card-body w-100" markdown=1>
 
