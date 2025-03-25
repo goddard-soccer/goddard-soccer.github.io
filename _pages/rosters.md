@@ -72,6 +72,7 @@ permalink: /rosters/
 | Player | Thomas Mariano |
 | Player | Timothy Wilcox |
 | Player | Zachary McQueen |
+| Player | Zoran Kahric |
 
 
 </div>
