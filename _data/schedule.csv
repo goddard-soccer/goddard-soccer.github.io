@@ -1,4 +1,24 @@
 Date,Home,Away,HomeScore,AwayScore
+6/8/2024,Orange,Green,3,2
+7/8/2024,Purple,Red,2,6
+13/8/2024,Purple,Orange,3,4
+14/8/2024,Green,Red,4,5
+20/8/2024,Red,Orange,1,11
+21/8/2024,Green,Purple,2,2
+27/8/2024,Purple,Red,4,8
+4/9/2024,Green,Orange,4,4
+Break,Labor Day Week
+10/9/2024,Red,Green,9,5
+11/9/2024,Orange,Purple,6,1
+17/9/2024,Purple,Green,3,0
+18/9/2024,Red,Orange,0,3
+24/9/2024,Orange,Green,7,4
+25/9/2024,Red,Purple,8,7
+1/10/2024,Orange,Purple,7,3
+2/10/2024,Red,Green,4,5
+8/10/2024,Purple,Green,3,0
+9/10/2024,Orange,Red,3,6
+Break,Winter Break
 1/4/2025,Red,Orange,
 2/4/2025,Green,Purple,
 8/4/2025,Purple,Orange,
@@ -21,6 +41,8 @@ Break,Memorial Day
 10/6/2025,Third,Fourth,
 11/6/2025,First,Second,
 Break, Summer Break
+
+# Fall 2025
 8/7/2025,Orange,Red,
 9/7/2025,Purple,Green,
 15/7/2025,Orange,Purple,
@@ -40,27 +62,6 @@ Break, Summer Break
 Break,Labor Day
 9/9/2025,Red,Purple,
 10/9/2025,Orange,Green,
-
-Break,Fall 2024 Scores
-6/8/2024,Orange,Green,3,2
-7/8/2024,Purple,Red,2,6
-13/8/2024,Purple,Orange,3,4
-14/8/2024,Green,Red,4,5
-20/8/2024,Red,Orange,1,11
-21/8/2024,Green,Purple,2,2
-27/8/2024,Purple,Red,4,8
-4/9/2024,Green,Orange,4,4
-Break,Labor Day Week
-10/9/2024,Red,Green,9,5
-11/9/2024,Orange,Purple,6,1
-17/9/2024,Purple,Green,3,0
-18/9/2024,Red,Orange,0,3
-24/9/2024,Orange,Green,7,4
-25/9/2024,Red,Purple,8,7
-1/10/2024,Orange,Purple,7,3
-2/10/2024,Red,Green,4,5
-8/10/2024,Purple,Green,3,0
-9/10/2024,Orange,Red,3,6
 
 # Spring 2024
 30/4/2024,Green,Orange,5,4
