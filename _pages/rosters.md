@@ -14,6 +14,7 @@ permalink: /rosters/
 | Captain | Kate Gasaway |
 | Co-Captain | Lateef Ajayi |
 | ---------- | ---------- |
+| Player | Aaron Vigil |
 | Player | Alan Arellano |
 | Player | Ben Winkler |
 | Player | Brodie Wallace |
@@ -69,6 +70,7 @@ permalink: /rosters/
 | ---------- | ---------- |
 | Player | Adam Maggard |
 | Player | Anders Lundkvist |
+| Player | Daniel Rodriguez |
 | Player | Ethan Burbridge |
 | Player | Hossein |
 | Player | Jack Topper |
@@ -94,7 +96,6 @@ permalink: /rosters/
 | Captain | Kevin Rhoads |
 | Co-Captain | Sierra Budinoff |
 | ---------- | ---------- |
-| Player | Aaron Vigil |
 | Player | Christian Caicedo |
 | Player | Christian Naylor |
 | Player | Connor Burnett |
