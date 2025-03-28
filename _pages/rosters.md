@@ -25,6 +25,7 @@ permalink: /rosters/
 | Player | Nhut Truong |
 | Player | Spencer Harman |
 | Player | Sydney Rocz |
+| Player | Zachary McQueen |
 
 
 </div>
@@ -40,6 +41,7 @@ permalink: /rosters/
 | Co-Captain | Dayne Ford |
 | ---------- | ---------- |
 | Player | Addison Johnson |
+| Player | Andrew McVey |
 | Player | Arijit Dutta |
 | Player | Ava Afghahi |
 | Player | David Russell |
@@ -68,14 +70,15 @@ permalink: /rosters/
 | Player | Adam Maggard |
 | Player | Anders Lundkvist |
 | Player | Ethan Burbridge |
+| Player | Hossein |
 | Player | Jack Topper |
 | Player | Marcello Rodriguez |
+| Player | Marco Tanda |
 | Player | Michael MacKay |
 | Player | Naomi Park |
 | Player | Payum Shakoorzadeh |
 | Player | Thomas Mariano |
 | Player | Timothy Wilcox |
-| Player | Zachary McQueen |
 | Player | Zoran Kahric |
 
 
