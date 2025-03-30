@@ -19,7 +19,9 @@ title: Home
 </div>
 <div class="card-body">
 <div class="row" markdown=1>
-<img src="/images/logo.svg" style="text-align: center; height: 20vh"/>
+<div class="mb-2" style="text-align: center; height: 20vh">
+{% include logo.svg %}
+</div>
 <h4><strong class="text-rainbow">TIS THE SEASON FOR SOCCER</strong></h4>
 Spring is in the air, along with a health supply of soccer balls! If you haven't signed up by now, sign ups are still live, but hurry!
 <br>
@@ -180,13 +182,23 @@ See y'all on the pitch...
         bfactsInt = Math.floor(Math.random() * bfacts.length);
         document.getElementById("bfact").innerHTML = 'Fact #' + (bfactsInt+1) + ': ' + bfacts[bfactsInt];
     }
+
+    let hue = 0;
+    function rainbowCycle() {
+        for (let i = 0; i < 8; i++) {
+            val = (hue + 1 + i*45) % 360;
+            document.getElementById('star'+ i).style.fill = `hsl(${val}, 100%, 50%)`;
+        }
+        hue++;
+    }
+    setInterval(rainbowCycle, 100);
 </script>
 
 <div class="card text-center mt-3 bg-rainbow">
-<div class="card-header text-center bg-light">
+<div class="card-header text-center bg-light" onclick="playSound('hero')">
     <h5>Brandon Ego Tracker</h5>
 </div>
-<div class="card-body" onclick="playSound('hero'); bfactGen();" markdown=1>
+<div class="card-body" onclick="bfactGen()" style="user-select: none; -moz-user-select: none; -webkit-user-select: none; -webkit-touch-callout: none;" markdown=1>
 <div class="d-flex justify-content-center">
 <div class="overflow-auto w-100">
 
