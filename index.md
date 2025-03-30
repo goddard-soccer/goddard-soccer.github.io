@@ -19,7 +19,7 @@ title: Home
 </div>
 <div class="card-body">
 <div class="row" markdown=1>
-<img src="/images/logo.svg" style="text-align: center; height: 20vh"/><br><br>
+<img src="/images/logo.svg" style="text-align: center; height: 20vh"/>
 <h4><strong class="text-rainbow">TIS THE SEASON FOR SOCCER</strong></h4>
 Spring is in the air, along with a health supply of soccer balls! If you haven't signed up by now, sign ups are still live, but hurry!
 <br>
