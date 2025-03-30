@@ -20,9 +20,10 @@ title: Home
 <div class="card-body">
 <div class="row" markdown=1>
 <img src="/images/logo.svg" style="text-align: center; height: 20vh"/><br><br>
-Pick up is in session, Wednesdays on the Goddard lawn, just inside the old main gate, next to the Building 1 Cafeteria! These are free for anyone to come and play!
-<br><br>
-Click the button below to sign up for the Spring 2025 Season, which starts at the beginning of April! See the scores page for the full schedule!
+<h4><strong class="text-rainbow">TIS THE SEASON FOR SOCCER</strong></h4>
+Spring is in the air, along with a health supply of soccer balls! If you haven't signed up by now, sign ups are still live, but hurry!
+<br>
+See y'all on the pitch...
 </div>
 <div class="row px-3 ">
 <div class="col-md-12 mt-3">
