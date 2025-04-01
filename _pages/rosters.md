@@ -19,6 +19,7 @@ permalink: /rosters/
 | Player | Ben Winkler |
 | Player | Brodie Wallace |
 | Player | Chris Pagán |
+| Player | Derek Val |
 | Player | Grant Barrett |
 | Player | Jordan Gasaway |
 | Player | Juan Novillo |
@@ -51,6 +52,7 @@ permalink: /rosters/
 | Player | Luis Rodriguez de Marcos |
 | Player | Luke Amatucci |
 | Player | Nicholas Martucci |
+| Player | Nick Scott |
 | Player | Sina Khani |
 | Player | Tony Cazeau |
 | Player | Trevor Robinson |
@@ -70,7 +72,9 @@ permalink: /rosters/
 | ---------- | ---------- |
 | Player | Adam Maggard |
 | Player | Anders Lundkvist |
+| Player | Brandon Bustillo |
 | Player | Daniel Rodriguez |
+| Player | Ed Bustillo |
 | Player | Ethan Burbridge |
 | Player | Hossein |
 | Player | Jack Topper |
@@ -103,6 +107,8 @@ permalink: /rosters/
 | Player | Edwin Garzon |
 | Player | Eric Poole |
 | Player | Holum Fong |
+| Player | Jack Wang |
+| Player | John Garrett |
 | Player | Josiah Killam |
 | Player | Manh-Hung Le |
 | Player | Spartacus Dungbeetle |
