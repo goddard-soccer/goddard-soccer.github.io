@@ -176,6 +176,8 @@ See y'all on the pitch...
         "Brandon doesn't understand why every number system is technically base 10.",
         "Brandon can't figure out what Scotty doesn't know.",
         "Brandon wouldn't give a Honda Civic to know the meaning of Stonehenge.",
+        "Brandon struggles with lyrical analysis of Darude Sandstorm.",
+        "Brandon is saving his V-Bucks for a Miss Piggy leopard print skin.",
     ];
 
     function bfactGen() {
@@ -202,7 +204,7 @@ See y'all on the pitch...
 <div class="d-flex justify-content-center">
 <div class="overflow-auto w-100">
 
-<h2>0 Goals!</h2>
+<h2>7 Goals!</h2>
 <h4 id="bfact">Fact #1: Brandon draws circles at a below-average first grader level.</h4>
 
 <script>
@@ -214,7 +216,7 @@ See y'all on the pitch...
 </div>
 </div>
 
-<!-- <div class="card text-center mt-3 bg-mono">
+<div class="card text-center mt-3 bg-mono">
 <div class="card-header text-center bg-light">
     <h5>Tyler's Stormtrooper Impression</h5>
 </div>
@@ -222,13 +224,13 @@ See y'all on the pitch...
 <div class="d-flex justify-content-center">
 <div class="overflow-auto w-100">
 
-<h2>0 Point Blank Misses!</h2>
+<h2>1 Point Blank Misses!</h2>
 <p>P.S. 4, 5, 6, 3, R1, 1, 7, S, 2, 9, 8</p>
 
 </div>
 </div>
 </div>
-</div> -->
+</div>
 
 <!--
 <div class="card text-center mt-3 bg-sunset">
