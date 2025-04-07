@@ -22,6 +22,7 @@ permalink: /rosters/
 | Player | Derek Val |
 | Player | Erin Rogers |
 | Player | Grant Barrett |
+| Player | Joaquin Chaves |
 | Player | Jordan Gasaway |
 | Player | Juan Novillo |
 | Player | Keegan O'Connor |
@@ -44,6 +45,7 @@ permalink: /rosters/
 | Co-Captain | Dayne Ford |
 | ---------- | ---------- |
 | Player | Addison Johnson |
+| Player | Ali Vakili |
 | Player | Andrew McVey |
 | Player | Arijit Dutta |
 | Player | Aum Vyas |
@@ -103,6 +105,7 @@ permalink: /rosters/
 | Captain | Kevin Rhoads |
 | Co-Captain | Sierra Budinoff |
 | ---------- | ---------- |
+| Player | Alistair Funge |
 | Player | Christian Caicedo |
 | Player | Christian Naylor |
 | Player | Connor Burnett |
