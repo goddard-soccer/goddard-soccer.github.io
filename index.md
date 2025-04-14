@@ -178,6 +178,7 @@ See y'all on the pitch...
         "Brandon wouldn't give a Honda Civic to know the meaning of Stonehenge.",
         "Brandon struggles with lyrical analysis of Darude Sandstorm.",
         "Brandon is saving his V-Bucks for a Miss Piggy leopard print skin.",
+        "Brandon holds the Guinness World Record for manliest tears.",
     ];
 
     function bfactGen() {
