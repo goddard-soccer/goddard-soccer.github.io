@@ -1,0 +1,725 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light sidebar-visible" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>GSL Rules</title>
+        <meta name="robots" content="noindex">
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" id="highlight-css" href="highlight.css">
+        <link rel="stylesheet" id="tomorrow-night-css" href="tomorrow-night.css">
+        <link rel="stylesheet" id="ayu-highlight-css" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+
+        <!-- Provide site root and default themes to javascript -->
+        <script>
+            const path_to_root = "";
+            const default_light_theme = "light";
+            const default_dark_theme = "navy";
+        </script>
+        <!-- Start loading toc.js asap -->
+        <script src="toc.js"></script>
+    </head>
+    <body>
+    <div id="body-container">
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                let theme = localStorage.getItem('mdbook-theme');
+                let sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            const default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? default_dark_theme : default_light_theme;
+            let theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            const html = document.documentElement;
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add("js");
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            let sidebar = null;
+            const sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <!-- populated by js -->
+            <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
+            <noscript>
+                <iframe class="sidebar-iframe-outer" src="toc.html"></iframe>
+            </noscript>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="default_theme">Auto</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">GSL Rules</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <p>March 2025</p>
+<h1 id="constitution-of-the-nasa-goddard-soccer-league"><a class="header" href="#constitution-of-the-nasa-goddard-soccer-league">CONSTITUTION OF THE NASA GODDARD SOCCER LEAGUE</a></h1>
+<h2 id="article-i-purpose"><a class="header" href="#article-i-purpose">Article I: Purpose</a></h2>
+<p>The purpose of the Goddard Soccer League is to provide recreational soccer for NASA Goddard Space Flight Center (GSFC), its employees, and their immediate families.</p>
+<p>This Constitution establishes the foundational structure for governing the Goddard Soccer League for the benefit of NASA GSFC employees.</p>
+<h2 id="article-ii-recognition"><a class="header" href="#article-ii-recognition">Article II: Recognition</a></h2>
+<p>The Goddard Soccer League is recognized by the NASA GSFC Employee's Welfare, and as such, is subject to all rules governing member clubs.</p>
+<h2 id="article-iii-membership"><a class="header" href="#article-iii-membership">Article III: Membership</a></h2>
+<p>Eligibility for the League membership is limited to persons over sixteen years of age who are:</p>
+<ol>
+<li>current NASA badge holders (NASA civil servant, contractor, or intern)
+<ul>
+<li>Verified via NASA Locator and Information Services   Tracking System (LISTS) or an active NASA issued badge.</li>
+</ul>
+</li>
+<li>former or retired NASA civil servants
+<ul>
+<li>Proof of service must be submitted for membership eligibility and confirmed by the secretary.</li>
+</ul>
+</li>
+<li>members of the immediate families of (1)
+<ul>
+<li>Immediate family is defined as a spouse, son/daughter, or parent.</li>
+<li>Proof of kin must be submitted for membership eligibility and confirmed by the secretary.</li>
+</ul>
+</li>
+<li>League guests
+<ul>
+<li>Guests are defined as anyone that does not qualify as (1), (2), (3) as described above.</li>
+<li>A maximum of 4 guests are allowed per team. Guests are defined at sign up and can not be updated until the following season.</li>
+</ul>
+</li>
+</ol>
+<p>Membership becomes effective upon payment of dues to the League as verified by the Treasurer and submission of the associated documentation as described above.</p>
+<h2 id="article-iv-organization-and-administration"><a class="header" href="#article-iv-organization-and-administration">Article IV Organization and Administration</a></h2>
+<h3 id="section-i--league-officers"><a class="header" href="#section-i--league-officers">Section I.  League Officers</a></h3>
+<p>The League Officers are:</p>
+<ol>
+<li>President</li>
+<li>Vice-President</li>
+<li>Secretary</li>
+<li>Treasurer</li>
+<li>Facilities Chairman</li>
+<li>Technical Chairman (Webmaster)</li>
+<li>Team Captains</li>
+</ol>
+<p>Officers serve terms of office beginning the first day of the Fall season.</p>
+<h3 id="section-ii--executive-committee"><a class="header" href="#section-ii--executive-committee">Section II.  Executive Committee</a></h3>
+<p>Administration of the League affairs shall be performed by the Executive Committee, consisting of the League Officers of Section I.  This Committee shall be chaired by the League President.</p>
+<p>The responsibilities of the Executive Committee shall be:</p>
+<ol>
+<li>the establishment of dues</li>
+<li>the management of funds and business affairs</li>
+<li>appointment of additional committees</li>
+<li>staffing of league officer vacancies</li>
+<li>management and updating of league rules</li>
+<li>assumption of all League duties not specified for individual officers and committees</li>
+</ol>
+<p>The Executive Committee shall fill vacancies through the nomination process.  Any league member can nominate an individual for a vacancy.  All nominees shall be selected to fill a vacancy through a majority vote of the executive committee. The President is responsible for formalizing the voting process.  All League Officers shall have up to 2 weeks to respond to the nomination. None responses will be omitted from the tally.</p>
+<p>In the event of multiple nominations for a league office position, the nominee with the highest vote total shall be appointed.  In the event of a tie, the President holds the tie breaking vote.</p>
+<h3 id="section-iii--duties-of-the-league-officers"><a class="header" href="#section-iii--duties-of-the-league-officers">Section III.  Duties of the League Officers</a></h3>
+<h4 id="duties-of-the-president"><a class="header" href="#duties-of-the-president">Duties of the President</a></h4>
+<ol>
+<li>is the Chief Officer of the League</li>
+<li>serves as the Head of the Executive Committee</li>
+<li>presides over League Meetings</li>
+<li>oversees compliance to GSL constitution and GSL by-laws</li>
+<li>responsive to GEWA requests concerning the League</li>
+</ol>
+<h4 id="duties-for-the-vice-president"><a class="header" href="#duties-for-the-vice-president">Duties for the Vice-President</a></h4>
+<ol>
+<li>is the 2nd Officer of the League</li>
+<li>serves on the Executive Committee</li>
+<li>serves in place of the President during Executive Committee meetings in the event the President is not present</li>
+<li>acts as the President on those days when the President is unavailable and is needed</li>
+<li>assists the President in the smooth running of the league in any way possible</li>
+<li>becomes President in the event the President has stepped down</li>
+</ol>
+<h4 id="duties-of-the-league-secretary"><a class="header" href="#duties-of-the-league-secretary">Duties of the League Secretary</a></h4>
+<ol>
+<li>serves on the Executive Committee</li>
+<li>maintains and organizes listserves, Teams sharepoint</li>
+<li>oversees contracts with insurance companies and referees (if applicable)</li>
+<li>oversees advertisement efforts</li>
+<li>oversees membership status and compliance as defined in article III</li>
+</ol>
+<h4 id="duties-of-the-league-treasurer"><a class="header" href="#duties-of-the-league-treasurer">Duties of the League Treasurer</a></h4>
+<ol>
+<li>serves on the Executive Committee</li>
+<li>oversees league financial accounts</li>
+<li>formally records all transactions, collects and document receipts, and disburses reimbursements</li>
+<li>prepares a complete report of the League's financial condition before and after each season</li>
+</ol>
+<h4 id="duties-of-the-facilities-chairman"><a class="header" href="#duties-of-the-facilities-chairman">Duties of the Facilities Chairman</a></h4>
+<ol>
+<li>serves on the Executive Committee</li>
+<li>provides for the care and maintenance of the pitch, balls, nets, and other League equipment</li>
+</ol>
+<h4 id="duties-of-the-technical-chairman-webmaster"><a class="header" href="#duties-of-the-technical-chairman-webmaster">Duties of the Technical Chairman (webmaster)</a></h4>
+<ol>
+<li>serves on the Executive Committee</li>
+<li>oversees the maintenance of the website and related databases</li>
+<li>oversees updates to sign up form, roster, schedule, and game scores as it pertains to the website and database</li>
+<li>executes updates to the website as determined by the executive committee</li>
+</ol>
+<h4 id="duties-of-the-team-captain"><a class="header" href="#duties-of-the-team-captain">Duties of the Team Captain</a></h4>
+<ol>
+<li>serves on the Executive Committee</li>
+<li>select an alternate Captain to carry out duties during the absence of the Captain</li>
+<li>prepares team roster for upcoming games; including polling team for participation and organizing team lineups</li>
+<li>arranges for team uniforms or pennies</li>
+<li>updates scores to the league website</li>
+<li>disseminates league rules and information to their team members</li>
+<li>represent the spirit and interests of the League during games</li>
+<li>ensures the team is reminded and follows the league code of conduct as described in the by-laws</li>
+<li>provides updates to the League on any issues related to its roster, which could include (but not limited to) participation, personnel updates, eligibility status changes, injuries, or complaints.</li>
+</ol>
+<h2 id="article-v-general-membership--executive-committee-meetings"><a class="header" href="#article-v-general-membership--executive-committee-meetings">Article V: General Membership &amp; Executive Committee Meetings</a></h2>
+<p>A General Membership Meeting of the League, whose purpose shall be to update this constitution, may be called by the President, at his discretion, or may be called when requested by a written petition bearing the signatures of twenty (20) members.</p>
+<p>An Executive Committee Meeting may be called by the President, at his discretion, or may be called when requested by another League Officer of the committee.  The President has 2 weeks to respond to such a request, before a League Officer can schedule an Executive Committee Meeting. Executive Committee Meetings serve to address responsibilities as described in Article IV, section 2.</p>
+<h2 id="article-vi-committees"><a class="header" href="#article-vi-committees">Article VI: Committees</a></h2>
+<p>The Executive Committee shall appoint other committees as required and shall delegate to them such responsibilities and duties not described elsewhere in the Constitution.</p>
+<h2 id="article-vii-compensation"><a class="header" href="#article-vii-compensation">Article VII: Compensation</a></h2>
+<p>No member of the Executive Committee or any other committee may receive compensation for his/her services as a member of such a committee.</p>
+<h2 id="article-viii-amendments-to-the-constitution"><a class="header" href="#article-viii-amendments-to-the-constitution">Article VIII: Amendments to the Constitution</a></h2>
+<p>A General Membership Meeting may amend or alter this Constitution provided the proposed amendments have been submitted to the Executive Committee in writing two weeks prior to a Membership Meeting.  Approval of two-thirds of the members present at the Membership Meeting shall be required for the adoption of the amendment.  Only current NASA badge holders, as defined in Article III, may participate in the vote.</p>
+<h2 id="article-ix-by-laws"><a class="header" href="#article-ix-by-laws">Article IX: By-Laws</a></h2>
+<p>The League By-Laws is another governing document that shall address all league laws and rules that are not specified in this document.  This includes (but not limited to)</p>
+<ol>
+<li>Season Structure</li>
+<li>Team Structure</li>
+<li>In-Game management and rules</li>
+<li>Roster assembly rules</li>
+<li>Forfeit rules</li>
+<li>Sportsmanship and suspension rules</li>
+<li>Additional League Officer duties not specified in the constitution</li>
+</ol>
+<p>An Executive Committee Meeting may adopt, amend or repeal the By-Laws of the League provided the proposed amendments have been submitted to the Executive Committee in writing two weeks prior to the meeting and are approved by a majority of the executive committee present at the Membership Meeting.</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="nasa-goddard-soccer-league-gsl"><a class="header" href="#nasa-goddard-soccer-league-gsl">NASA Goddard Soccer League (GSL)</a></h1>
+<p>Game Rules for 2025 Spring Season, Rev -</p>
+<h2 id="summary"><a class="header" href="#summary">SUMMARY</a></h2>
+<ul>
+<li>9v9 is the baseline game format
+<ul>
+<li>Captain(s) have the option to increase # of players on the field up to a 11v11 game, if turn out is high</li>
+<li>Minimum 7 players are required to start a game on a full field</li>
+<li>No gender specific rule</li>
+</ul>
+</li>
+<li>Two 35-minute running halves with 5 minute half time</li>
+<li>All games are baselined to be self-managed by the players/teams (self-refereed)
+<ul>
+<li>Please respect all self-calls mad5. Any disputes shall be handled by the team captains.</li>
+<li>If available, a mediator may be brought on to mediate the game (see section 1 and 13)</li>
+<li>If approved by the league, an official referee may be hired to officiate a game (see section 1 and 14)</li>
+</ul>
+</li>
+<li>Slide tackles are illegal</li>
+<li>Unless there is an official referee, there is no offside rule (see section 12)</li>
+<li>No limits on substitutions.  Subbing can occur during any deadball situation.</li>
+<li>Games start at 5:15pm. Have team fielded and ready to start at this time.</li>
+<li>Unsportsmanlike behavior will result in that player being suspended/removed from participating.</li>
+<li>This is a work league – break a sweat and have fun!</li>
+<li>All games are RAIN or SHINE (unless called off by the field chairman prior to the game OR as determined by the captains based on game-time weather conditions – see “Weather section”)</li>
+</ul>
+<h2 id="1-in-game-management"><a class="header" href="#1-in-game-management">1. IN-GAME MANAGEMENT</a></h2>
+<p>The baseline for the season is for Players and Teams, lead by Team captains, to self-manage their game per the rules defined in this document.  However, a mediator or referee, may be desired and/or requested by Team captains for certain games (examples: highly competitive games, playoff games). The following rules govern this situation.</p>
+<ol>
+<li>Unless otherwise noted, the rules defined in this document apply to all games (Team self-managed games, mediated games, referee games)</li>
+<li>If a mediator is available , both team captains must agree to the mediator and the rules governing the game when a mediator is present, as defined in section 13.
+i. No approval from executive committee required.</li>
+<li>If a referee is desired for a particular game, both team captains must agree to the rules governing the game when a referee is present, as defined in section 14.
+i. Both captains must submit the request to the executive committee 2 weeks in advance.  The executive committee must approve the request to fund the expense and find a willing referee company to supply the refere5. This is likely reserved as an option for the playoff/final.</li>
+</ol>
+<h2 id="2-game-timeforfeits"><a class="header" href="#2-game-timeforfeits">2. GAME TIME/FORFEITS</a></h2>
+<ol>
+<li>Game time is 5:15pm.</li>
+<li>Each team must have at least 7 players to start a full field gam5. (see section 4.2 for minimal participation options)</li>
+<li>Game time is forfeit tim5. Please don’t forfeit. Your teammates and opponents count on you to have a full team and competitive game.</li>
+<li>To respect everyone’s schedule, we strongly suggest arriving at the field 15 minutes before game time for stretching, changing, et3. since the games must start on time</li>
+</ol>
+<h2 id="3-forfeit-penalties"><a class="header" href="#3-forfeit-penalties">3. FORFEIT PENALTIES</a></h2>
+<ol>
+<li>Loss of game, loss of point in the standings</li>
+</ol>
+<h2 id="4-clocktime"><a class="header" href="#4-clocktime">4. CLOCK/TIME</a></h2>
+<ol>
+<li>Two 35-minute running halves with a 5 minute half time.</li>
+<li>The clock stops only for long delays such as water breaks, long injury breaks, etc.</li>
+<li>Please refrain from any non-game delay tactics, such as kicking the ball far out of bounds, or faking injuries – we’re all here to play the full game and maximize the time played.</li>
+</ol>
+<h2 id="5-roster-assembly"><a class="header" href="#5-roster-assembly">5. ROSTER ASSEMBLY</a></h2>
+<ol>
+<li>Initial Rosters – Start of Season
+<ol>
+<li>At sign up, a player may choose the team of their preference, along with their willingness to be placed on any team</li>
+<li>Only players who indicate a willingness to be placed on any team may be placed on a team by the League Officers
+<ol>
+<li>League shall keep the changes to a minimum in order to meet the goals of balancing league play</li>
+</ol>
+</li>
+<li>Final Rosters to start the season are presented to Team Captains for feedback
+<ol>
+<li>Approval by the President, Vice President, and secretary is required to finalize</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>Sign-ups during the season
+<ol>
+<li>Only players who indicate a willingness to be placed on any team may be placed on a team by the League Officers</li>
+<li>Priority shall be given to the team in most need of players and/or highly skilled players
+<ol>
+<li>League officers shall present decision of new player placement to Team Captains</li>
+<li>Approval by President, Vice President, and secretary is required to finalize placement.
+<ol>
+<li>If timeliness is required and one of the listed Officers can’t respond, the final decision falls on whoever is present.</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+<h2 id="6-team-size"><a class="header" href="#6-team-size">6. TEAM SIZE</a></h2>
+<ol>
+<li>Baseline
+<ol>
+<li>9v9 is the baseline format</li>
+<li>Teams may play with no less than 7 players on a full field.</li>
+<li>If a team has less than 7 players a forfeit will be awarded and no official game shall be played.  An automatic score of 1-0 will be applied to the standings</li>
+<li>Teams MUST start at game time if the minimum numbers of players are present</li>
+<li>Full teams are allowed to edit their roster up until the midway point of the regular season.  If you are short-handed during the season you may pick up another player(s) not on your roster for the gam5. See below “Picking Up Players” for details. Waivers must be signed by all players and handed in before the start of the first game.</li>
+<li>PLAYERS WILL NOT BE ALLOWED TO PARTICIPATE IN ANY GAME WITHOUT SIGNING THE WAIVER</li>
+</ol>
+</li>
+</ol>
+<h2 id="7-picking-up--borrowed-players"><a class="header" href="#7-picking-up--borrowed-players">7. PICKING UP / BORROWED PLAYERS</a></h2>
+<p>Since occasionally teams may be short players and GSL wants everyone to be able to play every game possible, we permit teams to pick up players from other GSL teams if a team is short of roster players for its game.  In this event, the following rules apply:</p>
+<ol>
+<li>Teams can never pick-up non-GSL players (only officially signed-up people shall participate in games)</li>
+<li>Teams can never pick up players from other GSL Teams just to have subs.</li>
+<li>Max of 2 players from another GSL team may be borrowed for any particular game.</li>
+<li>Any team that picks up a player(s) from another GSL team must play the game with 1 less player than the opposing team, while that player is on the field.</li>
+<li>DURING THE PLAYOFFS, ONLY PLAYERS ON YOUR ROSTER ARE ALLOWED TO PLAY.</li>
+<li>When roster player arrives after the game has started
+<ol>
+<li>Non-roster player must be replaced by the roster player</li>
+<li>Non-roster player may not re-enter the game</li>
+</ol>
+</li>
+<li>Protests in regards to non-roster players must be made to the Captains and Executive Committee.
+<ol>
+<li>If a player arrives late a challenge must be made to that player before they start playin7. Teams can only challenge specific players.</li>
+</ol>
+</li>
+</ol>
+<h2 id="8-uniformsfootwear"><a class="header" href="#8-uniformsfootwear">8. UNIFORMS/FOOTWEAR</a></h2>
+<ol>
+<li>GSL has team pennies to provide the Captains/Players</li>
+<li>As a back up, please bring a shirt of your team colors.</li>
+<li>SHIN GUARDS ARE STRONGLY ENCOURAGED!</li>
+<li>Molded cleats – allowed</li>
+<li>Metal cleats – NOT allowed</li>
+</ol>
+<h2 id="9-start-of-play"><a class="header" href="#9-start-of-play">9. START OF PLAY</a></h2>
+<ol>
+<li>A game is started by a kick-off in any direction from the center mark</li>
+<li>Captains can agree who starts with the ball or decide via rock/paper/scissors</li>
+<li>In the second half, teams change directions and possession</li>
+<li>We recommend that each team bring their own copy of these rules to the game as reference to resolve any disputes if any occur.</li>
+</ol>
+<h2 id="10-substitutions"><a class="header" href="#10-substitutions">10. SUBSTITUTIONS</a></h2>
+<ol>
+<li>Unlimited substitutions of players are permitted</li>
+<li>Any player with an open cut or wound must come off the field to bandage it up and receive treatment before re-entering the game.</li>
+</ol>
+<h2 id="11-field-layout"><a class="header" href="#11-field-layout">11. FIELD LAYOUT</a></h2>
+<ol>
+<li>The field shall be sized to accommodate a baselined 9v9 game</li>
+<li>The field size may be modified mid-season if an adjustment is deemed necessary
+<ol>
+<li>A majority vote of the executive committee is required to redefine the field size</li>
+</ol>
+</li>
+</ol>
+<h2 id="12-in-game-rules--self-managed-game"><a class="header" href="#12-in-game-rules--self-managed-game">12. IN GAME RULES – SELF MANAGED GAME</a></h2>
+<ol>
+<li>For self-managed games especially, GSL relies on all players to prioritize sportsmanship above their competitiveness to maintain a smooth and safe game.  Infractions and possession calls shall be made by the players closest to the play involve4. If there is a dispute on any call, the decision falls on Team captain to decide the call and keep the game moving forward.</li>
+<li>INFRACTIONS/POSSESSION
+<ol>
+<li>Direct Kick
+<ol>
+<li>Any self-reported fouls are direct kicks.
+<ol>
+<li>Self-reported fouls should be respected by the opposing team</li>
+<li>If there is strong disagreement by the opposing player, the Team Captains must decide in good faith how to proceed</li>
+</ol>
+</li>
+<li>The direct free kick is one where a goal can be scored without another player touching the ball.  Direct kicks will be taken from the spot of the foul.</li>
+<li>All players must be 10 yards or more from the spot of the ball.</li>
+<li>Ball needs to be still at first touch.</li>
+<li>Since there is no referee to whistle start of play, teams must aware, set, and ready when offensive team starts play.</li>
+</ol>
+</li>
+<li>Penalty Kick
+<ol>
+<li>There are no penalty kicks.  Only Direct kicks.</li>
+<li>Any self-reported foul in the box will be direct kicks from the 18 yard line, nearest to where the foul occurred</li>
+</ol>
+</li>
+<li>Corner Kick
+<ol>
+<li>When the entire ball passes over the goal line and was last touched by a player from the defending team</li>
+<li>The offensive team will put the ball back in play, from the corner of the field nearest to where the ball went out</li>
+<li>Opposing players must be at least 5 yards from the ball</li>
+<li>A corner kick is a direct kick. The offensive team can score without anyone else touching the ball</li>
+<li>Since there is no referee to whistle start of play, teams must aware, set, and ready when offensive team starts play.</li>
+</ol>
+</li>
+<li>Goal Kick
+<ol>
+<li>When the entire ball passes over the goal line and was last touched by a player from the offending team</li>
+<li>Goal kicks must be taken from any spot on or within the goal box</li>
+<li>Opponents must clear the goal area</li>
+<li>A goal kick is a direct kick. The offensive team can score without anyone else touching the ball</li>
+<li>Since there is no referee to whistle start of play, teams must aware, set, and ready when offensive team starts play.</li>
+</ol>
+</li>
+<li>Throw-Ins
+<ol>
+<li>When the entire ball passes out of the field of play along the sideline a throw-in is awarded to the opposition of the team of the player who last played or touched the ball</li>
+<li>The ball is thrown in from the spot where the ball left the field of play</li>
+<li>The player throwing in the ball must have both feet touching the ground outside the field of play</li>
+<li>Ball must be delivered with both hands from behind and over his/her head into the field of play</li>
+<li>A throw-in which goes directly into an opponent’s goal without touching any player on the field will be disallowed</li>
+<li>Without ref to whistle start of play, teams must aware, set, and ready when offensive team starts play.</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>OFFSIDE
+<ol>
+<li>There is no offside rule for any games (full field or small field)</li>
+</ol>
+</li>
+<li>CARDS/MAJOR INFRACTIONS
+With no referees, no Yellow/Red cards are officially distributed in game.  However, the following are fouls or misconducts and can result in future penalties depending on the level of aggressiveness or danger of the foul committed.</li>
+</ol>
+<p>Any of these violations can/should be reported to the Executive Committee by any player/captain.  The executive committee will open an investigation and respond accordingly.  This may include a warning, a suspension, or a ban from further participation with the league.  Accumulation of major infractions by a single player will influence the executive committee decision on the infracting player future with the league.</p>
+<ol>
+<li>Yellow Card Level Infractions
+<ol>
+<li>Swearing, gesturing at, or arguing with any player</li>
+<li>An inadvertent but aggressive kick, trip, jump at, strike, hold, push, or charge from behind or violently charge an opponent</li>
+<li>Slide tackling</li>
+</ol>
+</li>
+<li>Red Card Level Infractions
+<ol>
+<li>Fighting, swearing, gesturing at or excessive arguing</li>
+<li>An intentional and/or dangerous kick, trip, jump at, strike, hold, push, or charge from behind or violently charge an opponent</li>
+<li>Two yellow card violations</li>
+<li>Multiple instances of excessively dangerous play</li>
+</ol>
+</li>
+</ol>
+<h2 id="13-in-game-rules--mediated-game"><a class="header" href="#13-in-game-rules--mediated-game">13. IN GAME RULES – MEDIATED GAME</a></h2>
+<ol>
+<li>INFRACTIONS/POSSESSION
+<ol>
+<li>Direct Kick, Penalty kick, Corner Kick, Goal Kick, Throw-ins
+<ol>
+<li>For all infraction and possession calls, if the players closest to the play have a dispute, the captains can defer to the mediator to decide on the infraction and possession.
+<ol>
+<li>All other rules per section 12.b apply (including no penalty kicks)</li>
+</ol>
+</li>
+<li>Once the mediator makes a call, the decision is final.</li>
+<li>No prolonged arguing with the mediator shall be tolerated.</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>OFFSIDE
+<ol>
+<li>There is no offside rule for any mediated games (full field or small field)</li>
+</ol>
+</li>
+<li>CARDS/MAJOR INFRACTIONS
+<ol>
+<li>The mediator has the authority to issue Yellow and Red Cards on a player based on infractions detailed in section 12.4.1 and section 12.4.2
+<ol>
+<li>YELLOW Card Infraction Penalties
+<ol>
+<li>Player must come out of the game immediately.</li>
+<li>Player may come back into the game 10 minutes after yellow card infraction.  Mediator is responsible for tracking this time</li>
+<li>Two Yellow card in the same game results in a RED card</li>
+</ol>
+</li>
+<li>RED Card Infraction Penalties
+<ol>
+<li>Player is removed for the rest of the game</li>
+<li>The player removed can not be substituted for another player (Offending team plays with 1 less player)</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>Yellow and Red Cards may also be issued if a player has a prolonged argument with the mediator</li>
+</ol>
+</li>
+</ol>
+<h2 id="14-in-game-rules--refereed-game"><a class="header" href="#14-in-game-rules--refereed-game">14. IN GAME RULES – REFEREED GAME</a></h2>
+<ol>
+<li>INFRACTIONS/POSSESSION
+<ol>
+<li>Direct Kick, Penalty kick, Corner Kick, Goal Kick, Throw-ins
+<ol>
+<li>All infraction and possession calls are decided by the referee</li>
+<li>Referees manage start/stop of play</li>
+<li>Referees manage stoppage of play for substitutions.</li>
+<li>Referees manages the game clock.</li>
+<li>Penalty Kicks are allowed</li>
+<li>All other rules per section 12.b apply</li>
+<li>Once the referee makes a call, the decision is final.</li>
+<li>No prolonged arguing with the shall be tolerated.</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>OFFSIDE
+<ol>
+<li>The offside rule is in play for the large field, but not the small field for refereed games</li>
+</ol>
+</li>
+<li>CARDS/MAJOR INFRACTIONS
+<ol>
+<li>The referee has the authority to issue Yellow and Red Cards on a player based on infractions detailed in section 12.4.1 and section 12.4.2
+<ol>
+<li>YELLOW Card Infraction Penalties
+<ol>
+<li>Player must come out of the game immediately.</li>
+<li>Player may come back into the game 10 minutes after yellow card infraction.  Referee is responsible for tracking this time</li>
+<li>Two Yellow card in the same game results in a RED card</li>
+</ol>
+</li>
+<li>RED Card Infraction Penalties
+<ol>
+<li>Player is removed for the rest of the game</li>
+<li>The player removed can not be substituted for another player (Offending team plays with 1 less player)</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>Yellow and Red Cards may also be issued if a player has a prolonged argument with the referee.</li>
+</ol>
+</li>
+</ol>
+<h2 id="15-scoring"><a class="header" href="#15-scoring">15. SCORING</a></h2>
+<ol>
+<li>The ball must completely cross the goal line to be considered a goal</li>
+<li>If any part of the ball is touching the goal line, no goal will be allowed</li>
+<li>For balls in the air, the entire ball must have crossed the imaginary plane of a goal line to be allowed including if part of the ball hit off one or more posts</li>
+<li>Captains shall keep score and report the final score to the Executive Committee for official bookkeeping</li>
+</ol>
+<h2 id="16-standings"><a class="header" href="#16-standings">16. STANDINGS</a></h2>
+<ol>
+<li>The standings for soccer will be based on the following point system:</li>
+</ol>
+<div class="table-wrapper"><table><thead><tr><th>Outcome</th><th>Points</th></tr></thead><tbody>
+<tr><td>Win</td><td>3 points</td></tr>
+<tr><td>Loss</td><td>0 points</td></tr>
+<tr><td>Draw</td><td>1 point</td></tr>
+<tr><td>Forfeit</td><td>-1 point</td></tr>
+</tbody></table>
+</div>
+<p>Regular season games ending in a tie score after the end of regulation will be recorded as a draw. Sudden death overtime and penalty kicks (if necessary) will be used in playoffs.</p>
+<h2 id="17-playoff-games"><a class="header" href="#17-playoff-games">17. PLAYOFF GAMES</a></h2>
+<ol>
+<li>Playoff games will follow the same format during regulation as the regular season. If teams are tied at the end of regulation in the playoffs, sudden death overtime will be used.  If after sudden death, the score remains tied, the teams shall go to a shootout.</li>
+<li>Sudden Death
+<ol>
+<li>Golden Goal applies (next goal ends the game).</li>
+<li>One 5 minute period</li>
+<li>Higher seed has the choice of side or possession</li>
+<li>Teams will not switch sides</li>
+<li>If neither team scores after the 5 minute overtime period, teams will go into a shootout</li>
+</ol>
+</li>
+<li>Shootout
+<ol>
+<li>Switch to the large goals if playing on smaller field</li>
+<li>Each team selects a player to be goalie</li>
+<li>Each team selects 5 players and informs referee of shooters prior to the first shot being taken</li>
+<li>Players do not have to have been playing at the end of regulation</li>
+<li>The goalie may be substituted before the start of penalty kicks.</li>
+<li>Higher seed is allowed to choose to shoot first or second</li>
+<li>Both teams shoot at the same goal</li>
+<li>Teams will alternate taking direct penalty shots from 12 yards out from the goal line (no male/female shooting order is necessary)</li>
+<li>If tied after both teams have had their 5 players shoot, we will move to SUDDEN DEATH (i.e., 1st player from Team A scores and 1st player from Team B misses – Team A wins)</li>
+<li>Players are not eligible to shoot again until all remaining players present have shot</li>
+<li>If and when 1 team begins to utilize players for the second time, the other team may “recycle” players as well regardless of if everyone has shot yet. Thus, some players on the team with more people present may or may not shoot</li>
+</ol>
+</li>
+</ol>
+<h2 id="18-tie-breakers-for-playoffsseedings"><a class="header" href="#18-tie-breakers-for-playoffsseedings">18. TIE BREAKERS FOR PLAYOFFS/SEEDINGS</a></h2>
+<ol>
+<li>Total number of points</li>
+<li>Head-to-head competition</li>
+<li>Record against other teams in or tied for playoffs (winning percentage – i.e., 0-1 is same as 0-2, but 1-3 is better than 0-1)</li>
+<li>Number of wins</li>
+<li>Coin Toss</li>
+</ol>
+<h2 id="19-game-cancellation"><a class="header" href="#19-game-cancellation">19. GAME CANCELLATION</a></h2>
+<ol>
+<li>Games may be cancelled due to heavy rain, dangerous weather conditions, facility constraints or other unforeseeable reasons.  Playing on poor field conditions may leave the players susceptible to slips and injury while causing long term damage to the field, leaving the field hazardous for future games.   The GSL Field Chairman is responsible in assessing the field conditions and projected forecast and decision on cancelling the games by 3pm, the day of game.</li>
+<li>GSL will communicate all of the captains to let them know. It is then the captain’s responsibility to inform all teammates of the cancellation.</li>
+</ol>
+<h2 id="20-sportsmanship"><a class="header" href="#20-sportsmanship">20. SPORTSMANSHIP</a></h2>
+<p>At GSL, we are organized to provide an enjoyable forum to exercise, improve wellness, all while having fun with our colleagues. This is a social work league and our goal is to have a good time. We hope that everyone keeps this in mind when playing.  We know that some games will become very intense, but you can still be competitive and be a good sport.  Thus, any behavior deemed unacceptable by the executive committee may result in suspension and/or ejection from a game or the league. Abuse of staff and/or other players will not be tolerate4. GSL reserves the right to remove a player from a game or the league if we think that they are bringing down the quality of the league. No fighting will be tolerated. Fighting will result in an automatic ejection from any game and in most cases ejection from the league for the rest of the season.</p>
+<h2 id="21-notification"><a class="header" href="#21-notification">21. NOTIFICATION</a></h2>
+<p>If you know in advance that your team is going to forfeit a game because of player shortage, you MUST contact GSL by at least 12pm the day before.   It is not considered notification unless you receive a reply. If your decision is not made until after 12pm, you should still reach out via email to the following listserve: gsl-members@lists.nasa.gov.  GSL will make efforts to contact the other team/players to pick up/borrow players for the game to happen.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+        <script>
+        window.addEventListener('load', function() {
+            window.setTimeout(window.print, 100);
+        });
+        </script>
+
+    </div>
+    </body>
+</html>

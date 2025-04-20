@@ -94,7 +94,9 @@ with open(args.inputFile, newline='') as csvfile:
             toptenavg = sum(topten) / len(topten)
             topfive = sorted(nums)[-5:]
             topfiveavg = sum(topfive) / len(topfive)
-            f.write(f"|        | Player Count | {len(nums)} |\n|        | Guests Remaining | {4 - guests} |\n|        | Average | {avg:0.2f} |\n|        | Top 10 | {toptenavg:0.2f} |\n|        | Top 5  | {topfiveavg:0.2f} |")
+            botFive = sorted(nums)[0:5]
+            botfiveavg = sum(botFive) / len(botFive)
+            f.write(f"|        | Player Count | {len(nums)} |\n|        | Guests Remaining | {4 - guests} |\n|        | Average | {avg:0.2f} |\n|        | Top 10 | {toptenavg:0.2f} |\n|        | Top 5  | {topfiveavg:0.2f} |\n|        | Bottom 5 | {botfiveavg:0.2f} |")
         
         f.write(f"""
 

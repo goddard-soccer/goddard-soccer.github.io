@@ -1,0 +1,341 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light sidebar-visible" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Constitution - GSL Rules</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" id="highlight-css" href="highlight.css">
+        <link rel="stylesheet" id="tomorrow-night-css" href="tomorrow-night.css">
+        <link rel="stylesheet" id="ayu-highlight-css" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+
+        <!-- Provide site root and default themes to javascript -->
+        <script>
+            const path_to_root = "";
+            const default_light_theme = "light";
+            const default_dark_theme = "navy";
+        </script>
+        <!-- Start loading toc.js asap -->
+        <script src="toc.js"></script>
+    </head>
+    <body>
+    <div id="body-container">
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                let theme = localStorage.getItem('mdbook-theme');
+                let sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            const default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? default_dark_theme : default_light_theme;
+            let theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            const html = document.documentElement;
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add("js");
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            let sidebar = null;
+            const sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <!-- populated by js -->
+            <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
+            <noscript>
+                <iframe class="sidebar-iframe-outer" src="toc.html"></iframe>
+            </noscript>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="default_theme">Auto</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">GSL Rules</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <p>March 2025</p>
+<h1 id="constitution-of-the-nasa-goddard-soccer-league"><a class="header" href="#constitution-of-the-nasa-goddard-soccer-league">CONSTITUTION OF THE NASA GODDARD SOCCER LEAGUE</a></h1>
+<h2 id="article-i-purpose"><a class="header" href="#article-i-purpose">Article I: Purpose</a></h2>
+<p>The purpose of the Goddard Soccer League is to provide recreational soccer for NASA Goddard Space Flight Center (GSFC), its employees, and their immediate families.</p>
+<p>This Constitution establishes the foundational structure for governing the Goddard Soccer League for the benefit of NASA GSFC employees.</p>
+<h2 id="article-ii-recognition"><a class="header" href="#article-ii-recognition">Article II: Recognition</a></h2>
+<p>The Goddard Soccer League is recognized by the NASA GSFC Employee's Welfare, and as such, is subject to all rules governing member clubs.</p>
+<h2 id="article-iii-membership"><a class="header" href="#article-iii-membership">Article III: Membership</a></h2>
+<p>Eligibility for the League membership is limited to persons over sixteen years of age who are:</p>
+<ol>
+<li>current NASA badge holders (NASA civil servant, contractor, or intern)
+<ul>
+<li>Verified via NASA Locator and Information Services   Tracking System (LISTS) or an active NASA issued badge.</li>
+</ul>
+</li>
+<li>former or retired NASA civil servants
+<ul>
+<li>Proof of service must be submitted for membership eligibility and confirmed by the secretary.</li>
+</ul>
+</li>
+<li>members of the immediate families of (1)
+<ul>
+<li>Immediate family is defined as a spouse, son/daughter, or parent.</li>
+<li>Proof of kin must be submitted for membership eligibility and confirmed by the secretary.</li>
+</ul>
+</li>
+<li>League guests
+<ul>
+<li>Guests are defined as anyone that does not qualify as (1), (2), (3) as described above.</li>
+<li>A maximum of 4 guests are allowed per team. Guests are defined at sign up and can not be updated until the following season.</li>
+</ul>
+</li>
+</ol>
+<p>Membership becomes effective upon payment of dues to the League as verified by the Treasurer and submission of the associated documentation as described above.</p>
+<h2 id="article-iv-organization-and-administration"><a class="header" href="#article-iv-organization-and-administration">Article IV Organization and Administration</a></h2>
+<h3 id="section-i--league-officers"><a class="header" href="#section-i--league-officers">Section I.  League Officers</a></h3>
+<p>The League Officers are:</p>
+<ol>
+<li>President</li>
+<li>Vice-President</li>
+<li>Secretary</li>
+<li>Treasurer</li>
+<li>Facilities Chairman</li>
+<li>Technical Chairman (Webmaster)</li>
+<li>Team Captains</li>
+</ol>
+<p>Officers serve terms of office beginning the first day of the Fall season.</p>
+<h3 id="section-ii--executive-committee"><a class="header" href="#section-ii--executive-committee">Section II.  Executive Committee</a></h3>
+<p>Administration of the League affairs shall be performed by the Executive Committee, consisting of the League Officers of Section I.  This Committee shall be chaired by the League President.</p>
+<p>The responsibilities of the Executive Committee shall be:</p>
+<ol>
+<li>the establishment of dues</li>
+<li>the management of funds and business affairs</li>
+<li>appointment of additional committees</li>
+<li>staffing of league officer vacancies</li>
+<li>management and updating of league rules</li>
+<li>assumption of all League duties not specified for individual officers and committees</li>
+</ol>
+<p>The Executive Committee shall fill vacancies through the nomination process.  Any league member can nominate an individual for a vacancy.  All nominees shall be selected to fill a vacancy through a majority vote of the executive committee. The President is responsible for formalizing the voting process.  All League Officers shall have up to 2 weeks to respond to the nomination. None responses will be omitted from the tally.</p>
+<p>In the event of multiple nominations for a league office position, the nominee with the highest vote total shall be appointed.  In the event of a tie, the President holds the tie breaking vote.</p>
+<h3 id="section-iii--duties-of-the-league-officers"><a class="header" href="#section-iii--duties-of-the-league-officers">Section III.  Duties of the League Officers</a></h3>
+<h4 id="duties-of-the-president"><a class="header" href="#duties-of-the-president">Duties of the President</a></h4>
+<ol>
+<li>is the Chief Officer of the League</li>
+<li>serves as the Head of the Executive Committee</li>
+<li>presides over League Meetings</li>
+<li>oversees compliance to GSL constitution and GSL by-laws</li>
+<li>responsive to GEWA requests concerning the League</li>
+</ol>
+<h4 id="duties-for-the-vice-president"><a class="header" href="#duties-for-the-vice-president">Duties for the Vice-President</a></h4>
+<ol>
+<li>is the 2nd Officer of the League</li>
+<li>serves on the Executive Committee</li>
+<li>serves in place of the President during Executive Committee meetings in the event the President is not present</li>
+<li>acts as the President on those days when the President is unavailable and is needed</li>
+<li>assists the President in the smooth running of the league in any way possible</li>
+<li>becomes President in the event the President has stepped down</li>
+</ol>
+<h4 id="duties-of-the-league-secretary"><a class="header" href="#duties-of-the-league-secretary">Duties of the League Secretary</a></h4>
+<ol>
+<li>serves on the Executive Committee</li>
+<li>maintains and organizes listserves, Teams sharepoint</li>
+<li>oversees contracts with insurance companies and referees (if applicable)</li>
+<li>oversees advertisement efforts</li>
+<li>oversees membership status and compliance as defined in article III</li>
+</ol>
+<h4 id="duties-of-the-league-treasurer"><a class="header" href="#duties-of-the-league-treasurer">Duties of the League Treasurer</a></h4>
+<ol>
+<li>serves on the Executive Committee</li>
+<li>oversees league financial accounts</li>
+<li>formally records all transactions, collects and document receipts, and disburses reimbursements</li>
+<li>prepares a complete report of the League's financial condition before and after each season</li>
+</ol>
+<h4 id="duties-of-the-facilities-chairman"><a class="header" href="#duties-of-the-facilities-chairman">Duties of the Facilities Chairman</a></h4>
+<ol>
+<li>serves on the Executive Committee</li>
+<li>provides for the care and maintenance of the pitch, balls, nets, and other League equipment</li>
+</ol>
+<h4 id="duties-of-the-technical-chairman-webmaster"><a class="header" href="#duties-of-the-technical-chairman-webmaster">Duties of the Technical Chairman (webmaster)</a></h4>
+<ol>
+<li>serves on the Executive Committee</li>
+<li>oversees the maintenance of the website and related databases</li>
+<li>oversees updates to sign up form, roster, schedule, and game scores as it pertains to the website and database</li>
+<li>executes updates to the website as determined by the executive committee</li>
+</ol>
+<h4 id="duties-of-the-team-captain"><a class="header" href="#duties-of-the-team-captain">Duties of the Team Captain</a></h4>
+<ol>
+<li>serves on the Executive Committee</li>
+<li>select an alternate Captain to carry out duties during the absence of the Captain</li>
+<li>prepares team roster for upcoming games; including polling team for participation and organizing team lineups</li>
+<li>arranges for team uniforms or pennies</li>
+<li>updates scores to the league website</li>
+<li>disseminates league rules and information to their team members</li>
+<li>represent the spirit and interests of the League during games</li>
+<li>ensures the team is reminded and follows the league code of conduct as described in the by-laws</li>
+<li>provides updates to the League on any issues related to its roster, which could include (but not limited to) participation, personnel updates, eligibility status changes, injuries, or complaints.</li>
+</ol>
+<h2 id="article-v-general-membership--executive-committee-meetings"><a class="header" href="#article-v-general-membership--executive-committee-meetings">Article V: General Membership &amp; Executive Committee Meetings</a></h2>
+<p>A General Membership Meeting of the League, whose purpose shall be to update this constitution, may be called by the President, at his discretion, or may be called when requested by a written petition bearing the signatures of twenty (20) members.</p>
+<p>An Executive Committee Meeting may be called by the President, at his discretion, or may be called when requested by another League Officer of the committee.  The President has 2 weeks to respond to such a request, before a League Officer can schedule an Executive Committee Meeting. Executive Committee Meetings serve to address responsibilities as described in Article IV, section 2.</p>
+<h2 id="article-vi-committees"><a class="header" href="#article-vi-committees">Article VI: Committees</a></h2>
+<p>The Executive Committee shall appoint other committees as required and shall delegate to them such responsibilities and duties not described elsewhere in the Constitution.</p>
+<h2 id="article-vii-compensation"><a class="header" href="#article-vii-compensation">Article VII: Compensation</a></h2>
+<p>No member of the Executive Committee or any other committee may receive compensation for his/her services as a member of such a committee.</p>
+<h2 id="article-viii-amendments-to-the-constitution"><a class="header" href="#article-viii-amendments-to-the-constitution">Article VIII: Amendments to the Constitution</a></h2>
+<p>A General Membership Meeting may amend or alter this Constitution provided the proposed amendments have been submitted to the Executive Committee in writing two weeks prior to a Membership Meeting.  Approval of two-thirds of the members present at the Membership Meeting shall be required for the adoption of the amendment.  Only current NASA badge holders, as defined in Article III, may participate in the vote.</p>
+<h2 id="article-ix-by-laws"><a class="header" href="#article-ix-by-laws">Article IX: By-Laws</a></h2>
+<p>The League By-Laws is another governing document that shall address all league laws and rules that are not specified in this document.  This includes (but not limited to)</p>
+<ol>
+<li>Season Structure</li>
+<li>Team Structure</li>
+<li>In-Game management and rules</li>
+<li>Roster assembly rules</li>
+<li>Forfeit rules</li>
+<li>Sportsmanship and suspension rules</li>
+<li>Additional League Officer duties not specified in the constitution</li>
+</ol>
+<p>An Executive Committee Meeting may adopt, amend or repeal the By-Laws of the League provided the proposed amendments have been submitted to the Executive Committee in writing two weeks prior to the meeting and are approved by a majority of the executive committee present at the Membership Meeting.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+
+                            <a rel="next prefetch" href="game-rules.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+
+                    <a rel="next prefetch" href="game-rules.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

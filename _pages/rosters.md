@@ -83,6 +83,7 @@ permalink: /rosters/
 | Player | Ethan Burbridge |
 | Player | Hossein |
 | Player | Jack Topper |
+| Player | Joe Hart |
 | Player | Marcello Rodriguez |
 | Player | Marco Tanda |
 | Player | Michael MacKay |
@@ -115,6 +116,7 @@ permalink: /rosters/
 | Player | Holum Fong |
 | Player | Jack Wang |
 | Player | John Garrett |
+| Player | Jorge Arriaga |
 | Player | Josiah Killam |
 | Player | Manh-Hung Le |
 | Player | Spartacus Dungbeetle |
