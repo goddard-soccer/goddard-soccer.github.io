@@ -8,7 +8,7 @@ permalink: /rosters/
 
 <div class="col-md-3 pb-3">
 <div class="card bg-theme">
-<div class="card-header text-center text-white bg-green">Green</div>
+<div class="card-header text-center text-white bg-green" id="green">Green</div>
 <div class="card-body w-100" markdown=1>
 
 | Captain | Kate Gasaway |
@@ -38,7 +38,7 @@ permalink: /rosters/
 
 <div class="col-md-3 pb-3">
 <div class="card bg-theme">
-<div class="card-header text-center text-white bg-orange">Orange</div>
+<div class="card-header text-center text-white bg-orange" id="orange">Orange</div>
 <div class="card-body w-100" markdown=1>
 
 | Captain | David Katzenberg |
@@ -69,7 +69,7 @@ permalink: /rosters/
 
 <div class="col-md-3 pb-3">
 <div class="card bg-theme">
-<div class="card-header text-center text-white bg-purple">Purple</div>
+<div class="card-header text-center text-white bg-purple" id="purple">Purple</div>
 <div class="card-body w-100" markdown=1>
 
 | Captain | Carlos Aguilar |
@@ -100,7 +100,7 @@ permalink: /rosters/
 
 <div class="col-md-3 pb-3">
 <div class="card bg-theme">
-<div class="card-header text-center text-white bg-red">Red</div>
+<div class="card-header text-center text-white bg-red" id="red">Red</div>
 <div class="card-body w-100" markdown=1>
 
 | Captain | Kevin Rhoads |

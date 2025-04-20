@@ -73,22 +73,22 @@ See y'all on the pitch...
 <div class="card-body">
 <div class="row">
     <div class="col-3 my-auto">
-        <a href="/rosters">
+        <a href="/rosters#green">
             <img src="/images/teams/green.jpg" class="img-fluid rounded"/>
         </a>
     </div>
     <div class="col-3 my-auto">
-        <a href="/rosters">
+        <a href="/rosters#orange">
             <img src="/images/teams/orange.jpg" class="img-fluid rounded"/>
         </a>
     </div>
     <div class="col-3 my-auto">
-        <a href="/rosters">
+        <a href="/rosters#purple">
             <img src="/images/teams/purple.jpg" class="img-fluid rounded"/>
         </a>
     </div>
     <div class="col-3 my-auto">
-        <a href="/rosters">
+        <a href="/rosters#red">
             <img src="/images/teams/red.jpg" class="img-fluid rounded"/>
         </a>
     </div>

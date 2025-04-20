@@ -68,7 +68,7 @@ with open(args.inputFile, newline='') as csvfile:
         f.write(f"""
 <div class="col-md-3 pb-3">
 <div class="card bg-theme">
-<div class="card-header text-center text-white bg-{k.lower()}">{k}</div>
+<div class="card-header text-center text-white bg-{k.lower()}" id="{k.lower()}">{k}</div>
 <div class="card-body w-100" markdown=1>
 
 """)
