@@ -23,13 +23,13 @@ title: Home
 {% include logo.svg %}
 </div>
 <h4><strong class="text-rainbow">TIS THE SEASON FOR SOCCER</strong></h4>
-Spring is in the air, along with a health supply of soccer balls! If you haven't signed up by now, sign ups are still live, but hurry!
+The Spring season is wrapping and <strong class="text-rainbow">PLAYOFFS</strong> are upon us! The 3rd place game will be Tuesday, June 10th and the final will be Wednesday, June 11th! Be sure to come out, support your team, and enjoy a barbeque after the final!
 <br>
-See y'all on the pitch...
+Fall sign ups are live, and there will be pick up games during the summer break. The Fall season will start after July 4th and end in late October!
 </div>
 <div class="row px-3 ">
 <div class="col-md-12 mt-3">
-    <a type="button" class="btn bg-button col-6" href="https://forms.gle/HjmzVpioDQJY2MRWA">Spring Sign Up Form</a>
+    <a type="button" class="btn bg-button col-6" href="https://forms.gle/a3VAYTwmPiTKNZ4L9">Fall Sign Up Form</a>
 </div>
 </div>
 </div>
