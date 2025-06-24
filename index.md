@@ -23,8 +23,6 @@ title: Home
 {% include logo.svg %}
 </div>
 <h4><strong class="text-rainbow">TIS THE SEASON FOR SOCCER</strong></h4>
-The Spring season is wrapping and <strong class="text-rainbow">PLAYOFFS</strong> are upon us! The 3rd place game will be Tuesday, June 10th and the final will be Wednesday, June 11th! Be sure to come out, support your team, and enjoy a barbeque after the final!
-<br><br>
 Fall sign ups are live, and there will be free pick up games during the summer break, which we will annouce on the <strong class="text-rainbow">[soccer Teams channel](https://teams.microsoft.com/l/team/19%3ag6UYrqOstWyW6S9Q-_jaSfmMqjkvoZauibWuiVI-HcY1%40thread.tacv2/conversations?groupId=5a25d439-e73f-44bf-9232-5bc6fd755435&tenantId=7005d458-45be-48ae-8140-d43da96dd17b)</strong>. The Fall season will start after July 4th and end in September!
 </div>
 <div class="row px-3 ">
