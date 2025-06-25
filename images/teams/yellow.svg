@@ -50,7 +50,7 @@
        height="4.52"
        x="206.54"
        y="210.70"
-       style="fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2"
+       style="fill:#FFB612;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2"
        inkscape:label="right-bottom-red-stripe-adjust" />
     <rect
        id="right-bottom-red-stripe"
@@ -58,7 +58,7 @@
        height="43.87"
        x="206.54"
        y="169.07"
-       style="fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2"
+       style="fill:#FFB612;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2"
        inkscape:label="right-bottom-red-stripe" />
     <rect
        id="middle-bottom-red-stripe"
@@ -66,7 +66,7 @@
        height="49.09"
        x="175.42"
        y="169.08"
-       style="fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2"
+       style="fill:#FFB612;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2"
        inkscape:label="middle-bottom-red-stripe" />
     <rect
        id="left-bottom-red-stripe-adjust"
@@ -74,7 +74,7 @@
        height="4.52"
        x="149.6"
        y="210.7"
-       style="fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2"
+       style="fill:#FFB612;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2"
        inkscape:label="left-bottom-red-stripe-adjust" />
     <rect
        id="left-bottom-red-stripe"
@@ -82,12 +82,12 @@
        height="43.87"
        x="144.12"
        y="169.08"
-       style="fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2"
+       style="fill:#FFB612;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2"
        inkscape:label="left-bottom-red-stripe" />
     <path
        id="top-right-fill"
        d="m 183.53,108.48 v 43.61 l 52.99,0.38 -5.46,-20.99 6.8,-25.11 -33.54,-4.31 z"
-       style="display:inline;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2"
+       style="display:inline;fill:#FFB612;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2"
        inkscape:label="top-right-fill" />
     <path
        id="top-left-fill"
@@ -100,7 +100,7 @@
        height="48.51"
        x="152.15"
        y="103.30"
-       style="fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2"
+       style="fill:#FFB612;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2"
        inkscape:label="top-left-red-vert" />
     <rect
        id="top-left-red-hor"
@@ -109,7 +109,7 @@
        x="121.39"
        y="-182.77"
        transform="rotate(90)"
-       style="fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2"
+       style="fill:#FFB612;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2"
        inkscape:label="top-left-red-hor" />
     <rect
        id="top-right-stripe-4"
@@ -146,7 +146,7 @@
     <path
        id="int-fill"
        d="m 162.16,97.57 c -9.79,7.17 -25.27,7.93 -34.16,4.34 l -3.56,4.58 c 15.28,21.49 6.5,43.12 -5.61,56.36 l 5.58,5.9 c -2.26,32.4 16.64,51.13 49.88,53.06 l 9.01,7.52 8.99,-7.64 c 19.35,-0.33 53.29,-11.19 49.64,-52.99 l 5.61,-5.81 c -14.22,-15.77 -19.13,-37.38 -5.38,-56.41 l -3.34,-4.55 c -12.16,4 -26.08,1.78 -34.45,-4.27 -12.56,9 -28.51,9.93 -42.19,-0.1 z m 42.3,6.16 c 7.55,4.69 15.89,6.02 30.28,4.76 -7.2,12.46 -7.98,27.31 -1.6,41.64 l -99.82,-0.06 c 5.37,-12.81 6.6,-27.55 -1.82,-41.87 10.37,1.51 20.51,1.15 30.61,-4.35 13.71,8.05 27.81,8.19 42.34,-0.12 z m -74.69,65.46 h 107.04 c 2.81,29.62 -16,45.62 -44.62,47.19 l -18.19,0.05 c -27.38,-1.97 -47.77,-16.42 -44.23,-47.24 z"
-       style="display:inline;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.177519px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0"
+       style="display:inline;fill:#FFB612;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.177519px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0"
        inkscape:label="int-fill" />
     <path
        id="top-outline"
@@ -166,7 +166,7 @@
     <path
        id="ball-fill"
        d="m 197.95,192.27 a 14.55,14.55 0 1 1 -29.11,0 14.55,14.55 0 1 1 29.11,0 z"
-       style="fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.760898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#FFB612;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.760898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:label="ball-fill" />
     <path
        id="ball6"
