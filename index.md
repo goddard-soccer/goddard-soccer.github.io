@@ -247,4 +247,3 @@ Fall sign ups are live, and there will be free pick up games during the summer b
 </div>
 </div>
 -->
-

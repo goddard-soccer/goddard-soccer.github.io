@@ -198,4 +198,11 @@ svg {
   width: 20vh;
 }
 
+.highlight {
+  background: black;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 5px;
+}
+
 /*# sourceMappingURL=styles.css.map */
