@@ -38,7 +38,9 @@ permalink: /faq/
 **A:** Yes! We understand that players may not be able to attend every game. Once placed on a team, please coordinate with the associated Team Captain to inform them of your availability. (Typically they'll poll each week with who is coming...)
 
 **Q: Does GSL hold weekly pick-up games?**<br>
-**A:** GSL only holds weekly pick-up games outside of active league seasons when daylight and weather permit. Weekly pickup games begin at 5PM and are held on the Main Lawn in between Buildings 1 and 3/14. For more information on pickup games, please join our <strong class="text-rainbow">[teams channel](https://teams.microsoft.com/l/team/19%3ag6UYrqOstWyW6S9Q-_jaSfmMqjkvoZauibWuiVI-HcY1%40thread.tacv2/conversations?groupId=5a25d439-e73f-44bf-9232-5bc6fd755435&tenantId=7005d458-45be-48ae-8140-d43da96dd17b)</strong>!
+**A:** GSL only holds weekly pick-up games outside of active league seasons when daylight and weather permit. Weekly pickup games begin at 5PM and are held on the Main Lawn in between Buildings 1 and 3/14. For more information on pickup games, please join our <strong class="text-rainbow">teams channel!</strong>
+
+<a type="button" class="btn bg-button col-12" href="https://teams.microsoft.com/l/team/19%3ag6UYrqOstWyW6S9Q-_jaSfmMqjkvoZauibWuiVI-HcY1%40thread.tacv2/conversations?groupId=5a25d439-e73f-44bf-9232-5bc6fd755435&tenantId=7005d458-45be-48ae-8140-d43da96dd17b">Teams Channel</a>
 
 **Q: What are the GSL rules?**<br>
 **A:** Great question, hope you aren't in the middle of an argument :D
