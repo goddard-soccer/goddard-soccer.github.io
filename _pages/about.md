@@ -29,11 +29,11 @@ The Goddard Soccer League was founded with the sole purpose of providing soccer 
 <table>
     <tr>
         <th>President</th>
-        <th>Marcello Rodriguez</th>
+        <th>Tyler Lee</th>
     </tr>
     <tr>
         <td class="bg-light">Vice President</td>
-        <td class="bg-light">Tyler Lee</td>
+        <td class="bg-light">Keegan O'Conner</td>
     </tr>
     <tr>
         <td class="bg-light">Secretary</td>

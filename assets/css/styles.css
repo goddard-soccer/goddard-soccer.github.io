@@ -170,6 +170,9 @@ td {
 .bg-theme .card-body p {
   color: white;
 }
+.bg-theme .card-body li {
+  color: white;
+}
 
 .bg-button {
   background: linear-gradient(to right, #f2709c, #ff9472);
