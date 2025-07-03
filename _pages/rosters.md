@@ -14,22 +14,22 @@ permalink: /rosters/
 | Captain | Kate Gasaway |
 | Co-Captain | Lateef Ajayi |
 | ---------- | ---------- |
+| Player | Aaron Vigil |
 | Player | Alan Arellano |
 | Player | Brodie Wallace |
 | Player | Chris Pagán |
 | Player | Joaquin Chaves |
+| Player | Jordan Gasaway |
 | Player | Keegan O'Connor |
 | Player | Nhut Truong |
 | Player | Spencer Harman |
 
 | Haven't Yet Signed Up |  |
 | ---------- | ---------- |
-| Player | Aaron Vigil |
 | Player | Ben Winkler |
 | Player | Derek Val |
 | Player | Erin Rogers |
 | Player | Grant Barrett |
-| Player | Jordan Gasaway |
 | Player | Juan Novillo |
 | Player | Sydney Rocz |
 | Player | Zachary McQueen |
@@ -49,6 +49,8 @@ permalink: /rosters/
 | ---------- | ---------- |
 | Player | Alex Ross |
 | Player | Andrew McVey |
+| Player | David Burtt |
+| Player | Joe Galassi |
 | Player | Luis Rodriguez |
 | Player | Luke Amatucci |
 | Player | Trevor Robinson |
@@ -81,6 +83,9 @@ permalink: /rosters/
 | Captain | Carlos Aguilar |
 | Co-Captain | Kyle Demmerle |
 | ---------- | ---------- |
+| Player | Christopher Adzima |
+| Player | Jack Topper |
+| Player | Michael MacKay |
 | Player | Timothy Wilcox |
 | Player | Zoran Kahric |
 
@@ -92,12 +97,11 @@ permalink: /rosters/
 | Player | Daniel Rodriguez |
 | Player | Ed Bustillo |
 | Player | Ethan Burbridge |
+| Player | Kyle Demmerle |
 | Player | Hossein |
-| Player | Jack Topper |
 | Player | Joe Hart |
 | Player | Marcello Rodriguez |
 | Player | Marco Tanda |
-| Player | Michael MacKay |
 | Player | Naomi Park |
 | Player | Payum Shakoorzadeh |
 | Player | Thomas Mariano |
@@ -115,6 +119,7 @@ permalink: /rosters/
 | Co-Captain | Sierra Budinoff |
 | ---------- | ---------- |
 | Player | Alistair Funge |
+| Player | Brandon Burkholder |
 | Player | Christian Caicedo |
 | Player | Eric Poole |
 | Player | Jack Wang |
@@ -146,7 +151,7 @@ permalink: /rosters/
 | Co-Captain |  |
 | ---------- | ---------- |
 | Player | Aiden Levy |
-| Player | Brandon Tafoya |
+| Player | Andrew Morell |
 | Player | Daniel Brillat |
 | Player | Jorge Arriaga |
 
