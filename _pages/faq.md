@@ -6,7 +6,6 @@ permalink: /faq/
 
 <div class="card mt-3 bg-theme">
 <div class="card-header text-center bg-light"><h5>FAQ</h5></div>
-
 <div class="card-body" markdown=1>
 
 **Q: What if I signed up without a team preference but I don't see myself on the rosters page?**<br>
@@ -54,6 +53,6 @@ permalink: /faq/
 
 **Q: Is Brandon Burkholder literally the worst thing that has happened, is happening, or will ever happen to humanity?**<br>
 **A:** Definitely. As scientists we are normally far from certain, even math has been proven incomplete, but in this regard it is beyond the scope of our perceived reality or any other reality, dimensioned or non-dimensioned.
-</div>
 
+</div>
 </div>
