@@ -203,7 +203,7 @@ Fall sign ups are live, and there will be free pick up games during the summer b
 <div class="d-flex justify-content-center">
 <div class="overflow-auto w-100">
 
-<h2>20 Goals!</h2>
+<h2>0 Goals!</h2>
 <h4 id="bfact">Fact #1: Brandon draws circles at a below-average first grader level.</h4>
 
 <script>
@@ -223,7 +223,7 @@ Fall sign ups are live, and there will be free pick up games during the summer b
 <div class="d-flex justify-content-center">
 <div class="overflow-auto w-100">
 
-<h2>3 Point Blank Misses!</h2>
+<h2>0 Point Blank Misses!</h2>
 <p>P.S. 4, 5, 6, 3, R1, 1, 7, S, 2, 9, 8</p>
 
 </div>
