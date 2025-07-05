@@ -87,7 +87,7 @@ Fall sign ups are live, and there will be free pick up games during the summer b
     </div>
     <div class="col-3 my-auto">
         <a href="/rosters#red">
-            <img src="/images/teams/new-red-ink.svg" class="img-fluid rounded"/>
+            <img src="/images/teams/new-red.svg" class="img-fluid rounded"/>
         </a>
     </div>
 </div>

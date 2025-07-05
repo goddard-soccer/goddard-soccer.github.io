@@ -7,7 +7,6 @@
    viewBox="0 0 1000 1000"
    version="1.1"
    id="svg1"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
@@ -102,13 +101,10 @@
        style="display:none;fill:none;fill-opacity:1;stroke:#ff6600;stroke-width:10;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
        id="path1"
        d="m 380,292.1539 a 240,240 0 0 1 240.00001,10e-6" />
-    <text
-       xml:space="preserve"
-       style="font-weight:bold;font-size:186.667px;line-height:0;font-family:Lexend;-inkscape-font-specification:'Lexend Bold';text-align:start;letter-spacing:12px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:start;fill:#ff6600;stroke-width:10"
-       id="text1"><textPath
-         xlink:href="#path1"
-         id="textPath1"><tspan
-           id="tspan1"
-           style="letter-spacing:12px">FC</tspan></textPath></text>
+    <path
+       d="m 393.35341,281.2313 -36.95887,-125.33108 30.43755,-8.97573 36.95887,125.33109 z m -0.005,-52.15497 -7.49737,-25.42431 64.81408,-19.11302 7.49737,25.42431 z m -14.88915,-50.49052 -7.91976,-26.85667 72.1549,-21.27775 7.91976,26.85666 z m 195.66601,94.84348 q -14.21255,-3.93296 -24.97185,-11.94605 -10.52961,-8.14322 -16.95535,-19.21813 -6.37595,-11.25482 -7.94765,-24.47277 -1.342,-13.34808 2.64074,-27.74055 3.88318,-14.03265 12.2063,-24.51247 8.32312,-10.47983 19.52815,-16.67588 11.43472,-6.32617 24.83259,-7.84808 13.57777,-1.47212 27.97023,2.51062 8.99529,2.48921 16.98358,7.21764 7.98828,4.72842 14.07002,11.44712 6.31144,6.58859 9.96617,14.37882 l -24.63454,16.23122 q -2.68276,-5.00339 -6.20396,-9.07671 -3.2915,-4.20344 -7.8808,-7.21655 -4.5893,-3.01311 -10.34629,-4.60621 -7.19623,-1.99137 -14.4196,-1.08502 -6.99369,0.77624 -13.19532,4.28952 -5.97194,3.38316 -10.56233,9.47281 -4.59039,6.08966 -6.93025,14.54523 -2.29008,8.27567 -1.48329,15.85885 0.85656,7.40328 4.36985,13.60491 3.51328,6.20164 9.65272,10.61212 6.31934,4.46027 14.77492,6.80013 5.75698,1.5931 11.42231,1.41769 5.66533,-0.17541 10.72983,-1.67917 5.29419,-1.63389 9.70809,-4.2861 l 8.28032,27.47006 q -5.89161,3.79276 -14.5429,5.65974 -8.4714,1.91678 -18.29379,1.71655 -9.5927,-0.33034 -18.7679,-2.86934 z"
+       id="text1"
+       style="font-weight:bold;font-size:186.667px;line-height:0;font-family:Lexend;-inkscape-font-specification:'Lexend Bold';letter-spacing:12px;word-spacing:0px;text-orientation:sideways;fill:#ff6600;stroke-width:10"
+       aria-label="FC" />
   </g>
 </svg>

@@ -44,7 +44,7 @@ permalink: /logos/
 <img src="/images/teams/red.jpg" height="300"/>
 <img src="/images/teams/red.svg" height="300"/>
 
-<img src="/images/teams/new-red-ink.svg" height="600"/>
+<img src="/images/teams/new-red.svg" height="600"/>
 
 </div>
 </div>
