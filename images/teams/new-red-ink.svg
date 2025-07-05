@@ -94,15 +94,15 @@
        id="path2" />
     <path
        style="fill:#90d5ff;stroke:#90d5ff;stroke-width:0"
-       d="M 250 618        L 350 618        L 350 930        L 300 980        C 280 916, 250 890, 250 890        Z"
+       d="M 250 615        L 350 615        L 350 930        L 300 980        C 280 916, 250 890, 250 890        Z"
        id="path3" />
     <path
        style="fill:#90d5ff;stroke:#90d5ff;stroke-width:0"
-       d="M 450 618        L 550 618        L 550 930        L 500 980        L 450 930        Z"
+       d="M 450 615        L 550 615        L 550 930        L 500 980        L 450 930        Z"
        id="path4" />
     <path
        style="fill:#90d5ff;stroke:#90d5ff;stroke-width:0"
-       d="M 650 618        L 750 618        L 750 890        C 750 890, 720 916, 700 980        L 700 980        L 650 930        Z"
+       d="M 650 615        L 750 615        L 750 890        C 750 890, 720 916, 700 980        L 700 980        L 650 930        Z"
        id="path5" />
     <g
        transform="matrix(2.673225,0,0,2.6270631,202.73739,51.172487)"

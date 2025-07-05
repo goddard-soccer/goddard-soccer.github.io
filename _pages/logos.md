@@ -11,6 +11,7 @@ permalink: /logos/
 <div class="card-body" markdown=1>
 
 <img src="/images/teams/green.jpg" height="300"/>
+<img src="/images/teams/new-green-ink.svg" height="300"/>
 
 </div>
 </div>
