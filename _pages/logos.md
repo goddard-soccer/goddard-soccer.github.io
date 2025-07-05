@@ -22,7 +22,7 @@ permalink: /logos/
 <img src="/images/teams/orange.jpg" height="300"/>
 <img src="/images/teams/orange.svg" height="300"/>
 <img src="/images/teams/yellow.svg" height="300"/>
-<img src="/images/teams/new-orange.svg" height="300"/>
+<img src="/images/teams/new-orange.svg" height="600"/>
 
 </div>
 </div>
@@ -43,6 +43,8 @@ permalink: /logos/
 <img src="/images/teams/logo.svg" height="300"/>
 <img src="/images/teams/red.jpg" height="300"/>
 <img src="/images/teams/red.svg" height="300"/>
+
+<img src="/images/teams/new-red-ink.svg" height="600"/>
 
 </div>
 </div>

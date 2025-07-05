@@ -7,19 +7,84 @@
    viewBox="0 0 1000 1000"
    version="1.1"
    id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="new-orange-ink.svg"
+   inkscape:export-filename="new-orange.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#3c7864"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#000000"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="1.16"
+     inkscape:cx="500"
+     inkscape:cy="545.68966"
+     inkscape:window-width="2560"
+     inkscape:window-height="1371"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="0,1000"
+       orientation="0,1000"
+       id="guide16"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1000,1000"
+       orientation="1000,0"
+       id="guide17"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1000,0"
+       orientation="0,-1000"
+       id="guide18"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-1000,0"
+       id="guide19"
+       inkscape:locked="false" />
+    <inkscape:grid
+       id="grid19"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="10"
+       spacingy="10"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="10"
+       enabled="true"
+       visible="true"
+       dotted="false" />
+  </sodipodi:namedview>
   <defs
      id="defs1" />
   <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
      id="layer1">
     <circle
        fill="none"
        id="outer-fill"
        stroke="#ff6600"
        stroke-width="280"
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       style="fill:#000000;stroke:#000000;stroke-opacity:1;fill-opacity:1"
        r="340"
        cy="500"
        cx="500" />
@@ -31,6 +96,7 @@
        stroke="black"
        stroke-width="40"
        stroke-dasharray="220"
+       inkscape:label="inner-dash"
        style="stroke:#ff6600;stroke-opacity:1"
        r="420" />
     <circle
@@ -42,10 +108,12 @@
        stroke="#000000"
        stroke-width="40"
        stroke-dasharray="0, 241, 0"
-       style="display:inline;stroke:#ff6600;stroke-opacity:1" />
+       style="display:inline;stroke:#ff6600;stroke-opacity:1"
+       inkscape:label="outer-dash" />
     <g
        transform="matrix(4.2343884,0,0,4.203301,29.736012,37.875995)"
        id="g2"
+       inkscape:label="stars"
        style="fill:#ff6600;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1">
       <path
          fill="#ffffff"
@@ -91,21 +159,48 @@
     <path
        style="display:none;fill:none;fill-opacity:1;stroke:#ff6600;stroke-width:10;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
        id="path2"
+       sodipodi:type="arc"
+       sodipodi:cx="-500"
+       sodipodi:cy="500"
+       sodipodi:rx="360"
+       sodipodi:ry="360"
+       sodipodi:start="0"
+       sodipodi:end="3.1415927"
+       sodipodi:arc-type="arc"
        d="m -140,500 a 360,360 0 0 1 -180,311.76915 360,360 0 0 1 -360.00001,-10e-6 A 360,360 0 0 1 -860,500"
+       sodipodi:open="true"
+       inkscape:label="orange-path"
        transform="scale(-1,1)" />
-    <path
-       d="m 146.16155,575.80155 q -3.12062,-14.60367 -0.76639,-27.7049 2.35424,-13.10123 9.38761,-23.95735 7.03336,-10.85612 18.02818,-18.35936 10.99482,-7.50324 25.41594,-10.58485 14.42112,-3.08161 27.52235,-0.72737 13.10123,2.35423 23.95735,9.3876 10.85612,7.03337 18.35936,18.02818 7.50324,10.99482 10.58485,25.41594 3.0816,14.42112 0.72737,27.52235 -2.35423,13.10123 -9.3876,23.95735 -7.03337,10.85612 -18.06719,18.17682 -10.99482,7.50324 -25.41594,10.58484 -14.23857,3.0426 -27.52235,0.72738 -13.06222,-2.17169 -23.91834,-9.20506 -10.85612,-7.03336 -18.35936,-18.02818 -7.50325,-10.99482 -10.54584,-25.23339 z m 29.16832,-6.42377 q 1.59931,7.48437 5.66376,13.10582 4.10346,5.80399 10.00739,9.31442 6.12548,3.65398 13.42578,4.76634 7.3003,1.11236 15.33232,-0.60398 8.03201,-1.71634 14.2401,-5.71526 6.20809,-3.99893 10.12263,-9.79833 4.13609,-5.65586 5.50901,-12.63007 1.41192,-6.79168 -0.18739,-14.27606 -1.59931,-7.48437 -5.70277,-13.28836 -4.06445,-5.62144 -10.18993,-9.27542 -5.94294,-3.69299 -13.24324,-4.80534 -7.26129,-0.92982 -15.29331,0.78652 -8.03202,1.71634 -14.46166,5.57173 -6.20808,3.99892 -10.12262,9.79832 -3.91454,5.7994 -5.32647,12.59107 -1.37291,6.97422 0.2264,14.4586 z m 31.98459,145.90188 93.83338,-90.9348 40.92066,42.22502 q 8.70376,8.98119 11.83135,19.98706 3.25749,11.13992 0.44817,21.92065 -2.67527,10.65082 -11.25432,18.96486 -8.84715,8.57385 -19.97879,11.30344 -10.99759,2.59968 -22.03399,-0.74169 -11.0364,-3.34137 -19.87007,-12.45661 l -19.87575,-20.5093 -32.97573,31.95709 z m 50.40386,52.0105 19.23565,-64.91106 25.95498,20.07663 -19.9887,70.83968 z m 21.04298,-79.13976 17.92715,18.49858 q 3.37758,3.48524 7.32033,4.60317 4.20671,1.12207 8.32078,-0.26549 4.24398,-1.25352 7.86326,-4.76101 3.61929,-3.50748 4.74136,-7.71419 1.25612,-4.33662 -0.25721,-8.84869 -1.38343,-4.37803 -5.54045,-8.66755 l -15.97854,-16.48787 z m 61.78957,141.08476 84.96502,-111.93022 25.8883,7.23415 14.27347,139.66112 -30.92214,-8.64079 -5.89676,-70.45316 q -0.38326,-4.17727 -0.6158,-8.89388 -0.23255,-4.71662 -0.41486,-9.61301 -0.13208,-5.07617 -0.36462,-9.79279 -0.003,-4.84616 0.15355,-8.87272 l 5.44363,1.32734 q -2.33461,4.19307 -4.97854,8.10589 -2.46415,3.96306 -5.10808,7.87588 -2.41391,3.78327 -5.23762,7.64586 -2.77347,3.6828 -5.46764,7.7754 L 370.75389,837.675 Z m 30.46272,-17.4592 15.95869,-20.34925 57.88912,16.17635 2.9182,25.62416 z m 173.08213,50.33452 -36.529,-125.45705 27.2421,-7.93201 91.86749,70.46054 -6.17533,0.82596 q -2.6182,-5.65348 -4.72141,-10.87366 -2.1032,-5.22018 -4.15421,-10.26113 -1.8718,-5.09314 -3.79577,-10.3655 -1.74476,-5.32455 -3.75043,-11.54521 -1.82645,-6.27286 -3.96601,-13.62106 l -9.02788,-31.00581 29.57202,-8.61041 36.529,125.45706 -27.60055,8.03638 -95.57002,-72.49319 9.50573,-1.40683 q 3.40097,8.34185 5.71291,14.27892 2.43897,5.70567 4.15421,10.26113 1.89447,4.50328 3.16956,8.21481 1.2751,3.71153 2.37097,7.47524 1.22291,3.5323 2.52752,8.01291 l 12.21112,41.9385 z M 777.37558,732.43736 q -10.20681,11.90311 -22.29548,18.2582 -12.08866,6.3551 -24.98612,7.3446 -12.89746,0.98951 -25.40917,-3.34583 -12.6534,-4.45686 -23.70629,-13.93462 -11.0529,-9.47776 -16.98288,-21.20189 -5.95017,-11.98735 -6.69666,-25.16822 -0.74649,-13.18087 3.81168,-26.23919 4.67968,-13.20003 14.64348,-24.81973 7.04757,-8.21882 15.37012,-13.62307 8.44406,-5.54595 17.23177,-8.33825 8.7877,-2.79231 17.12941,-2.77039 l 2.93021,27.84005 q -6.43863,0.62636 -11.98666,2.50821 -5.42651,1.74014 -10.34713,4.89767 -5.06233,3.03601 -9.19367,7.85394 -5.34642,6.23497 -7.57502,13.42216 -2.10709,7.04549 -1.39996,14.53698 0.68694,7.22827 4.39074,14.09271 3.5621,6.74293 9.93877,12.21086 6.37667,5.46794 13.84727,7.93956 7.4706,2.47162 14.98229,2.0277 7.36997,-0.56543 14.39631,-3.88451 7.00614,-3.58229 12.35257,-9.81726 3.7668,-4.39281 5.63052,-9.43391 1.98524,-5.18281 2.00647,-10.08255 0.0212,-4.89974 -1.77984,-9.39491 -1.94277,-4.61668 -5.76877,-7.89744 l -3.6843,-3.15925 7.49114,1.01385 -23.45138,27.34882 -18.8466,-16.16079 39.9767,-46.62054 q 1.80177,1.0532 4.61565,3.22018 2.81388,2.16698 5.36455,4.35416 2.67217,2.04547 3.94751,3.13906 9.63585,8.26266 14.67522,18.73131 5.01918,10.20543 5.48261,21.4223 0.46342,11.21686 -3.56798,22.51381 -4.03139,11.29695 -12.53708,21.21622 z m 69.80034,-127.62803 -128.73455,-22.38876 15.60817,-89.74637 26.66644,4.63767 -10.33082,59.4018 75.40167,13.11342 10.65065,-61.24087 26.66644,4.63768 z m -50.22245,-23.89191 -25.3791,-4.41379 11.61018,-66.75805 25.37909,4.41378 z"
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:186.667px;line-height:0;font-family:Lexend;-inkscape-font-specification:'Lexend Bold';text-align:start;letter-spacing:60px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:start;fill:#ff6600;stroke-width:10"
        id="text2"
-       style="font-weight:bold;font-size:186.667px;line-height:0;font-family:Lexend;-inkscape-font-specification:'Lexend Bold';letter-spacing:60px;word-spacing:0px;text-orientation:sideways;fill:#ff6600;stroke-width:10"
-       aria-label="ORANGE" />
+       inkscape:label="orange"
+       x="504.95615"
+       y="0"><textPath
+         xlink:href="#path2"
+         id="textPath2"><tspan
+           id="tspan2"
+           style="text-align:start;text-anchor:start;letter-spacing:60px">ORANGE</tspan></textPath></text>
     <path
        style="display:none;fill:none;fill-opacity:1;stroke:#ff6600;stroke-width:10;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
        id="path1"
-       d="m 380,292.1539 a 240,240 0 0 1 240.00001,10e-6" />
+       sodipodi:type="arc"
+       sodipodi:cx="500"
+       sodipodi:cy="500"
+       sodipodi:rx="240"
+       sodipodi:ry="240"
+       sodipodi:start="4.1887902"
+       sodipodi:end="5.2359878"
+       sodipodi:arc-type="arc"
+       d="m 380,292.1539 a 240,240 0 0 1 240.00001,10e-6"
+       inkscape:label="fc-path"
+       sodipodi:open="true" />
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:186.667px;line-height:0;font-family:Lexend;-inkscape-font-specification:'Lexend Bold';text-align:start;letter-spacing:12px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-orientation:sideways;text-anchor:start;fill:#ff6600;stroke-width:10"
-       id="text1"><textPath
+       id="text1"
+       inkscape:label="fc"><textPath
          xlink:href="#path1"
          id="textPath1"><tspan
            id="tspan1"
