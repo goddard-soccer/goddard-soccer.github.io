@@ -4,8 +4,6 @@ title: Logos
 permalink: /logos/
 ---
 
-
-
 <div class="card mt-3 bg-theme">
 <div class="card-header text-center bg-light"><h5>Green</h5></div>
 <div class="card-body" markdown=1>
