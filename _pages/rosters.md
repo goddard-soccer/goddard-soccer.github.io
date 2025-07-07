@@ -16,6 +16,7 @@ permalink: /rosters/
 | ---------- | ---------- |
 | Player | Aaron Vigil |
 | Player | Alan Arellano |
+| Player | Andrew Morell |
 | Player | Ben Winkler |
 | Player | Brodie Wallace |
 | Player | Chris Pagán |
@@ -54,6 +55,7 @@ permalink: /rosters/
 | Player | John Baker |
 | Player | Luis Rodriguez |
 | Player | Luke Amatucci |
+| Player | Marlo Pinto |
 | Player | Nicholas Martucci |
 | Player | Nick Scott |
 | Player | Trevor Robinson |
@@ -82,10 +84,15 @@ permalink: /rosters/
 | Captain | Carlos Aguilar |
 | Co-Captain | Kyle Demmerle |
 | ---------- | ---------- |
+| Player | Aiden Levy |
 | Player | Christopher Adzima |
+| Player | Daniel Brillat |
 | Player | Jack Topper |
+| Player | Jason Flores |
+| Player | Jorge Arriaga |
 | Player | Michael MacKay |
 | Player | Naomi Park |
+| Player | Roberto Baeza |
 | Player | Timothy Wilcox |
 | Player | Zoran Kahric |
 
@@ -125,6 +132,7 @@ permalink: /rosters/
 | Player | John Garrett |
 | Player | Josiah Killam |
 | Player | Manh-Hung Le |
+| Player | Pierre van Houtte |
 | Player | Tyler Lee |
 | Player | Tyler Parsotan |
 
@@ -147,13 +155,9 @@ permalink: /rosters/
 | Captain |  |
 | Co-Captain |  |
 | ---------- | ---------- |
-| Player | Aiden Levy |
 | Player | Andrew Morell |
-| Player | Daniel Brillat |
 | Player | Jason Flores |
-| Player | Jorge Arriaga |
 | Player | Pierre van Houtte |
-| Player | Roberto Baeza |
 
 
 </div>
