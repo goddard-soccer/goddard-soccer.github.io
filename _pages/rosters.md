@@ -25,6 +25,7 @@ permalink: /rosters/
 | Player | Keegan O'Connor |
 | Player | Nhut Truong |
 | Player | Spencer Harman |
+| Player | Zach McQueen |
 
 | Haven't Yet Signed Up |  |
 | ---------- | ---------- |
@@ -32,7 +33,6 @@ permalink: /rosters/
 | Player | Grant Barrett |
 | Player | Juan Novillo |
 | Player | Sydney Rocz |
-| Player | Zachary McQueen |
 
 
 </div>
@@ -51,6 +51,7 @@ permalink: /rosters/
 | Player | Andrew McVey |
 | Player | Arijit Dutta |
 | Player | David Burtt |
+| Player | Dorukhan Ardag |
 | Player | Joe Galassi |
 | Player | John Baker |
 | Player | Luis Rodriguez |
@@ -68,7 +69,6 @@ permalink: /rosters/
 | Player | Ava Afghahi |
 | Player | CJ Dorsey |
 | Player | David Russell |
-| Player | Doruk Ardağ |
 | Player | Sina Khani |
 | Player | Tony Cazeau |
 
@@ -86,10 +86,10 @@ permalink: /rosters/
 | ---------- | ---------- |
 | Player | Aiden Levy |
 | Player | Christopher Adzima |
-| Player | Daniel Brillat |
 | Player | Jack Topper |
 | Player | Jason Flores |
 | Player | Jorge Arriaga |
+| Player | Marcello Rodriguez |
 | Player | Michael MacKay |
 | Player | Naomi Park |
 | Player | Roberto Baeza |
@@ -127,6 +127,7 @@ permalink: /rosters/
 | Player | Brandon Burkholder |
 | Player | Christian Caicedo |
 | Player | Curtiss Burnett |
+| Player | Daniel Brillat |
 | Player | Eric Poole |
 | Player | Jack Wang |
 | Player | John Garrett |
@@ -155,9 +156,8 @@ permalink: /rosters/
 | Captain |  |
 | Co-Captain |  |
 | ---------- | ---------- |
-| Player | Andrew Morell |
-| Player | Jason Flores |
-| Player | Pierre van Houtte |
+| Player | Elio Raimundo |
+| Player | Emmanuel Obiyo |
 
 
 </div>
