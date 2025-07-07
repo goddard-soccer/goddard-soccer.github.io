@@ -15,8 +15,9 @@ vim _data/schedule.csv
 # can do this online super easily as well
 ```
 
-- Updating the homepage (medium)
+- Updating pages (medium)
 ```bash
+bundle exec jekyll serve
 # TODO
 ```
 
@@ -28,7 +29,7 @@ vim _data/schedule.csv
 - Updating rosters (hard)
 ```bash
 cd assets/docs
-cp ~/Downloads/*.csv teams.csv
+cp ~/Downloads/*Form\ Responses*.csv teams.csv
 python3 teams.py teams.csv
 python3 teams.py teams.csv -r # rating page
 # manually diff the generated files with the current roster to do final corrections
@@ -42,6 +43,11 @@ python3 teams.py teams.csv -r # rating page
 - Updating the schedule (medium)
 ```bash
 # TODO
+```
+
+- Updating the stylesheet (medium)
+```bash
+sass -w assets/css/styles.sass:assets/css/styles.css
 ```
 
 </div>

@@ -77,7 +77,7 @@ Fall sign ups are live, and there will be free pick up games during the summer b
     </div>
     <div class="col-3 my-auto">
         <a href="/rosters#orange">
-            <img src="/images/teams/orange.jpg" class="img-fluid rounded"/>
+            <img src="/images/teams/orange.svg" class="img-fluid rounded" width="300"/>
         </a>
     </div>
     <div class="col-3 my-auto">
@@ -87,7 +87,7 @@ Fall sign ups are live, and there will be free pick up games during the summer b
     </div>
     <div class="col-3 my-auto">
         <a href="/rosters#red">
-            <img src="/images/teams/red.jpg" class="img-fluid rounded"/>
+            <img src="/images/teams/red.svg" class="img-fluid rounded"/>
         </a>
     </div>
 </div>

@@ -16,6 +16,7 @@ permalink: /rosters/
 | ---------- | ---------- |
 | Player | Aaron Vigil |
 | Player | Alan Arellano |
+| Player | Ben Winkler |
 | Player | Brodie Wallace |
 | Player | Chris Pagán |
 | Player | Joaquin Chaves |
@@ -26,9 +27,7 @@ permalink: /rosters/
 
 | Haven't Yet Signed Up |  |
 | ---------- | ---------- |
-| Player | Ben Winkler |
 | Player | Derek Val |
-| Player | Erin Rogers |
 | Player | Grant Barrett |
 | Player | Juan Novillo |
 | Player | Sydney Rocz |
@@ -49,25 +48,25 @@ permalink: /rosters/
 | ---------- | ---------- |
 | Player | Alex Ross |
 | Player | Andrew McVey |
+| Player | Arijit Dutta |
 | Player | David Burtt |
 | Player | Joe Galassi |
+| Player | John Baker |
 | Player | Luis Rodriguez |
 | Player | Luke Amatucci |
+| Player | Nicholas Martucci |
+| Player | Nick Scott |
 | Player | Trevor Robinson |
 
 | Haven't Yet Signed Up |  |
 | ---------- | ---------- |
 | Player | Addison Johnson |
 | Player | Ali Vakili |
-| Player | Arijit Dutta |
 | Player | Aum Vyas |
 | Player | Ava Afghahi |
 | Player | CJ Dorsey |
 | Player | David Russell |
 | Player | Doruk Ardağ |
-| Player | John Baker |
-| Player | Nicholas Martucci |
-| Player | Nick Scott |
 | Player | Sina Khani |
 | Player | Tony Cazeau |
 
@@ -86,6 +85,7 @@ permalink: /rosters/
 | Player | Christopher Adzima |
 | Player | Jack Topper |
 | Player | Michael MacKay |
+| Player | Naomi Park |
 | Player | Timothy Wilcox |
 | Player | Zoran Kahric |
 
@@ -97,12 +97,10 @@ permalink: /rosters/
 | Player | Daniel Rodriguez |
 | Player | Ed Bustillo |
 | Player | Ethan Burbridge |
-| Player | Kyle Demmerle |
 | Player | Hossein |
 | Player | Joe Hart |
 | Player | Marcello Rodriguez |
 | Player | Marco Tanda |
-| Player | Naomi Park |
 | Player | Payum Shakoorzadeh |
 | Player | Thomas Mariano |
 
@@ -121,11 +119,12 @@ permalink: /rosters/
 | Player | Alistair Funge |
 | Player | Brandon Burkholder |
 | Player | Christian Caicedo |
+| Player | Curtiss Burnett |
 | Player | Eric Poole |
 | Player | Jack Wang |
 | Player | John Garrett |
 | Player | Josiah Killam |
-| Player | Manh-Hung (Hung) Le |
+| Player | Manh-Hung Le |
 | Player | Tyler Lee |
 | Player | Tyler Parsotan |
 
@@ -133,10 +132,8 @@ permalink: /rosters/
 | ---------- | ---------- |
 | Player | Christian Naylor |
 | Player | Connor Burnett |
-| Player | Curtiss Burnett |
 | Player | Edwin Garzon |
 | Player | Holum Fong |
-| Player | Spartacus Dungbeetle |
 
 </div>
 </div>
@@ -153,7 +150,10 @@ permalink: /rosters/
 | Player | Aiden Levy |
 | Player | Andrew Morell |
 | Player | Daniel Brillat |
+| Player | Jason Flores |
 | Player | Jorge Arriaga |
+| Player | Pierre van Houtte |
+| Player | Roberto Baeza |
 
 
 </div>
