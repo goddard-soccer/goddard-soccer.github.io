@@ -20,6 +20,7 @@ permalink: /rosters/
 | Player | Ben Winkler |
 | Player | Brodie Wallace |
 | Player | Chris Pagán |
+| Player | Elio Raimundo |
 | Player | Joaquin Chaves |
 | Player | Jordan Gasaway |
 | Player | Keegan O'Connor |
@@ -128,6 +129,7 @@ permalink: /rosters/
 | Player | Christian Caicedo |
 | Player | Curtiss Burnett |
 | Player | Daniel Brillat |
+| Player | Emmanuel Obiyo |
 | Player | Eric Poole |
 | Player | Jack Wang |
 | Player | John Garrett |
@@ -143,22 +145,6 @@ permalink: /rosters/
 | Player | Connor Burnett |
 | Player | Edwin Garzon |
 | Player | Holum Fong |
-
-</div>
-</div>
-</div>
-
-<div class="col-md-3 pb-3">
-<div class="card bg-theme">
-<div class="card-header text-center text-white bg-unassigned" id="unassigned">Unassigned</div>
-<div class="card-body w-100" markdown=1>
-
-| Captain |  |
-| Co-Captain |  |
-| ---------- | ---------- |
-| Player | Elio Raimundo |
-| Player | Emmanuel Obiyo |
-
 
 </div>
 </div>
