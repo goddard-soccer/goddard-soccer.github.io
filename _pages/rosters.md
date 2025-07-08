@@ -86,6 +86,7 @@ permalink: /rosters/
 | Co-Captain | Kyle Demmerle |
 | ---------- | ---------- |
 | Player | Aiden Levy |
+| Player | Anders Lundkvist |
 | Player | Christopher Adzima |
 | Player | Daniel Rodriguez |
 | Player | Jack Topper |
@@ -102,7 +103,6 @@ permalink: /rosters/
 | Haven't Yet Signed Up |  |
 | ---------- | ---------- |
 | Player | Adam Maggard |
-| Player | Anders Lundkvist |
 | Player | Brandon Bustillo |
 | Player | Ed Bustillo |
 | Player | Ethan Burbridge |
