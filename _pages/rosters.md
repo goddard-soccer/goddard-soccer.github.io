@@ -51,6 +51,7 @@ permalink: /rosters/
 | Player | Alex Ross |
 | Player | Andrew McVey |
 | Player | Arijit Dutta |
+| Player | Aum Vyas |
 | Player | David Burtt |
 | Player | Dorukhan Ardag |
 | Player | Joe Galassi |
@@ -66,7 +67,6 @@ permalink: /rosters/
 | ---------- | ---------- |
 | Player | Addison Johnson |
 | Player | Ali Vakili |
-| Player | Aum Vyas |
 | Player | Ava Afghahi |
 | Player | CJ Dorsey |
 | Player | David Russell |
@@ -87,6 +87,7 @@ permalink: /rosters/
 | ---------- | ---------- |
 | Player | Aiden Levy |
 | Player | Christopher Adzima |
+| Player | Daniel Rodriguez |
 | Player | Jack Topper |
 | Player | Jason Flores |
 | Player | Jorge Arriaga |
@@ -94,6 +95,7 @@ permalink: /rosters/
 | Player | Michael MacKay |
 | Player | Naomi Park |
 | Player | Roberto Baeza |
+| Player | Thomas Mariano |
 | Player | Timothy Wilcox |
 | Player | Zoran Kahric |
 
@@ -102,15 +104,12 @@ permalink: /rosters/
 | Player | Adam Maggard |
 | Player | Anders Lundkvist |
 | Player | Brandon Bustillo |
-| Player | Daniel Rodriguez |
 | Player | Ed Bustillo |
 | Player | Ethan Burbridge |
 | Player | Hossein |
 | Player | Joe Hart |
-| Player | Marcello Rodriguez |
 | Player | Marco Tanda |
 | Player | Payum Shakoorzadeh |
-| Player | Thomas Mariano |
 
 </div>
 </div>
@@ -136,6 +135,7 @@ permalink: /rosters/
 | Player | Josiah Killam |
 | Player | Manh-Hung Le |
 | Player | Pierre van Houtte |
+| Player | Sergio Guerrero |
 | Player | Tyler Lee |
 | Player | Tyler Parsotan |
 
