@@ -53,6 +53,7 @@ permalink: /rosters/
 | Player | Arijit Dutta |
 | Player | Aum Vyas |
 | Player | David Burtt |
+| Player | Demos Kazanas |
 | Player | Dorukhan Ardag |
 | Player | Joe Galassi |
 | Player | John Baker |
@@ -87,14 +88,17 @@ permalink: /rosters/
 | ---------- | ---------- |
 | Player | Aiden Levy |
 | Player | Anders Lundkvist |
+| Player | Brandon Bustillo |
 | Player | Christopher Adzima |
 | Player | Daniel Rodriguez |
+| Player | Ed Bustillo |
 | Player | Jack Topper |
 | Player | Jason Flores |
 | Player | Jorge Arriaga |
 | Player | Marcello Rodriguez |
 | Player | Michael MacKay |
 | Player | Naomi Park |
+| Player | Payum Shakoorzadeh |
 | Player | Roberto Baeza |
 | Player | Thomas Mariano |
 | Player | Timothy Wilcox |
@@ -103,13 +107,10 @@ permalink: /rosters/
 | Haven't Yet Signed Up |  |
 | ---------- | ---------- |
 | Player | Adam Maggard |
-| Player | Brandon Bustillo |
-| Player | Ed Bustillo |
 | Player | Ethan Burbridge |
 | Player | Hossein |
 | Player | Joe Hart |
 | Player | Marco Tanda |
-| Player | Payum Shakoorzadeh |
 
 </div>
 </div>
@@ -126,9 +127,9 @@ permalink: /rosters/
 | Player | Alistair Funge |
 | Player | Brandon Burkholder |
 | Player | Christian Caicedo |
+| Player | Christian Naylor |
 | Player | Curtiss Burnett |
 | Player | Daniel Brillat |
-| Player | Emmanuel Obiyo |
 | Player | Eric Poole |
 | Player | Jack Wang |
 | Player | John Garrett |
@@ -141,7 +142,6 @@ permalink: /rosters/
 
 | Haven't Yet Signed Up |  |
 | ---------- | ---------- |
-| Player | Christian Naylor |
 | Player | Connor Burnett |
 | Player | Edwin Garzon |
 | Player | Holum Fong |
