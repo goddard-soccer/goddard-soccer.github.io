@@ -203,6 +203,14 @@ svg {
   border-radius: 5px;
   padding: 5px;
   margin: 5px;
+  color: white;
+}
+
+code.highlighter-rouge {
+  padding: 5px;
+  background: black;
+  border-radius: 5px;
+  color: white;
 }
 
 /*# sourceMappingURL=styles.css.map */
