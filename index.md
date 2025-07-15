@@ -33,36 +33,6 @@ Fall sign ups are live, and there will be free pick up games during the summer b
 </div>
 </div>
 
-<!-- begin goal of the week -->
-<!-- <div class="card text-center mt-3 bg-theme">
-<div class="card-header text-center bg-light">
-    <h5>Goal of the Week</h5>
-</div>
-<div class="card-body">
-<div class="row text-white">
-    <h5 class="m-0">Text</h5>
-</div>
-</div>
-</div> -->
-
-<!-- begin row champ video -->
-<!-- <div class="card bg-light text-center my-3">
-<div class="card-header text-center">
-    2023 Championship Game
-</div>
-<div class="card-body">
-    <!-- <script>
-        randInt = Math.floor(Math.random() * 2) + 1;
-        document.write('<img src="/images/2023-' + randInt + '.jpg" class="img-fluid w-100 rounded"/>');
-    </script>
-    <video width="100%" poster="/assets/img/2023/GSL-Championship-2023.png" controls>
-        <source src="/assets/img/2023/GSL-Championship-2023.webm" type="video/webm">
-        <source src="/assets/img/2023/GSL-Championship-2023.mp4" type="video/mp4">
-    </video>
-
-</div>
-</div> -->
-
 <!-- begin row teams -->
 <div class="card text-center mt-3 bg-theme">
 <div class="card-header text-center bg-light">
@@ -94,7 +64,7 @@ Fall sign ups are live, and there will be free pick up games during the summer b
 </div>
 </div>
 
-<!-- begin row leading goal scorer -->
+<!-- begin row brandon -->
 <script>
     const bfacts = [
         "Brandon draws circles at a below-average first grader level.",
@@ -215,6 +185,7 @@ Fall sign ups are live, and there will be free pick up games during the summer b
 </div>
 </div>
 
+<!-- begin row tyler -->
 <div class="card text-center mt-3 bg-mono">
 <div class="card-header text-center bg-light">
     <h5>Tyler's Stormtrooper Impression</h5>
@@ -231,6 +202,7 @@ Fall sign ups are live, and there will be free pick up games during the summer b
 </div>
 </div>
 
+<!-- begin row trevor -->
 <!--
 <div class="card text-center mt-3 bg-sunset">
 <div class="card-header text-center bg-light">
@@ -247,3 +219,21 @@ Fall sign ups are live, and there will be free pick up games during the summer b
 </div>
 </div>
 -->
+
+<!-- begin row champ video -->
+<!-- <div class="card bg-light text-center my-3">
+<div class="card-header text-center">
+    2023 Championship Game
+</div>
+<div class="card-body">
+    <!-- <script>
+        randInt = Math.floor(Math.random() * 2) + 1;
+        document.write('<img src="/images/2023-' + randInt + '.jpg" class="img-fluid w-100 rounded"/>');
+    </script>
+    <video width="100%" poster="/assets/img/2023/GSL-Championship-2023.png" controls>
+        <source src="/assets/img/2023/GSL-Championship-2023.webm" type="video/webm">
+        <source src="/assets/img/2023/GSL-Championship-2023.mp4" type="video/mp4">
+    </video>
+
+</div>
+</div> -->

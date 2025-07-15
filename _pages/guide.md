@@ -8,44 +8,56 @@ permalink: /guide/
 <div class="card-header text-center bg-light"><h5>Guide</h5></div>
 <div class="card-body" markdown=1>
 
-- Updating scores (easy)
+1. Updating scores (easy)
+- Simply update the schedule csv
+- Uses a day/month/year format
+- Scores are added as comma separated values after the date and teams
 ```bash
 vim _data/schedule.csv
-# 
 # can do this online super easily as well
 ```
 
-- Updating pages (medium)
+2. Updating pages (medium)
 ```bash
 bundle exec jekyll serve
-# TODO
+
+# past this url into a web browser to view changes live before pushing
+localhost:4000
+
+git diff # check the changes you made
+git add . # this adds all, you can add individual files instead
+git status # check that the files are correctly added
+git commit -m "update message"
+git push # website will update after a few minutes once this step is performed
 ```
 
-- Updating the schedule (medium)
-```bash
-# TODO
-```
-
-- Updating rosters (hard)
+3. Updating rosters (hard)
 ```bash
 cd assets/docs
 cp ~/Downloads/*Form\ Responses*.csv teams.csv
 python3 teams.py teams.csv
-python3 teams.py teams.csv -r # rating page
+python3 teams.py teams.csv -r # rating page (rosters2)
 # manually diff the generated files with the current roster to do final corrections
 ```
 
-- Updating the rules (medium)
+4. Updating the rules (medium)
 ```bash
 # TODO
+# change from mdbook to inbuilt md adjustment
 ```
 
-- Updating the schedule (medium)
+5. Updating the schedule (medium)
+- copy the output of this script into the `_data/schedule.csv` file and adjust as appropriate
+- again, the shown schedule stops after a blank line or line beginning with `#`
 ```bash
-# TODO
+python3 assets/docs/scheduler.py
 ```
 
-- Updating the stylesheet (medium)
+6. Updating the stylesheet (medium)
+- the style sheet is what gives the html skeleton its color/size/etc
+- sass is a preprocessor that runs once when a change is made to the sass file(s)
+- sass then generates the css for you
+- you can run this alongside jekyll to see the changes live
 ```bash
 sass -w assets/css/styles.sass:assets/css/styles.css
 ```
