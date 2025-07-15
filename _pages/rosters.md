@@ -17,6 +17,7 @@ permalink: /rosters/
 | Player | Aaron Vigil |
 | Player | Alan Arellano |
 | Player | Andrew Morell |
+| Player | Anthony Das |
 | Player | Ben Winkler |
 | Player | Brodie Wallace |
 | Player | Chris Pagán |
@@ -28,13 +29,6 @@ permalink: /rosters/
 | Player | Nhut Truong |
 | Player | Spencer Harman |
 | Player | Zach McQueen |
-
-| Haven't Yet Signed Up |  |
-| ---------- | ---------- |
-| Player | Derek Val |
-| Player | Grant Barrett |
-| Player | Juan Novillo |
-| Player | Sydney Rocz |
 
 
 </div>
@@ -50,6 +44,7 @@ permalink: /rosters/
 | Co-Captain | Dayne Ford |
 | ---------- | ---------- |
 | Player | Alex Ross |
+| Player | Ali Vakili |
 | Player | Andrew McVey |
 | Player | Arijit Dutta |
 | Player | Aum Vyas |
@@ -63,17 +58,9 @@ permalink: /rosters/
 | Player | Marlo Pinto |
 | Player | Nicholas Martucci |
 | Player | Nick Scott |
+| Player | Tony Cazeau |
 | Player | Trevor Robinson |
 
-| Haven't Yet Signed Up |  |
-| ---------- | ---------- |
-| Player | Addison Johnson |
-| Player | Ali Vakili |
-| Player | Ava Afghahi |
-| Player | CJ Dorsey |
-| Player | David Russell |
-| Player | Sina Khani |
-| Player | Tony Cazeau |
 
 </div>
 </div>
@@ -96,6 +83,7 @@ permalink: /rosters/
 | Player | Jack Topper |
 | Player | Jorge Arriaga |
 | Player | Marcello Rodriguez |
+| Player | Marco Tanda |
 | Player | Michael MacKay |
 | Player | Naomi Park |
 | Player | Payum Shakoorzadeh |
@@ -104,13 +92,6 @@ permalink: /rosters/
 | Player | Timothy Wilcox |
 | Player | Zoran Kahric |
 
-| Haven't Yet Signed Up |  |
-| ---------- | ---------- |
-| Player | Adam Maggard |
-| Player | Ethan Burbridge |
-| Player | Hossein |
-| Player | Joe Hart |
-| Player | Marco Tanda |
 
 </div>
 </div>
@@ -128,8 +109,10 @@ permalink: /rosters/
 | Player | Brandon Burkholder |
 | Player | Christian Caicedo |
 | Player | Christian Naylor |
+| Player | Connor Burnett |
 | Player | Curtiss Burnett |
 | Player | Daniel Brillat |
+| Player | Edwin Garzon |
 | Player | Eric Poole |
 | Player | Jack Wang |
 | Player | John Garrett |
@@ -140,11 +123,6 @@ permalink: /rosters/
 | Player | Tyler Lee |
 | Player | Tyler Parsotan |
 
-| Haven't Yet Signed Up |  |
-| ---------- | ---------- |
-| Player | Connor Burnett |
-| Player | Edwin Garzon |
-| Player | Holum Fong |
 
 </div>
 </div>
