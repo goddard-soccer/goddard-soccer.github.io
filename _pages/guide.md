@@ -66,7 +66,7 @@ python3 teams.py teams.csv -r # rating page (rosters2)
 
 ### Updating the schedule (medium)
 - copy the output of this script into the `_data/schedule.csv` file and adjust as appropriate
-- again, the shown schedule stops after a blank line or line beginning with `#`
+- the shown schedule stops after a blank line or line beginning with `#`
 
 ```bash
 python3 assets/docs/scheduler.py
