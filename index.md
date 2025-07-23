@@ -103,67 +103,90 @@ Fall sign ups are live, and there will be free pick up games during the summer b
 <div class="d-flex justify-content-center">
 <div class="overflow-auto w-100">
 
+<div id="chartPoints" style="width: 100%; height: 400px"></div>
 <div id="chartGoalsFor" style="width: 100%; height: 400px"></div>
 <div id="chartGoalsDiffer" style="width: 100%; height: 400px"></div>
 
 <script type="text/javascript">
-    var chartGoalsFor = echarts.init(document.getElementById('chartGoalsFor'));
-    var chartGoalsDiffer = echarts.init(document.getElementById('chartGoalsDiffer'));
 
-    var globalOption = {
-        title: { 
-            text: 'Goals',
-            textStyle: { color: "white", fontSize: 22 },
-            left: "center"
-        },
-        textStyle: { color: "white" },
-        tooltip: {},
-        xAxis: {
-            data: ['Green', 'Orange', 'Purple', 'Red'],
-            axisLabel: {
-                textStyle: { fontSize: 16 },
-            }
-        },
-        yAxis: {
-            axisLabel: {
-                textStyle: { fontSize: 16 },
-            }
-        },
-        series: [
-            {
-            name: 'Goals',
-            type: 'bar',
-            data: [
-                { value: {{ greenFor }}, itemStyle: { color: "green", } },
-                { value: {{ orangeFor }}, itemStyle: { color: "#ff6600", } },
-                { value: {{ purpleFor }}, itemStyle: { color: "purple", } },
-                { value: {{ redFor }}, itemStyle: { color: "red", } },
-            ],
-            itemStyle: { barBorderRadius: 5, },
-            }
-        ]
-    };
+var chartPoints = echarts.init(document.getElementById('chartPoints'));
+var chartGoalsFor = echarts.init(document.getElementById('chartGoalsFor'));
+var chartGoalsDiffer = echarts.init(document.getElementById('chartGoalsDiffer'));
 
-    var goalsDifferOption = {
-        title: {
-            text: 'Differential',
-        },
-        series: [
+var globalOption = {
+    title: { 
+        text: 'Points',
+        textStyle: { color: "white", fontSize: 22 },
+        left: "center"
+    },
+    textStyle: { color: "white" },
+    tooltip: {},
+    xAxis: {
+        data: ['Green', 'Orange', 'Purple', 'Red'],
+        axisLabel: {
+            textStyle: { fontSize: 16 },
+        }
+    },
+    yAxis: {
+        axisLabel: {
+            textStyle: { fontSize: 16 },
+        }
+    },
+    series: [
         {
-        name: 'Differential',
+        name: 'Points',
+        type: 'bar',
         data: [
-            { value: {{ greenDiffer }}, itemStyle: { color: "green", } },
-            { value: {{ orangeDiffer }}, itemStyle: { color: "#ff6600", } },
-            { value: {{ purpleDiffer }}, itemStyle: { color: "purple", } },
-            { value: {{ redDiffer }}, itemStyle: { color: "red", } },
+            { value: {{ greenPoints }}, itemStyle: { color: "green", } },
+            { value: {{ orangePoints }}, itemStyle: { color: "#ff6600", } },
+            { value: {{ purplePoints }}, itemStyle: { color: "purple", } },
+            { value: {{ redPoints }}, itemStyle: { color: "red", } },
         ],
+        itemStyle: { barBorderRadius: 5, },
         }
     ]
-    }
+};
 
-    chartGoalsFor.setOption(globalOption);
-    chartGoalsDiffer.setOption(globalOption);
-    chartGoalsDiffer.setOption(goalsDifferOption);
+var goalsForOption = {
+    title: {
+        text: 'Goals',
+    },
+    series: [
+    {
+    name: 'Goals',
+    data: [
+        { value: {{ greenFor }}, itemStyle: { color: "green", } },
+        { value: {{ orangeFor }}, itemStyle: { color: "#ff6600", } },
+        { value: {{ purpleFor }}, itemStyle: { color: "purple", } },
+        { value: {{ redFor }}, itemStyle: { color: "red", } },
+    ],
+    }
+]
+}
+
+var goalsDifferOption = {
+    title: {
+        text: 'Differential',
+    },
+    series: [
+    {
+    name: 'Differential',
+    data: [
+        { value: {{ greenDiffer }}, itemStyle: { color: "green", } },
+        { value: {{ orangeDiffer }}, itemStyle: { color: "#ff6600", } },
+        { value: {{ purpleDiffer }}, itemStyle: { color: "purple", } },
+        { value: {{ redDiffer }}, itemStyle: { color: "red", } },
+    ],
+    }
+]
+}
+
+chartPoints.setOption(globalOption);
+chartGoalsFor.setOption(globalOption);
+chartGoalsDiffer.setOption(globalOption);
+chartGoalsFor.setOption(goalsForOption);
+chartGoalsDiffer.setOption(goalsDifferOption);
+
 </script>
 
 </div>

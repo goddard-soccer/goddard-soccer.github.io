@@ -1,3 +1,15 @@
+// Rainbow Logo
+let hue = 0;
+function rainbowCycle() {
+    for (let i = 0; i < 8; i++) {
+        val = (hue + 1 + i*45) % 360;
+        document.getElementById('star'+ i).style.fill = `hsl(${val}, 100%, 50%)`;
+    }
+    hue++;
+}
+setInterval(rainbowCycle, 100);
+
+// Brandon Facts
 const sound = new Audio();
 function playSound(filename) {
     console.log("Playing song: " + filename);
@@ -92,13 +104,3 @@ function bfactGen() {
     bfactsInt = Math.floor(Math.random() * bfacts.length);
     document.getElementById("bfact").innerHTML = 'Fact #' + (bfactsInt+1) + ': ' + bfacts[bfactsInt];
 }
-
-let hue = 0;
-function rainbowCycle() {
-    for (let i = 0; i < 8; i++) {
-        val = (hue + 1 + i*45) % 360;
-        document.getElementById('star'+ i).style.fill = `hsl(${val}, 100%, 50%)`;
-    }
-    hue++;
-}
-setInterval(rainbowCycle, 100);
