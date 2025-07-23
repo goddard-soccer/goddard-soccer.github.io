@@ -55,44 +55,6 @@ Fall sign ups are live, and there will be free pick up games during the summer b
 </div>
 </div>
 
-<!-- begin row brandon -->
-<div class="card text-center mt-3 bg-rainbow">
-<div class="card-header text-center bg-light" onclick="playSound('hero')">
-    <h5>Brandon Ego Tracker</h5>
-</div>
-<div class="card-body" onclick="bfactGen()" style="user-select: none; -moz-user-select: none; -webkit-user-select: none; -webkit-touch-callout: none;" markdown=1>
-<div class="d-flex justify-content-center">
-<div class="overflow-auto w-100">
-
-<h2>0 Goals!</h2>
-<h4 id="bfact">Fact #1: Brandon draws circles at a below-average first grader level.</h4>
-
-<script>
-    bfactGen();
-</script>
-
-</div>
-</div>
-</div>
-</div>
-
-<!-- begin row tyler -->
-<div class="card text-center mt-3 bg-mono">
-<div class="card-header text-center bg-light">
-    <h5>Tyler's Stormtrooper Impression</h5>
-</div>
-<div class="card-body" onclick="playSound('bad-day');" markdown=1>
-<div class="d-flex justify-content-center">
-<div class="overflow-auto w-100">
-
-<h2>0 Point Blank Misses!</h2>
-<p>P.S. 4, 5, 6, 3, R1, 1, 7, S, 2, 9, 8</p>
-
-</div>
-</div>
-</div>
-</div>
-
 <!-- begin row chart -->
 {% include calculations.html %}
 <div class="card text-center mt-3 bg-theme">
@@ -188,6 +150,44 @@ chartGoalsFor.setOption(goalsForOption);
 chartGoalsDiffer.setOption(goalsDifferOption);
 
 </script>
+
+</div>
+</div>
+</div>
+</div>
+
+<!-- begin row brandon -->
+<div class="card text-center mt-3 bg-rainbow">
+<div class="card-header text-center bg-light" onclick="playSound('hero')">
+    <h5>Brandon Ego Tracker</h5>
+</div>
+<div class="card-body" onclick="bfactGen()" style="user-select: none; -moz-user-select: none; -webkit-user-select: none; -webkit-touch-callout: none;" markdown=1>
+<div class="d-flex justify-content-center">
+<div class="overflow-auto w-100">
+
+<h2>0 Goals!</h2>
+<h4 id="bfact">Fact #1: Brandon draws circles at a below-average first grader level.</h4>
+
+<script>
+    bfactGen();
+</script>
+
+</div>
+</div>
+</div>
+</div>
+
+<!-- begin row tyler -->
+<div class="card text-center mt-3 bg-mono">
+<div class="card-header text-center bg-light">
+    <h5>Tyler's Stormtrooper Impression</h5>
+</div>
+<div class="card-body" onclick="playSound('bad-day');" markdown=1>
+<div class="d-flex justify-content-center">
+<div class="overflow-auto w-100">
+
+<h2>0 Point Blank Misses!</h2>
+<p>P.S. 4, 5, 6, 3, R1, 1, 7, S, 2, 9, 8</p>
 
 </div>
 </div>
