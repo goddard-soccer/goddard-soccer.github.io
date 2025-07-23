@@ -113,15 +113,22 @@ Fall sign ups are live, and there will be free pick up games during the summer b
     var globalOption = {
         title: { 
             text: 'Goals',
-            textStyle: { color: "white", },
+            textStyle: { color: "white", fontSize: 24 },
             left: "center"
         },
         textStyle: { color: "white" },
         tooltip: {},
         xAxis: {
             data: ['Green', 'Orange', 'Purple', 'Red'],
+            axisLabel: {
+                textStyle: { fontSize: 20 },
+            }
         },
-        yAxis: {},
+        yAxis: {
+            axisLabel: {
+                textStyle: { fontSize: 20 },
+            }
+        },
         series: [
             {
             name: 'Goals',
@@ -144,14 +151,12 @@ Fall sign ups are live, and there will be free pick up games during the summer b
         series: [
         {
         name: 'Differential',
-        type: 'bar',
         data: [
             { value: {{ greenDiffer }}, itemStyle: { color: "green", } },
             { value: {{ orangeDiffer }}, itemStyle: { color: "#ff6600", } },
             { value: {{ purpleDiffer }}, itemStyle: { color: "purple", } },
             { value: {{ redDiffer }}, itemStyle: { color: "red", } },
         ],
-        itemStyle: { barBorderRadius: 5, },
         }
     ]
     }
