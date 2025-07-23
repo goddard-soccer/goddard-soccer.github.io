@@ -113,7 +113,7 @@ Fall sign ups are live, and there will be free pick up games during the summer b
     var globalOption = {
         title: { 
             text: 'Goals',
-            textStyle: { color: "white", fontSize: 24 },
+            textStyle: { color: "white", fontSize: 22 },
             left: "center"
         },
         textStyle: { color: "white" },
@@ -121,12 +121,12 @@ Fall sign ups are live, and there will be free pick up games during the summer b
         xAxis: {
             data: ['Green', 'Orange', 'Purple', 'Red'],
             axisLabel: {
-                textStyle: { fontSize: 20 },
+                textStyle: { fontSize: 16 },
             }
         },
         yAxis: {
             axisLabel: {
-                textStyle: { fontSize: 20 },
+                textStyle: { fontSize: 16 },
             }
         },
         series: [
