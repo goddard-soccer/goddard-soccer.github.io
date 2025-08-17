@@ -38,7 +38,7 @@ Fall sign ups are live, and there will be free pick up games during the summer b
     </div>
     <div class="col-3 my-auto">
         <a href="/rosters#orange">
-            <img src="/images/teams/new-orange.svg" class="img-fluid rounded"/>
+            <img src="/images/teams/orange-dayne.svg" class="img-fluid rounded"/>
         </a>
     </div>
     <div class="col-3 my-auto">
