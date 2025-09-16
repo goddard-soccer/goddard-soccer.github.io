@@ -188,7 +188,7 @@ chartGoalsDiffer.setOption(goalsDifferOption);
 <div class="d-flex justify-content-center">
 <div class="overflow-auto w-100">
 
-<h2>0 Point Blank Misses!</h2>
+<h2>2 Point Blank Misses!</h2>
 <p>P.S. 4, 5, 6, 3, R1, 1, 7, S, 2, 9, 8</p>
 
 </div>
