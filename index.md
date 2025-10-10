@@ -13,16 +13,14 @@ title: Home
 <div class="mb-2" style="text-align: center; height: 20vh">
 {% include logo.svg %}
 </div>
-<h4><strong class="text-rainbow">TIS THE SEASON FOR SOCCER</strong></h4>
-Fall season is live, you can now sign up and pay half price ($25) for the remaining games. There will be pick up after the season, check the <strong class="text-rainbow">[soccer Teams channel](https://teams.microsoft.com/l/team/19%3ag6UYrqOstWyW6S9Q-_jaSfmMqjkvoZauibWuiVI-HcY1%40thread.tacv2/conversations?groupId=5a25d439-e73f-44bf-9232-5bc6fd755435&tenantId=7005d458-45be-48ae-8140-d43da96dd17b)</strong> for updates.
-
-Also, based on popular demand, we have added an mid season tournament in September!!! Get excited!!! Or else!!!
+<h4><strong class="text-rainbow">OFFSEASON BLUES</strong></h4>
+Fall season has come to an end, there may be a few free games of pickup if the government resumes, check <strong class="text-rainbow">[soccer Teams channel](https://teams.microsoft.com/l/team/19%3ag6UYrqOstWyW6S9Q-_jaSfmMqjkvoZauibWuiVI-HcY1%40thread.tacv2/conversations?groupId=5a25d439-e73f-44bf-9232-5bc6fd755435&tenantId=7005d458-45be-48ae-8140-d43da96dd17b)</strong> for updates...
 </div>
-<div class="row px-3 ">
+<!--<div class="row px-3 ">
 <div class="col-md-12 mt-3">
     <a type="button" class="btn bg-button col-6" href="https://forms.gle/a3VAYTwmPiTKNZ4L9">Fall Sign Up Form</a>
 </div>
-</div>
+</div>-->
 </div>
 </div>
 
