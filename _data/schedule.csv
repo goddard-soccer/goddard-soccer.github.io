@@ -18,6 +18,52 @@ Break,Labor Day
 10/9/2025,Orange,Purple,3,0
 16/9/2025,Red,Purple,7,11
 17/9/2025,Orange,Green,3,6
+Break,Winter Break
+1/4/2026,Green,Orange,
+7/4/2026,Red,Purple,
+8/4/2026,Purple,Orange,
+14/4/2026,Red,Green,
+15/4/2026,Purple,Green,
+21/4/2026,Red,Orange,
+22/4/2026,Orange,Green,
+28/4/2026,Purple,Red,
+29/4/2026,Orange,Purple,
+5/5/2026,Green,Red,
+6/5/2026,Green,Purple,
+12/5/2026,Orange,Red,
+13/5/2026,Red,Purple,
+19/5/2026,Green,Orange,
+20/5/2026,Red,Green,
+Break,Memorial Day
+2/6/2026,Purple,Orange,
+3/6/2026,Red,Orange,
+9/6/2026,Purple,Green,
+10/6/2026,Third,Fourth,
+16/6/2026,First,Second,
+
+# Break, Summer Break 2026
+7/7/2026,Purple,Red,
+8/7/2026,Orange,Green,
+14/7/2026,Green,Red,
+15/7/2026,Orange,Purple,
+21/7/2026,Orange,Red,
+22/7/2026,Green,Purple,
+28/7/2026,Green,Orange,
+29/7/2026,Red,Purple,
+4/8/2026,Purple,Orange,
+5/8/2026,Red,Green,
+11/8/2026,Purple,Green,
+12/8/2026,Red,Orange,
+18/8/2026,Orange,Green,
+19/8/2026,Purple,Red,
+25/8/2026,Orange,Purple,
+26/8/2026,Green,Red,
+1/9/2026,Green,Purple,
+2/9/2026,Orange,Red,
+Break,Labor Day
+
+
+# 2025-2026
 Break,Mid Season Tournament
 23/9/2025,Orange,Purple,4,2
 24/9/2025,Green,Red,3,4
