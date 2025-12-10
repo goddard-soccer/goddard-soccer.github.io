@@ -14,7 +14,9 @@ title: Home
 {% include logo.svg %}
 </div>
 <h4><strong class="text-rainbow">OFFSEASON BLUES</strong></h4>
-Fall season has come to an end, there may be a few free games of pickup if the government resumes, check <strong class="text-rainbow">[soccer Teams channel](https://teams.microsoft.com/l/team/19%3ag6UYrqOstWyW6S9Q-_jaSfmMqjkvoZauibWuiVI-HcY1%40thread.tacv2/conversations?groupId=5a25d439-e73f-44bf-9232-5bc6fd755435&tenantId=7005d458-45be-48ae-8140-d43da96dd17b)</strong> for updates...
+Fall season has come to an end, but be sure to check <strong class="text-rainbow">[soccer Teams channel](https://teams.microsoft.com/l/team/19%3ag6UYrqOstWyW6S9Q-_jaSfmMqjkvoZauibWuiVI-HcY1%40thread.tacv2/conversations?groupId=5a25d439-e73f-44bf-9232-5bc6fd755435&tenantId=7005d458-45be-48ae-8140-d43da96dd17b)</strong> for when the <strong class="text-rainbow">FREE</strong> pick up games resume some time around March!!!
+<br><br>
+The spring schedule is up on the <strong class="text-rainbow">[scores page](/scores)</strong>!!! *Sunglasses Emoji*
 </div>
 <!--<div class="row px-3 ">
 <div class="col-md-12 mt-3">
@@ -158,14 +160,14 @@ chartGoalsDiffer.setOption(goalsDifferOption);
 
 <!-- begin row brandon -->
 <div class="card text-center mt-3 bg-rainbow">
-<div class="card-header text-center bg-light" onclick="playSound('hero')">
+<div class="card-header text-center bg-light" onclick="playSound('scrub')">
     <h5>Brandon Ego Tracker</h5>
 </div>
 <div class="card-body" onclick="bfactGen()" style="user-select: none; -moz-user-select: none; -webkit-user-select: none; -webkit-touch-callout: none;" markdown=1>
 <div class="d-flex justify-content-center">
 <div class="overflow-auto w-100">
 
-<h2>9 Goals!</h2>
+<h2>0 Goals!</h2>
 <h4 id="bfact">Fact #1: Brandon draws circles at a below-average first grader level.</h4>
 
 <script>
@@ -179,14 +181,14 @@ chartGoalsDiffer.setOption(goalsDifferOption);
 
 <!-- begin row tyler -->
 <div class="card text-center mt-3 bg-mono">
-<div class="card-header text-center bg-light">
+<div class="card-header text-center bg-light" onclick="playSound('bad-day')">
     <h5>Tyler's Stormtrooper Impression</h5>
 </div>
-<div class="card-body" onclick="playSound('bad-day');" markdown=1>
+<div class="card-body" markdown=1>
 <div class="d-flex justify-content-center">
 <div class="overflow-auto w-100">
 
-<h2>2 Point Blank Misses!</h2>
+<h2>0 Point Blank Misses!</h2>
 <p>P.S. 4, 5, 6, 3, R1, 1, 7, S, 2, 9, 8</p>
 
 </div>
