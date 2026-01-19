@@ -1,7 +1,10 @@
-@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap");
 @font-face {
   font-family: comic-sans;
   src: url(/assets/fonts/comic-sans.ttf);
+}
+@font-face {
+  font-family: lexend;
+  src: url(/assets/fonts/lexend.ttf);
 }
 body {
   font-family: "Lexend";
