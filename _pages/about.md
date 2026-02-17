@@ -70,7 +70,7 @@ The Goddard Soccer League was founded with the sole purpose of providing soccer 
             <a type="button" class="btn bg-button" href="mailto:nasagoddardsoccer@gmail.com">Send an Email</a>
         </div>
         <div class="col-md-6 mt-3">
-            <a type="button" class="btn bg-button" href="https://forms.gle/a3VAYTwmPiTKNZ4L9">Sign Up Form</a>
+            <a type="button" class="btn bg-button" href="https://forms.gle/rpuonUzQS99RoxTg8">Sign Up Form</a>
         </div>
     </div>
 </div>
