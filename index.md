@@ -13,16 +13,16 @@ title: Home
 <div class="mb-2" style="text-align: center; height: 20vh">
 {% include logo.svg %}
 </div>
-<h4><strong class="text-rainbow">OFFSEASON BLUES</strong></h4>
-Fall season has come to an end, but be sure to check <strong class="text-rainbow">[soccer Teams channel](https://teams.microsoft.com/l/team/19%3ag6UYrqOstWyW6S9Q-_jaSfmMqjkvoZauibWuiVI-HcY1%40thread.tacv2/conversations?groupId=5a25d439-e73f-44bf-9232-5bc6fd755435&tenantId=7005d458-45be-48ae-8140-d43da96dd17b)</strong> for when the <strong class="text-rainbow">FREE</strong> pick up games resume some time around March!!!
-<br><br>
-The spring schedule is up on the <strong class="text-rainbow">[scores page](/scores)</strong>!!! *Sunglasses Emoji*
+<h4><strong class="text-rainbow">SPRING IS IN THE AIR</strong></h4>
+OHHHH YEAAAA, its nearing that time again! Spring season sign ups are live and we are dropping the price!
+
+Interested in trying before buying? We will have free pick up games in March before the season starts in April. Check the <strong class="text-rainbow">[soccer Teams channel](https://teams.microsoft.com/l/team/19%3ag6UYrqOstWyW6S9Q-_jaSfmMqjkvoZauibWuiVI-HcY1%40thread.tacv2/conversations?groupId=5a25d439-e73f-44bf-9232-5bc6fd755435&tenantId=7005d458-45be-48ae-8140-d43da96dd17b)</strong> for up to date information.
 </div>
-<!--<div class="row px-3 ">
+<div class="row px-3 ">
 <div class="col-md-12 mt-3">
-    <a type="button" class="btn bg-button col-6" href="https://forms.gle/a3VAYTwmPiTKNZ4L9">Fall Sign Up Form</a>
+    <a type="button" class="btn bg-button col-6" href="https://forms.gle/rpuonUzQS99RoxTg8">Spring Sign Up Form</a>
 </div>
-</div>-->
+</div>
 </div>
 </div>
 
