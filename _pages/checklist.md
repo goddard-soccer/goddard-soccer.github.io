@@ -11,10 +11,10 @@ permalink: /checklist/
 ### January
 - Spring sign up form
 - Post Flyers
+- Fertilizer
 
 ### Start of Spring Season
 - Umbrellas out
-- Fertilizer
 - Line field
   - 100 ft x 175 diag?
 
