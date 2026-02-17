@@ -154,4 +154,3 @@ When the league started and was sanctioned by GEWA, there were four teams - the 
 </div>
 
 <!-- begin row 4 -->
-
