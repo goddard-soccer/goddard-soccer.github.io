@@ -52,9 +52,9 @@ git push # website will update after a few minutes once this step is performed
 ### Updating rosters (hard)
 - the rosters update by downloading the sign up sheet csv from the google sheets
 - then running it through the roster page generator
-- I generally then use vscode's diff tool to compare the output files in `assets/docs/roster*.md` to the acutally pages in `_pages/roster*.md` (normal page and rated page)
+- I generally then use vscode's diff tool to compare the output files in `assets/docs/roster*.md` to the actually pages in `_pages/roster*.md` (normal page and rated page)
 - you can use the team generator tool to make the ratings page as well which is a hidden page that can be viewed on the localhost web server at `localhost:4000/rosters2.md`
-- the rated page is git ignored on purpose, please do not upload the skill levels publically
+- the rated page is git ignored on purpose, please do not upload the skill levels publicly
 
 ```bash
 cd assets/docs
