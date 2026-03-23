@@ -20,6 +20,7 @@ permalink: /rosters/
 | Player | Brodie Wallace |
 | Player | George Dimopoulos |
 | Player | Joaquin Chaves |
+| Player | Jordan Gasaway |
 | Player | Spencer Harman |
 
 
@@ -39,7 +40,6 @@ permalink: /rosters/
 | Player | Arijit Dutta |
 | Player | Charles Dorsey |
 | Player | David Burtt |
-| Player | Dayne Ford |
 | Player | Joe Galassi |
 | Player | Luis Rodriguez |
 | Player | Luke Amatucci |
@@ -91,6 +91,7 @@ permalink: /rosters/
 | Player | Eric Poole |
 | Player | Hung Le |
 | Player | Josiah Killam |
+| Player | The Antichrist |
 | Player | Tyler Lee |
 | Player | Tyler Parsotan |
 
@@ -120,8 +121,7 @@ Not yet signed up ;)
 <div class="card-header text-center text-white bg-green" id="green">Green</div>
 <div class="card-body w-100" markdown=1>
 
-| Captain | Kate Gasaway |
-| Co-Captain | Lateef Ajayi |
+|  |  |
 | ---------- | ---------- |
 | Player | Alan Arellano |
 | Player | Andrew Morell |
@@ -130,8 +130,6 @@ Not yet signed up ;)
 | Player | Derek Val |
 | Player | Elio Raimundo |
 | Player | Jason Flores |
-| Player | Jordan Gasaway |
-| Player | Keegan O'Connor |
 | Player | Nhut Truong |
 | Player | Zach McQueen |
 
@@ -145,19 +143,14 @@ Not yet signed up ;)
 <div class="card-header text-center text-white bg-orange" id="orange">Orange</div>
 <div class="card-body w-100" markdown=1>
 
-| Captain | David Katzenberg |
-| Co-Captain | Dayne Ford |
+|  |  |
 | ---------- | ---------- |
-| Player | Alex Ross |
 | Player | Ali Vakili |
 | Player | Andrew McVey |
 | Player | Aum Vyas |
 | Player | Demos Kazanas |
 | Player | Dorukhan Ardag |
 | Player | Isabella Sanford |
-| Player | Joe Galassi |
-| Player | John Baker |
-| Player | Marlo Pinto |
 
 </div>
 </div>
@@ -168,18 +161,13 @@ Not yet signed up ;)
 <div class="card-header text-center text-white bg-purple" id="purple">Purple</div>
 <div class="card-body w-100" markdown=1>
 
-| Captain | Carlos Aguilar |
-| Co-Captain | Kyle Demmerle |
+|  |  |
 | ---------- | ---------- |
-| Player | Aiden Levy |
 | Player | Brandon Bustillo |
-| Player | Christopher Adzima |
 | Player | Daniel Rodriguez |
 | Player | Ed Bustillo |
 | Player | Jack Topper |
 | Player | Jorge Arriaga |
-| Player | Naomi Park |
-| Player | Roberto Baeza |
 | Player | Zoran Kahric |
 
 </div>
@@ -191,10 +179,8 @@ Not yet signed up ;)
 <div class="card-header text-center text-white bg-red" id="red">Red</div>
 <div class="card-body w-100" markdown=1>
 
-| Captain | Kevin Rhoads |
-| Co-Captain | Sierra Budinoff |
+|  |  |
 | ---------- | ---------- |
-| Player | Brandon Burkholder |
 | Player | Christian Caicedo |
 | Player | Connor Burnett |
 | Player | Jack Wang |

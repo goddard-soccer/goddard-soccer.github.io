@@ -35,22 +35,22 @@ Interested in trying before buying? We will have free pick up games in March bef
 <div class="row">
     <div class="col-3 my-auto">
         <a href="/rosters#green">
-            <img src="/images/teams/green.jpg" class="img-fluid rounded"/>
+            <img src="/images/teams/green.svg" class="img-fluid rounded"/>
         </a>
     </div>
     <div class="col-3 my-auto">
         <a href="/rosters#orange">
-            <img src="/images/teams/orange-dayne.svg" class="img-fluid rounded"/>
+            <img src="/images/teams/orange.svg" class="img-fluid rounded"/>
         </a>
     </div>
     <div class="col-3 my-auto">
         <a href="/rosters#purple">
-            <img src="/images/teams/purple.jpg" class="img-fluid rounded"/>
+            <img src="/images/teams/purple.svg" class="img-fluid rounded"/>
         </a>
     </div>
     <div class="col-3 my-auto">
         <a href="/rosters#red">
-            <img src="/images/teams/new-red.svg" class="img-fluid rounded"/>
+            <img src="/images/teams/red.svg" class="img-fluid rounded"/>
         </a>
     </div>
 </div>
