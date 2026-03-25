@@ -16,7 +16,6 @@ permalink: /rosters/
 | ---------- | ---------- |
 | Player | Aaron Vigil |
 | Player | Ben Winkler |
-| Player | Bradley Gay |
 | Player | Brodie Wallace |
 | Player | Chris Pagán |
 | Player | Derek Val |
@@ -24,6 +23,7 @@ permalink: /rosters/
 | Player | Joaquin Chaves |
 | Player | Jordan Gasaway |
 | Player | Keegan O'Connor |
+| Player | Panayiotis Brousos |
 | Player | Spencer Harman |
 | Player | Zach McQueen |
 
@@ -68,6 +68,7 @@ permalink: /rosters/
 | Co-Captain | Kyle Demmerle |
 | ---------- | ---------- |
 | Player | Anders Lundkvist |
+| Player | Bradley Gay |
 | Player | Brandon Bustillo |
 | Player | Ed Bustillo |
 | Player | Marcello Rodriguez |
