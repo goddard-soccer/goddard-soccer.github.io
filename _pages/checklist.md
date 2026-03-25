@@ -30,7 +30,17 @@ permalink: /checklist/
 ### As needed
 - Mower blades
 - Trash out
-- 
+- Rules
+
+### Website
+<div class="row">
+    <div class="col-md-6 mt-3">
+        <a type="button" class="btn bg-button w-100" href="/guide">Guide</a>
+    </div>
+    <div class="col-md-6 mt-3">
+        <a type="button" class="btn bg-button w-100" href="/dev">Dev</a>
+    </div>
+</div>
 
 </div>
 </div>

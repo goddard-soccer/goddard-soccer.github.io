@@ -51,6 +51,11 @@ permalink: /faq/
 
 <a type="button" class="btn bg-button col-12" href="/guide">Guide</a>
 
+**Q: What if I wanted a checklist to help me keep track of what needs to be done when?**<br>
+**A:** Are you reading my mind? Are we the same person? Is your favorite ice cream mint chocolate chip too? 😉
+
+<a type="button" class="btn bg-button col-12" href="/checklist">Checklist</a>
+
 **Q: Is Brandon Burkholder literally the worst thing that has happened, is happening, or will ever happen to humanity?**<br>
 **A:** Definitely. As scientists we are normally far from certain, even math has been proven incomplete, but in this regard it is beyond the scope of our perceived reality or any other reality, dimensioned or non-dimensioned.
 
