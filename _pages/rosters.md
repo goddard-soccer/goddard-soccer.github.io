@@ -18,10 +18,14 @@ permalink: /rosters/
 | Player | Ben Winkler |
 | Player | Bradley Gay |
 | Player | Brodie Wallace |
+| Player | Chris Pagán |
+| Player | Derek Val |
 | Player | George Dimopoulos |
 | Player | Joaquin Chaves |
 | Player | Jordan Gasaway |
+| Player | Keegan O'Connor |
 | Player | Spencer Harman |
+| Player | Zach McQueen |
 
 
 </div>
@@ -38,8 +42,10 @@ permalink: /rosters/
 | ---------- | ---------- |
 | Player | Allen Murrell |
 | Player | Arijit Dutta |
+| Player | Aum Vyas |
 | Player | Charles Dorsey |
 | Player | David Burtt |
+| Player | Isabella Sanford |
 | Player | Joe Galassi |
 | Player | Luis Rodriguez |
 | Player | Luke Amatucci |
@@ -62,6 +68,8 @@ permalink: /rosters/
 | Co-Captain | Kyle Demmerle |
 | ---------- | ---------- |
 | Player | Anders Lundkvist |
+| Player | Brandon Bustillo |
+| Player | Ed Bustillo |
 | Player | Marcello Rodriguez |
 | Player | Marco Tanda |
 | Player | Michael MacKay |
@@ -90,6 +98,7 @@ permalink: /rosters/
 | Player | Edwin Garzon |
 | Player | Eric Poole |
 | Player | Hung Le |
+| Player | John Garrett |
 | Player | Josiah Killam |
 | Player | The Antichrist |
 | Player | Tyler Lee |
@@ -126,12 +135,9 @@ Not yet signed up ;)
 | Player | Alan Arellano |
 | Player | Andrew Morell |
 | Player | Anthony Das |
-| Player | Chris Pagán |
-| Player | Derek Val |
 | Player | Elio Raimundo |
 | Player | Jason Flores |
 | Player | Nhut Truong |
-| Player | Zach McQueen |
 
 
 </div>
@@ -147,10 +153,8 @@ Not yet signed up ;)
 | ---------- | ---------- |
 | Player | Ali Vakili |
 | Player | Andrew McVey |
-| Player | Aum Vyas |
 | Player | Demos Kazanas |
 | Player | Dorukhan Ardag |
-| Player | Isabella Sanford |
 
 </div>
 </div>
@@ -163,9 +167,7 @@ Not yet signed up ;)
 
 |  |  |
 | ---------- | ---------- |
-| Player | Brandon Bustillo |
 | Player | Daniel Rodriguez |
-| Player | Ed Bustillo |
 | Player | Jack Topper |
 | Player | Jorge Arriaga |
 | Player | Zoran Kahric |
@@ -184,7 +186,6 @@ Not yet signed up ;)
 | Player | Christian Caicedo |
 | Player | Connor Burnett |
 | Player | Jack Wang |
-| Player | John Garrett |
 | Player | Pierre van Houtte |
 | Player | Sergio Guerrero |
 
