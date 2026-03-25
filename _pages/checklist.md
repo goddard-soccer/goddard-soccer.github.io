@@ -10,8 +10,25 @@ permalink: /checklist/
 
 ### January
 - Spring sign up form
+- Fertilizer (Costco, 5 bags for play area, ~$200 on sale)
+- Insurance
+<div class="row">
+    <div class="col-md-6 mb-3">
+        <a type="button" class="btn bg-button w-100" href="https://docs.google.com/forms/u/1/">Forms</a>
+    </div>
+    <div class="col-md-6 mb-3">
+        <a type="button" class="btn bg-button w-100" href="https://docs.google.com/spreadsheets/u/1/">Sheets</a>
+    </div>
+</div>
 - Post Flyers
-- Fertilizer
+<div class="row">
+    <div class="col-md-6 mb-3">
+        <a type="button" class="btn bg-button w-100" href="/assets/docs/gsl-flyer-s26-v2.docx">Flyer Docx</a>
+    </div>
+    <div class="col-md-6 mb-3">
+        <a type="button" class="btn bg-button w-100" href="/assets/docs/gsl-flyer-s26-v2.pdf">Flyer PDF</a>
+    </div>
+</div>
 
 ### Start of Spring Season
 - Umbrellas out
@@ -34,10 +51,10 @@ permalink: /checklist/
 
 ### Website
 <div class="row">
-    <div class="col-md-6 mt-3">
+    <div class="col-md-6 mb-3">
         <a type="button" class="btn bg-button w-100" href="/guide">Guide</a>
     </div>
-    <div class="col-md-6 mt-3">
+    <div class="col-md-6 mb-3">
         <a type="button" class="btn bg-button w-100" href="/dev">Dev</a>
     </div>
 </div>
