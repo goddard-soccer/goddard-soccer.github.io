@@ -82,7 +82,7 @@ var globalOption = {
         text: 'Points',
         textStyle: { 
             color: "white",
-            fontSize: 22,
+            fontSize: 24,
             fontFamily: "Lexend",
         },
         left: "center"
