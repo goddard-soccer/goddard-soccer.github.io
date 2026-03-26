@@ -80,20 +80,35 @@ var chartGoalsDiffer = echarts.init(document.getElementById('chartGoalsDiffer'))
 var globalOption = {
     title: { 
         text: 'Points',
-        textStyle: { color: "white", fontSize: 22 },
+        textStyle: { 
+            color: "white",
+            fontSize: 22,
+            fontFamily: "Lexend",
+        },
         left: "center"
     },
     textStyle: { color: "white" },
     tooltip: {},
     xAxis: {
         data: ['Green', 'Orange', 'Purple', 'Red'],
+        axisLine: {
+            lineStyle: { color: "white" }
+        },
         axisLabel: {
-            textStyle: { fontSize: 16 },
+            textStyle: {
+                fontSize: 16,
+                color: "white",
+                fontFamily: "Lexend",
+            },
         }
     },
     yAxis: {
         axisLabel: {
-            textStyle: { fontSize: 16 },
+            textStyle: {
+                fontSize: 16,
+                color: "white",
+                fontFamily: "Lexend",
+            },
         }
     },
     series: [
