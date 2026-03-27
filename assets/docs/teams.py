@@ -3,7 +3,7 @@ import argparse
 from datetime import datetime
 
 parser = argparse.ArgumentParser()
-parser.add_argument("inputFile", type=str, default="teams.csv")
+parser.add_argument('-i', '--inputFile', type=str, default="teams.csv")
 parser.add_argument('-o', '--outputFile', type=str, default="rosters.md")
 parser.add_argument('-r', '--rating', action='store_true')
 args = parser.parse_args()

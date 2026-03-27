@@ -59,9 +59,12 @@ git push # website will update after a few minutes once this step is performed
 ```bash
 cd assets/docs
 cp ~/Downloads/*Form\ Responses*.csv teams.csv
-python3 teams.py teams.csv
-python3 teams.py teams.csv -r # rating page (rosters2)
+python3 teams.py
+python3 teams.py -r # rating page (rosters2)
+
 # manually diff the generated files with the current roster to do final corrections
+diff roster.md ../../_pages/roster.md
+diff roster2.md ../../_pages/roster2.md
 ```
 
 ### Updating the schedule (medium)
