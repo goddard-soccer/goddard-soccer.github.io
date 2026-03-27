@@ -71,11 +71,12 @@ permalink: /rosters/
 | Player | Bradley Gay |
 | Player | Brandon Bustillo |
 | Player | Ed Bustillo |
+| Player | Karen Julia Coldebella Ferreira |
 | Player | Marcello Rodriguez |
 | Player | Marco Tanda |
 | Player | Michael MacKay |
-| Player | Panayiotis Brousos |
 | Player | Payum Shakoorzadeh |
+| Player | Sam Fordin |
 | Player | Thomas Mariano |
 | Player | Timothy Wilcox |
 
@@ -93,12 +94,14 @@ permalink: /rosters/
 | Co-Captain | Sierra Budinoff |
 | ---------- | ---------- |
 | Player | Alistair Funge |
+| Player | Christian Caicedo |
 | Player | Christian Naylor |
 | Player | Curtiss Burnett |
 | Player | Daniel Brillat |
 | Player | Edwin Garzon |
 | Player | Eric Poole |
 | Player | Hung Le |
+| Player | Jack Wang |
 | Player | John Garrett |
 | Player | Josiah Killam |
 | Player | The Antichrist |

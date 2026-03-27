@@ -14,9 +14,9 @@ title: Home
 {% include logo.svg %}
 </div>
 <h4><strong class="text-rainbow">SPRING IS IN THE AIR</strong></h4>
-OHHHH YEAAAA, its nearing that time again! Spring season sign ups are live and we are dropping the price!
+OHHHH YEAAAA, its that time again! Spring season sign ups are live and we are dropping the price!
 
-Interested in trying before buying? We will have free pick up games in March before the season starts in April. Check the <strong class="text-rainbow">[soccer Teams channel](https://teams.microsoft.com/l/team/19%3ag6UYrqOstWyW6S9Q-_jaSfmMqjkvoZauibWuiVI-HcY1%40thread.tacv2/conversations?groupId=5a25d439-e73f-44bf-9232-5bc6fd755435&tenantId=7005d458-45be-48ae-8140-d43da96dd17b)</strong> for up to date information.
+Rosters are being finalized and your captain should be reaching out soon! Message Tyler Lee on or an exec board member if you have questions/concerns :D
 </div>
 <div class="row px-3 ">
 <div class="col-md-12 mt-3">
