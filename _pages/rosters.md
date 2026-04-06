@@ -22,7 +22,9 @@ permalink: /rosters/
 | Player | George Dimopoulos |
 | Player | Joaquin Chaves |
 | Player | Jordan Gasaway |
+| Player | Juan Novillo |
 | Player | Keegan O'Connor |
+| Player | Matthew Kehrli |
 | Player | Panayiotis Brousos |
 | Player | Spencer Harman |
 | Player | Zach McQueen |
@@ -40,6 +42,7 @@ permalink: /rosters/
 | Captain | David Katzenberg |
 | Co-Captain | Dayne Ford |
 | ---------- | ---------- |
+| Player | Addison Johnson-Green |
 | Player | Allen Murrell |
 | Player | Arijit Dutta |
 | Player | Aum Vyas |
@@ -79,6 +82,7 @@ permalink: /rosters/
 | Player | Sam Fordin |
 | Player | Thomas Mariano |
 | Player | Timothy Wilcox |
+| Player | Tyler Lee |
 
 
 </div>
@@ -105,7 +109,6 @@ permalink: /rosters/
 | Player | John Garrett |
 | Player | Josiah Killam |
 | Player | The Antichrist |
-| Player | Tyler Lee |
 | Player | Tyler Parsotan |
 
 
