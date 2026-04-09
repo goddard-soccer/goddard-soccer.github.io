@@ -14,9 +14,7 @@ title: Home
 {% include logo.svg %}
 </div>
 <h4><strong class="text-rainbow">SPRING IS IN THE AIR</strong></h4>
-OHHHH YEAAAA, its that time again! Spring season sign ups are live and we are dropping the price!
-
-Rosters are being finalized and your captain should be reaching out soon! Message Tyler Lee on or an exec board member if you have questions/concerns :D
+OHHHH YEAAAA, its that time again! Spring season is live! Play hard and have fun kiddos!
 </div>
 <div class="row px-3 ">
 <div class="col-md-12 mt-3">
