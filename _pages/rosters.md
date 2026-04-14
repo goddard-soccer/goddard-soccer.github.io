@@ -44,6 +44,7 @@ permalink: /rosters/
 | ---------- | ---------- |
 | Player | Addison Johnson-Green |
 | Player | Allen Murrell |
+| Player | Andrew McVey |
 | Player | Arijit Dutta |
 | Player | Aum Vyas |
 | Player | Charles Dorsey |
@@ -73,6 +74,7 @@ permalink: /rosters/
 | Player | Anders Lundkvist |
 | Player | Bradley Gay |
 | Player | Brandon Bustillo |
+| Player | Chi Opara |
 | Player | Ed Bustillo |
 | Player | Karen Julia Coldebella Ferreira |
 | Player | Marcello Rodriguez |
