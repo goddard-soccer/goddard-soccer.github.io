@@ -16,7 +16,7 @@ title: Home
 <h4><strong class="text-rainbow">PLAYOFFS INBOUND</strong></h4>
 The spring season is wrapping up and the playoffs are upon us. The final is scheduled for June 10th and is **open to all** including the post final end of season celebratory barbeque!
 
-Fall sign ups will be posted sometime soon (TM), the Fall season begins the week after July 4th. Be on the lookout for free pick up until over summer break 😎!
+Fall sign ups will be posted sometime soon (TM), the Fall season begins the week after July 4th. Be on the lookout for free pick up games over summer break 😎!
 </div>
 <div class="row px-3 ">
 <div class="col-md-12 mt-3">
