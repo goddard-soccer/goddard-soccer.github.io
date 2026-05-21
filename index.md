@@ -13,8 +13,10 @@ title: Home
 <div class="mb-2" style="text-align: center; height: 20vh">
 {% include logo.svg %}
 </div>
-<h4><strong class="text-rainbow">SPRING IS IN THE AIR</strong></h4>
-OHHHH YEAAAA, its that time again! Spring season is live! Play hard and have fun kiddos!
+<h4><strong class="text-rainbow">PLAYOFFS INBOUND</strong></h4>
+The spring season is wrapping up and the playoffs are upon us. The final is scheduled for June 10th and is **open to all** including the post final end of season celebratory barbeque!
+
+Fall sign ups will be posted sometime soon (TM), the Fall season begins the week after July 4th. Be on the lookout for free pick up until over summer break 😎!
 </div>
 <div class="row px-3 ">
 <div class="col-md-12 mt-3">
@@ -180,7 +182,7 @@ chartGoalsDiffer.setOption(goalsDifferOption);
 <div class="d-flex justify-content-center">
 <div class="overflow-auto w-100">
 
-<h2>5 Goals!</h2>
+<h2>Probably a lot of Goals!</h2>
 <h4 id="bfact">Fact #1: Brandon draws circles at a below-average first grader level.</h4>
 
 <script>
@@ -201,7 +203,7 @@ chartGoalsDiffer.setOption(goalsDifferOption);
 <div class="d-flex justify-content-center">
 <div class="overflow-auto w-100">
 
-<h2>0 Point Blank Misses!</h2>
+<h2>2 Point Blank Misses!</h2>
 <p>P.S. 4, 5, 6, 3, R1, 1, 7, S, 2, 9, 8</p>
 
 </div>
