@@ -43,16 +43,15 @@ permalink: /rosters/
 | Co-Captain | Dayne Ford |
 | ---------- | ---------- |
 | Player | Addison Johnson-Green |
-| Player | Allen Murrell |
 | Player | Andrew McVey |
 | Player | Arijit Dutta |
 | Player | Aum Vyas |
 | Player | Charles Dorsey |
 | Player | David Burtt |
 | Player | Isabella Sanford |
-| Player | Joe Galassi |
 | Player | Luis Rodriguez |
 | Player | Luke Amatucci |
+| Player | Michael Moss |
 | Player | Nicholas Martucci |
 | Player | Nick Scott |
 | Player | Tony Cazeau |
@@ -77,6 +76,7 @@ permalink: /rosters/
 | Player | Chi Opara |
 | Player | Ed Bustillo |
 | Player | Karen Julia Coldebella Ferreira |
+| Player | Luana Sales |
 | Player | Marcello Rodriguez |
 | Player | Marco Tanda |
 | Player | Michael MacKay |
@@ -85,6 +85,7 @@ permalink: /rosters/
 | Player | Thomas Mariano |
 | Player | Timothy Wilcox |
 | Player | Tyler Lee |
+| Player | Zoran Kahric |
 
 
 </div>
@@ -108,6 +109,7 @@ permalink: /rosters/
 | Player | Eric Poole |
 | Player | Hung Le |
 | Player | Jack Wang |
+| Player | Jacob Rhoads |
 | Player | John Garrett |
 | Player | Josiah Killam |
 | Player | The Antichrist |
