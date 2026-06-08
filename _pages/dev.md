@@ -16,7 +16,7 @@ permalink: /dev/
     - [x] Titles under about
     - [x] Teams page with logos
 - Scores page
-    - add two column wide breaks (fourth, labor, champ)
+    - [x] add two column wide breaks (fourth, labor, champ)
 - [~] Dark mode
 - [ ] Photo gallery
 - [x] Add historical records (title/cup winners)

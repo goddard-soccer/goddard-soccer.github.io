@@ -35,6 +35,10 @@ permalink: /checklist/
 - Line field
   - 100 ft x 175 diag?
 
+### End of Spring Season
+- BBQ
+<a type="button" class="btn bg-button col-12" href="/expenses">Expenses</a>
+
 ### Summer Break
 - Generate schedule
 - Fall sign up form
