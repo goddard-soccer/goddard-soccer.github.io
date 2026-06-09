@@ -29,18 +29,22 @@ permalink: /expenses/
     - allstar game vs CHP: 200?
     - allstar game vs APL: 0?
 
+- total: 1200
+
 ### BBQ
-- burgers: 
-- vegan burgers: 
-- burger buns: 
-- hot dogs: 
-- hot dog buns: 
-- ketchup/mustard/relish: 
-- cheese slices?
-- chips: 
-- veggie tray: 
-- drinks: 
-- aluminum foil:
+- 18 burgers: 35
+- vegan burgers: 12
+- burger buns: 3.8
+- 36 hot dogs: 20
+- hot dog buns: 3.2
+- ketchup/mustard/relish: 12
+- 40+ cheese slices: 10
+- chips: 14
+- popcorn: 6
+- watermelon: 6
+- 35 pack seltzer: 12.8
+
+- total : 135
 
 - plates: 
 - napkins: 
