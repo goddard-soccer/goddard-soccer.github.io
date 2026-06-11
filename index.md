@@ -13,14 +13,14 @@ title: Home
 <div class="mb-2" style="text-align: center; height: 20vh">
 {% include logo.svg %}
 </div>
-<h4><strong class="text-rainbow">PLAYOFFS INBOUND</strong></h4>
-The spring season is wrapping up and the playoffs are upon us. The final is scheduled for June 10th and is **open to all to watch** including the post final end of season celebratory barbeque!
+<h4><strong class="text-rainbow">SUMMER BREAK</strong></h4>
+What a championship week! There were great games all around, Green defeated Red in the championship and Purple went into penalities to take 3rd! Thank you to everyone for another great season, and a sincere special thank you to everyone contributing behind the scenes to keep this incredible league kicking on :) Even you Brandon Burkholder
 
-Fall sign ups will be posted sometime soon (TM), the Fall season begins the week after July 4th. Be on the lookout for free pick up games over summer break 😎!
+Fall sign ups are now live, the Fall season begins the week after July 4th. Be on the lookout for free pick up games over summer break 😎!
 </div>
 <div class="row px-3 ">
 <div class="col-md-12 mt-3">
-    <a type="button" class="btn bg-button col-6" href="https://forms.gle/rpuonUzQS99RoxTg8">Spring Sign Up Form</a>
+    <a type="button" class="btn bg-button col-6" href="https://forms.gle/nuXHqbBGspMXCWq59">Fall Sign Up Form</a>
 </div>
 </div>
 </div>
