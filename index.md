@@ -14,7 +14,9 @@ title: Home
 {% include logo.svg %}
 </div>
 <h4><strong class="text-rainbow">SUMMER BREAK</strong></h4>
-What a championship week! There were great games all around, Green defeated Red in the championship and Purple went into penalities to take 3rd! Thank you to everyone for another great season, and a sincere special thank you to everyone contributing behind the scenes to keep this incredible league kicking on :) Even you Brandon Burkholder
+What a championship week! There were great games all around, Green defeated Red in the championship and Purple went into penalities to take 3rd! Thank you everyone for another great season, and a sincere special thank you to everyone contributing behind the scenes to keep this incredible league kicking on :)
+
+Even you Brandon Burkholder
 
 Fall sign ups are now live, the Fall season begins the week after July 4th. Be on the lookout for free pick up games over summer break 😎!
 </div>
@@ -203,7 +205,7 @@ chartGoalsDiffer.setOption(goalsDifferOption);
 <div class="d-flex justify-content-center">
 <div class="overflow-auto w-100">
 
-<h2>2 Point Blank Misses!</h2>
+<h2>0 Point Blank Misses!</h2>
 <p>P.S. 4, 5, 6, 3, R1, 1, 7, S, 2, 9, 8</p>
 
 </div>
