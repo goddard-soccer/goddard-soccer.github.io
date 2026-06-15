@@ -4,8 +4,6 @@ title: Expenses
 permalink: /expenses/
 ---
 
-
-
 <div class="card mt-3 bg-theme">
 <div class="card-header text-center bg-light"><h5>Expenses</h5></div>
 <div class="card-body text-light" markdown=1>
@@ -20,7 +18,7 @@ permalink: /expenses/
     - core aerator: 40
     - tent: 200
     - website: 15?
-    - bbq supplies: 
+    - bbq supplies: 135
 - Brandon
     - gas: 45
 - Kevin
