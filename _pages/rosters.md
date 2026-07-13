@@ -14,21 +14,25 @@ permalink: /rosters/
 | Captain | Kate Gasaway |
 | Co-Captain | Lateef Ajayi |
 | ---------- | ---------- |
-| Player | Aaron Vigil |
 | Player | Ben Winkler |
 | Player | Brodie Wallace |
 | Player | Chris Pagán |
-| Player | Derek Val |
-| Player | George Dimopoulos |
+| Player | Demos Kazanas |
 | Player | Joaquin Chaves |
+| Player | Keegan O'Connor |
+| Player | Samuel Verbrugge |
+| Player | Nhut Truong |
+| Player | Zach McQueen |
+| | |
+|  | **Haven't Signed Up** |
+| Player | Aaron Vigil |
 | Player | Jordan Gasaway |
 | Player | Juan Novillo |
-| Player | Keegan O'Connor |
+| Player | Derek Val |
+| Player | George Dimopoulos |
 | Player | Matthew Kehrli |
 | Player | Panayiotis Brousos |
 | Player | Spencer Harman |
-| Player | Zach McQueen |
-
 
 </div>
 </div>
@@ -42,21 +46,26 @@ permalink: /rosters/
 | Captain | David Katzenberg |
 | Co-Captain | Dayne Ford |
 | ---------- | ---------- |
-| Player | Addison Johnson-Green |
-| Player | Andrew McVey |
-| Player | Arijit Dutta |
-| Player | Aum Vyas |
-| Player | Charles Dorsey |
 | Player | David Burtt |
 | Player | Isabella Sanford |
+| Player | Johan Zacharia |
 | Player | Luis Rodriguez |
 | Player | Luke Amatucci |
 | Player | Michael Moss |
 | Player | Nicholas Martucci |
 | Player | Nick Scott |
+| Player | Noah Walls |
+| Player | Sujay Mate |
+| Player | Titus Szobody |
+| Player | Tyler Lee |
+| | |
+|  | **Haven't Signed Up** |
+| Player | Andrew McVey |
+| Player | Arijit Dutta |
+| Player | Aum Vyas |
+| Player | Charles Dorsey |
 | Player | Tony Cazeau |
 | Player | Trevor Robinson |
-
 
 </div>
 </div>
@@ -70,23 +79,30 @@ permalink: /rosters/
 | Captain | Carlos Aguilar |
 | Co-Captain | Kyle Demmerle |
 | ---------- | ---------- |
+| Player | Ashley Ashiku |
+| Player | Caden Tebow |
+| Player | Christopher Adzima |
+| Player | Estefania Contreras |
+| Player | Karen Ferreira |
+| Player | Kaylie Vess |
+| Player | Luana Sales |
+| Player | Marcello Rodriguez |
+| Player | Payum Shakoorzadeh |
+| Player | Rasmus Makela |
+| Player | Rohan Kher |
+| Player | Thomas Mariano |
+| Player | Timothy Wilcox |
+| | |
+|  | **Haven't Signed Up** |
 | Player | Anders Lundkvist |
 | Player | Bradley Gay |
 | Player | Brandon Bustillo |
 | Player | Chi Opara |
 | Player | Ed Bustillo |
-| Player | Karen Julia Coldebella Ferreira |
-| Player | Luana Sales |
-| Player | Marcello Rodriguez |
 | Player | Marco Tanda |
 | Player | Michael MacKay |
-| Player | Payum Shakoorzadeh |
 | Player | Sam Fordin |
-| Player | Thomas Mariano |
-| Player | Timothy Wilcox |
-| Player | Tyler Lee |
 | Player | Zoran Kahric |
-
 
 </div>
 </div>
@@ -100,20 +116,24 @@ permalink: /rosters/
 | Captain | Kevin Rhoads |
 | Co-Captain | Sierra Budinoff |
 | ---------- | ---------- |
-| Player | Alistair Funge |
-| Player | Christian Caicedo |
 | Player | Christian Naylor |
-| Player | Curtiss Burnett |
 | Player | Daniel Brillat |
 | Player | Edwin Garzon |
 | Player | Eric Poole |
+| Player | Holum Fong |
 | Player | Hung Le |
 | Player | Jack Wang |
 | Player | Jacob Rhoads |
 | Player | John Garrett |
 | Player | Josiah Killam |
 | Player | The Antichrist |
+| Player | Samuel Zhang |
 | Player | Tyler Parsotan |
+| | |
+|  | **Haven't Signed Up** |
+| Player | Alistair Funge |
+| Player | Christian Caicedo |
+| Player | Curtiss Burnett |
 
 
 </div>

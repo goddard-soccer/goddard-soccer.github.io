@@ -22,7 +22,7 @@ permalink: /expenses/
 - Brandon
     - gas: 45
 - Kevin
-    - balls: 125?
+    - balls: 85
 - GSL
     - allstar game vs CHP: 200?
     - allstar game vs APL: 0?

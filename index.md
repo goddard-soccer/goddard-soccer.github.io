@@ -13,12 +13,8 @@ title: Home
 <div class="mb-2" style="text-align: center; height: 20vh">
 {% include logo.svg %}
 </div>
-<h4><strong class="text-rainbow">SUMMER BREAK</strong></h4>
-What a championship week! There were great games all around, Green defeated Red in the championship and Purple went into penalities to take 3rd! Thank you everyone for another great season, and a sincere special thank you to everyone contributing behind the scenes to keep this incredible league kicking on :)
-
-Even you Brandon Burkholder
-
-Fall sign ups are now live, the Fall season begins the week after July 4th. Be on the lookout for free pick up games over summer break 😎!
+<h4><strong class="text-rainbow">LEAF IT ALL ON THE FIELD</strong></h4>
+Fall sign ups are live, get excited for a new season of GSL soccer!
 </div>
 <div class="row px-3 ">
 <div class="col-md-12 mt-3">
