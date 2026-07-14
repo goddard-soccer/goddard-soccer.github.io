@@ -20,8 +20,9 @@ permalink: /rosters/
 | Player | Demos Kazanas |
 | Player | Joaquin Chaves |
 | Player | Keegan O'Connor |
-| Player | Samuel Verbrugge |
+| Player | Michael Foose |
 | Player | Nhut Truong |
+| Player | Samuel Verbrugge |
 | Player | Zach McQueen |
 | | |
 |  | **Haven't Signed Up** |
@@ -46,6 +47,7 @@ permalink: /rosters/
 | Captain | David Katzenberg |
 | Co-Captain | Dayne Ford |
 | ---------- | ---------- |
+| Player | Andrew McVey |
 | Player | David Burtt |
 | Player | Isabella Sanford |
 | Player | Johan Zacharia |
@@ -120,14 +122,15 @@ permalink: /rosters/
 | Player | Daniel Brillat |
 | Player | Edwin Garzon |
 | Player | Eric Poole |
+| Player | Gabriel Grell |
 | Player | Holum Fong |
 | Player | Hung Le |
 | Player | Jack Wang |
 | Player | Jacob Rhoads |
 | Player | John Garrett |
 | Player | Josiah Killam |
-| Player | The Antichrist |
 | Player | Samuel Zhang |
+| Player | The Antichrist |
 | Player | Tyler Parsotan |
 | | |
 |  | **Haven't Signed Up** |
