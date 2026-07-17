@@ -8,7 +8,7 @@ permalink: /expenses/
 <div class="card-header text-center bg-light"><h5>Expenses</h5></div>
 <div class="card-body text-light" markdown=1>
 
-### 2026 Spring Expenses
+### 2026 Spring
 - Tyler
     - gas: 42
     - paint: 150
@@ -29,7 +29,7 @@ permalink: /expenses/
 
 - total: 1200
 
-### BBQ
+### 2026 Spring BBQ
 - 18 burgers: 35
 - vegan burgers: 12
 - burger buns: 3.8
@@ -48,6 +48,10 @@ permalink: /expenses/
 - napkins: 
 - bowls: 
 - cups: 
+
+### 2026 Fall
+- shelves: 33
+- 
 
 </div>
 </div>

@@ -14,6 +14,7 @@ permalink: /rosters/
 | Captain | Kate Gasaway |
 | Co-Captain | Lateef Ajayi |
 | ---------- | ---------- |
+| Player | Aaron Vigil |
 | Player | Ben Winkler |
 | Player | Brodie Wallace |
 | Player | Chris Pagán |
@@ -22,11 +23,11 @@ permalink: /rosters/
 | Player | Keegan O'Connor |
 | Player | Michael Foose |
 | Player | Nhut Truong |
+| Player | Rachel Claude |
 | Player | Samuel Verbrugge |
 | Player | Zach McQueen |
 | | |
 |  | **Haven't Signed Up** |
-| Player | Aaron Vigil |
 | Player | Jordan Gasaway |
 | Player | Juan Novillo |
 | Player | Derek Val |
@@ -47,10 +48,12 @@ permalink: /rosters/
 | Captain | David Katzenberg |
 | Co-Captain | Dayne Ford |
 | ---------- | ---------- |
+| Player | Andrew McNeil |
 | Player | Andrew McVey |
 | Player | David Burtt |
 | Player | Isabella Sanford |
 | Player | Johan Zacharia |
+| Player | Joseph Galassi |
 | Player | Luis Rodriguez |
 | Player | Luke Amatucci |
 | Player | Michael Moss |
@@ -82,13 +85,16 @@ permalink: /rosters/
 | Co-Captain | Kyle Demmerle |
 | ---------- | ---------- |
 | Player | Ashley Ashiku |
+| Player | Brandon Bustillo |
 | Player | Caden Tebow |
 | Player | Christopher Adzima |
+| Player | Ed Bustillo |
 | Player | Estefania Contreras |
 | Player | Karen Ferreira |
 | Player | Kaylie Vess |
 | Player | Luana Sales |
 | Player | Marcello Rodriguez |
+| Player | Michael MacKay |
 | Player | Payum Shakoorzadeh |
 | Player | Rasmus Makela |
 | Player | Rohan Kher |
@@ -98,11 +104,8 @@ permalink: /rosters/
 |  | **Haven't Signed Up** |
 | Player | Anders Lundkvist |
 | Player | Bradley Gay |
-| Player | Brandon Bustillo |
 | Player | Chi Opara |
-| Player | Ed Bustillo |
 | Player | Marco Tanda |
-| Player | Michael MacKay |
 | Player | Sam Fordin |
 | Player | Zoran Kahric |
 
@@ -118,7 +121,9 @@ permalink: /rosters/
 | Captain | Kevin Rhoads |
 | Co-Captain | Sierra Budinoff |
 | ---------- | ---------- |
+| Player | Christian Caicedo |
 | Player | Christian Naylor |
+| Player | Daisy Zamora |
 | Player | Daniel Brillat |
 | Player | Edwin Garzon |
 | Player | Eric Poole |
@@ -135,7 +140,6 @@ permalink: /rosters/
 | | |
 |  | **Haven't Signed Up** |
 | Player | Alistair Funge |
-| Player | Christian Caicedo |
 | Player | Curtiss Burnett |
 
 
