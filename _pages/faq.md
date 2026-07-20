@@ -56,6 +56,10 @@ permalink: /faq/
 
 <a type="button" class="btn bg-button col-12" href="/checklist">Checklist</a>
 
+**Q: What are the field dimensions?**<br>
+**A:** I putting all my chips on you painting the field the day before the season starts. Maybe the day of...
+<img src="/images/field-dimensions.png" class="img-fluid rounded mt-2" />
+
 **Q: Is Brandon Burkholder literally the worst thing that has happened, is happening, or will ever happen to humanity?**<br>
 **A:** Definitely. As scientists we are normally far from certain, even math has been proven incomplete, but in this regard it is beyond the scope of our perceived reality or any other reality, dimensioned or non-dimensioned.
 
