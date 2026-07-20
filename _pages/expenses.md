@@ -17,17 +17,16 @@ permalink: /expenses/
     - goalie gloves: 150
     - core aerator: 40
     - tent: 200
-    - website: 15?
+    - website: 15
     - bbq supplies: 135
 - Brandon
     - gas: 45
 - Kevin
     - balls: 85
 - GSL
-    - allstar game vs CHP: 200?
-    - allstar game vs APL: 0?
-
-- total: 1200
+    - allstar game vs CHP: 0?
+    - allstar game vs APL: 120
+- **Total: 1200**
 
 ### 2026 Spring BBQ
 - 18 burgers: 35
@@ -41,17 +40,25 @@ permalink: /expenses/
 - popcorn: 6
 - watermelon: 6
 - 35 pack seltzer: 12.8
-
-- total : 135
-
-- plates: 
-- napkins: 
-- bowls: 
-- cups: 
+- plates: 0
+- napkins: 0
+- bowls: 0
+- cups: 0
+- **Total : 135**
+> Note: slightly short on buns, didn't use watermelon
 
 ### 2026 Fall
+Tyler
 - shelves: 33
-- 
+- paint: 150
+
+```python
+>>> 42 + 150 + 35 + 200 + 150 + 40 + 200 + 15 + 135 + 120 + 33 + 150
+1270
+```
+
+Carlos
+- balls: 236.67
 
 </div>
 </div>
