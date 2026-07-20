@@ -9,9 +9,9 @@ permalink: /checklist/
 <div class="card-body text-light" markdown=1>
 
 ### January
-- Spring sign up form
 - Fertilizer (Costco, 5 bags for play area, ~$200 on sale)
 - Insurance
+- Spring sign up form
 <div class="row">
     <div class="col-md-6 mb-3">
         <a type="button" class="btn bg-button w-100" href="https://docs.google.com/forms/u/1/">Forms</a>
@@ -33,7 +33,6 @@ permalink: /checklist/
 ### Start of Spring Season
 - Umbrellas out
 - Line field
-  - 100 ft x 175 diag?
 
 ### End of Spring Season
 - BBQ
