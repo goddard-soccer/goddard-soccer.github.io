@@ -46,6 +46,11 @@ permalink: /faq/
 
 <a type="button" class="btn bg-button col-12" href="/rules">Rules</a>
 
+**Q: How do I mow the field?**<br>
+**A:** You're a wonderful person, bring a book on tape :D
+
+<a type="button" class="btn bg-button col-12" href="/mow">Mowing Guide</a>
+
 **Q: How do I update the website**<br>
 **A:** Are you an aspiring exec board member? Contact the current exec board to get contributing!!! <3
 
