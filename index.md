@@ -171,6 +171,32 @@ chartGoalsDiffer.setOption(goalsDifferOption);
 </div>
 </div>
 
+<!-- begin row mowing -->
+<div class="card text-center mt-3 bg-theme">
+<div class="card-header text-center bg-light">
+    <h5>Mow Schedule</h5>
+</div>
+<div class="card-body" markdown=1>
+<div class="d-flex justify-content-center">
+<div class="overflow-auto w-100" markdown=1>
+
+| Week | Team | Mower |
+| ---- | ---- | ----- |
+| 1 | Orange | TLee |
+| 2 | Green | Keegan |
+| 3 | Orange |  |
+| 4 | Purple |  |
+| 5 | Red |  |
+| 6 | Green |  |
+| 7 | Orange |  |
+| 8 | Purple |  |
+| 9 | Red |  |
+
+</div>
+</div>
+</div>
+</div>
+
 <!-- begin row brandon -->
 <div class="card text-center mt-3 bg-rainbow">
 <div class="card-header text-center bg-light" onclick="playSound('scrub')">

@@ -15,26 +15,28 @@ permalink: /rosters/
 | Co-Captain | Lateef Ajayi |
 | ---------- | ---------- |
 | Player | Aaron Vigil |
+| Player | Adrian Gudiel |
+| Player | Aidan Nakhleh |
 | Player | Ben Winkler |
 | Player | Brodie Wallace |
 | Player | Chris Pagán |
-| Player | Demos Kazanas |
+| Player | Derek Val |
+| Player | George Dimopoulos |
 | Player | Joaquin Chaves |
 | Player | Keegan O'Connor |
 | Player | Michael Foose |
 | Player | Nhut Truong |
+| Player | Prudence Nwosu |
 | Player | Rachel Claude |
 | Player | Samuel Verbrugge |
+| Player | Spencer Harman |
 | Player | Zach McQueen |
 | | |
 |  | **Haven't Signed Up** |
 | Player | Jordan Gasaway |
 | Player | Juan Novillo |
-| Player | Derek Val |
-| Player | George Dimopoulos |
 | Player | Matthew Kehrli |
 | Player | Panayiotis Brousos |
-| Player | Spencer Harman |
 
 </div>
 </div>
@@ -50,8 +52,8 @@ permalink: /rosters/
 | ---------- | ---------- |
 | Player | Andrew McNeil |
 | Player | Andrew McVey |
+| Player | Aum Vyas |
 | Player | David Burtt |
-| Player | Isabella Sanford |
 | Player | Johan Zacharia |
 | Player | Joseph Galassi |
 | Player | Luis Rodriguez |
@@ -62,15 +64,11 @@ permalink: /rosters/
 | Player | Noah Walls |
 | Player | Sujay Mate |
 | Player | Titus Szobody |
+| Player | Trevor Robinson |
 | Player | Tyler Lee |
 | | |
 |  | **Haven't Signed Up** |
-| Player | Andrew McVey |
-| Player | Arijit Dutta |
-| Player | Aum Vyas |
-| Player | Charles Dorsey |
 | Player | Tony Cazeau |
-| Player | Trevor Robinson |
 
 </div>
 </div>
@@ -98,6 +96,7 @@ permalink: /rosters/
 | Player | Payum Shakoorzadeh |
 | Player | Rasmus Makela |
 | Player | Rohan Kher |
+| Player | Sam Fordin |
 | Player | Thomas Mariano |
 | Player | Timothy Wilcox |
 | | |
@@ -106,7 +105,6 @@ permalink: /rosters/
 | Player | Bradley Gay |
 | Player | Chi Opara |
 | Player | Marco Tanda |
-| Player | Sam Fordin |
 | Player | Zoran Kahric |
 
 </div>
