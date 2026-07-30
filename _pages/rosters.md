@@ -28,15 +28,11 @@ permalink: /rosters/
 | Player | Nhut Truong |
 | Player | Prudence Nwosu |
 | Player | Rachel Claude |
+| Player | Sam Washburn |
 | Player | Samuel Verbrugge |
 | Player | Spencer Harman |
 | Player | Zach McQueen |
-| | |
-|  | **Haven't Signed Up** |
-| Player | Jordan Gasaway |
-| Player | Juan Novillo |
-| Player | Matthew Kehrli |
-| Player | Panayiotis Brousos |
+
 
 </div>
 </div>
@@ -64,11 +60,10 @@ permalink: /rosters/
 | Player | Noah Walls |
 | Player | Sujay Mate |
 | Player | Titus Szobody |
+| Player | Tony Cazeau |
 | Player | Trevor Robinson |
 | Player | Tyler Lee |
-| | |
-|  | **Haven't Signed Up** |
-| Player | Tony Cazeau |
+
 
 </div>
 </div>
@@ -82,6 +77,7 @@ permalink: /rosters/
 | Captain | Carlos Aguilar |
 | Co-Captain | Kyle Demmerle |
 | ---------- | ---------- |
+| Player | Anders Lundkvist |
 | Player | Ashley Ashiku |
 | Player | Brandon Bustillo |
 | Player | Caden Tebow |
@@ -99,13 +95,7 @@ permalink: /rosters/
 | Player | Sam Fordin |
 | Player | Thomas Mariano |
 | Player | Timothy Wilcox |
-| | |
-|  | **Haven't Signed Up** |
-| Player | Anders Lundkvist |
-| Player | Bradley Gay |
-| Player | Chi Opara |
-| Player | Marco Tanda |
-| Player | Zoran Kahric |
+
 
 </div>
 </div>
@@ -121,6 +111,7 @@ permalink: /rosters/
 | ---------- | ---------- |
 | Player | Christian Caicedo |
 | Player | Christian Naylor |
+| Player | Curtiss Burnett |
 | Player | Daisy Zamora |
 | Player | Daniel Brillat |
 | Player | Edwin Garzon |
@@ -135,10 +126,6 @@ permalink: /rosters/
 | Player | Samuel Zhang |
 | Player | The Antichrist |
 | Player | Tyler Parsotan |
-| | |
-|  | **Haven't Signed Up** |
-| Player | Alistair Funge |
-| Player | Curtiss Burnett |
 
 
 </div>
