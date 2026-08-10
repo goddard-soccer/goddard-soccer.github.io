@@ -185,7 +185,7 @@ chartGoalsDiffer.setOption(goalsDifferOption);
 | 1 | Orange | TLee |
 | 2 | Green | Keegan |
 | 3 | Orange | Dayne/Trevor |
-| 4 | Purple |  |
+| 4 | Purple | Carlos |
 | 5 | Red |  |
 | 6 | Green |  |
 | 7 | Orange |  |

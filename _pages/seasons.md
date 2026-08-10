@@ -4,6 +4,10 @@ title: Seasons
 permalink: /seasons/
 ---
 
+<div class="card mt-3 bg-theme">
+<div class="card-header text-center bg-light"><h5>Checklist</h5></div>
+<div class="card-body text-light" markdown=1>
+
 ### 2023
 The first official year of GSL after the COVID shutdown, and probably the best championship game in GSL history. Green won in PK's over Brandon's Purple. Green had one of the strongest teams ever, Purple had Brandon the Ex D1 Clemson player and still semi-amateur player.
 
@@ -18,3 +22,6 @@ Orange led most of the year until red took over with Brandon in the Spring, Purp
 
 ### 2026 - 2027
 Moved the field for the Fall, CAD'd official dimensions.
+
+</div>
+</div>

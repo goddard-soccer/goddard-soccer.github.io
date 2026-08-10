@@ -26,14 +26,14 @@ permalink: /scores/
         <th>Differential</th>
     </tr>
     <tr>
-        <td class="bg-red text-white">Red</td>
-        <td class="bg-light">{{ redWins }}</td>
-        <td class="bg-light">{{ redDraws }}</td>
-        <td class="bg-light">{{ redLosses }}</td>
-        <td class="bg-light">{{ redPoints }}</td>
-        <td class="bg-light">{{ redFor }}</td>
-        <td class="bg-light">{{ redAgainst }}</td>
-        <td class="bg-light">{{ redDiffer }}</td>
+        <td class="bg-purple text-white">Purple</td>
+        <td class="bg-light">{{ purpleWins }}</td>
+        <td class="bg-light">{{ purpleDraws }}</td>
+        <td class="bg-light">{{ purpleLosses }}</td>
+        <td class="bg-light">{{ purplePoints }}</td>
+        <td class="bg-light">{{ purpleFor }}</td>
+        <td class="bg-light">{{ purpleAgainst }}</td>
+        <td class="bg-light">{{ purpleDiffer }}</td>
     </tr>
     <tr>
         <td class="bg-green text-white">Green</td>
@@ -46,16 +46,6 @@ permalink: /scores/
         <td class="bg-light">{{ greenDiffer }}</td>
     </tr>
     <tr>
-        <td class="bg-purple text-white">Purple</td>
-        <td class="bg-light">{{ purpleWins }}</td>
-        <td class="bg-light">{{ purpleDraws }}</td>
-        <td class="bg-light">{{ purpleLosses }}</td>
-        <td class="bg-light">{{ purplePoints }}</td>
-        <td class="bg-light">{{ purpleFor }}</td>
-        <td class="bg-light">{{ purpleAgainst }}</td>
-        <td class="bg-light">{{ purpleDiffer }}</td>
-    </tr>
-    <tr>
         <td class="bg-orange text-white">Orange</td>
         <td class="bg-light">{{ orangeWins }}</td>
         <td class="bg-light">{{ orangeDraws }}</td>
@@ -64,6 +54,16 @@ permalink: /scores/
         <td class="bg-light">{{ orangeFor }}</td>
         <td class="bg-light">{{ orangeAgainst }}</td>
         <td class="bg-light">{{ orangeDiffer }}</td>
+    </tr>
+    <tr>
+        <td class="bg-red text-white">Red</td>
+        <td class="bg-light">{{ redWins }}</td>
+        <td class="bg-light">{{ redDraws }}</td>
+        <td class="bg-light">{{ redLosses }}</td>
+        <td class="bg-light">{{ redPoints }}</td>
+        <td class="bg-light">{{ redFor }}</td>
+        <td class="bg-light">{{ redAgainst }}</td>
+        <td class="bg-light">{{ redDiffer }}</td>
     </tr>
 </table>
 
