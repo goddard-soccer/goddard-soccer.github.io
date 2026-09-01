@@ -14,7 +14,7 @@ title: Home
 {% include logo.svg %}
 </div>
 <h4><strong class="text-rainbow">LEAF IT ALL ON THE FIELD</strong></h4>
-Fall sign ups are live, get excited for a new season of GSL soccer!
+Fall sign ups are half off, $15 for the remaining games and possible end of season tourney!
 </div>
 <div class="row px-3 ">
 <div class="col-md-12 mt-3">

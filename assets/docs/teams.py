@@ -31,7 +31,7 @@ with open(args.inputFile, newline='') as csvfile:
     nameIndex = rowHeaders.index("Name (First and Last)")
     teamIndex = rowHeaders.index("Previous Team or Preferred Team (not a guarantee, we will try to be accommodating)")
     rateIndex = rowHeaders.index("Self Assessment - How would you rate your playing level? Please answer honestly for balancing purposes, nobody sees this but roster balancers.\n1 - never played before, not an athlete (totally fine!)\n5 - league average, decent touch, decent stamina\n10 - semi professional soccer player")
-    guestIndex = rowHeaders.index("Which of the following are you?")
+    roleIndex = rowHeaders.index("Which of the following are you?")
 
     roster = []
     skipHeaders = True
@@ -52,14 +52,18 @@ with open(args.inputFile, newline='') as csvfile:
         elif "Red" in row[teamIndex]:
             team = "Red"
         
-        guest = "Guest" in row[guestIndex]
+        guest = "Guest" in row[roleIndex]
+        intern = "Intern" in row[roleIndex]
+        gone = "Gone" in row[roleIndex]
 
-        roster.append([row[nameIndex].strip(), team, int(row[rateIndex].strip()), guest])
+        roster.append([row[nameIndex].strip(), team, int(row[rateIndex].strip()), guest, intern, gone])
 
     roster.sort(key=lambda x: (x[1], x[0]))
 
     rosterDict = {}
     for r in roster:
+        if r[5]: 
+            continue
         if r[1] not in rosterDict:
             rosterDict[r[1]] = []
         rosterDict[r[1]].append(r)
@@ -77,11 +81,15 @@ with open(args.inputFile, newline='') as csvfile:
         f.write('| ---------- | ---------- |\n')
 
         guests = 0
+        interns = 0
         for r in rosterDict[k]:
             if args.rating:
                 if r[3]:
                     f.write(f"| Guest  | {r[0]} | {r[2]} |\n")
                     guests += 1
+                elif r[4]:
+                    f.write(f"| Intern | {r[0]} | {r[2]} |\n")
+                    interns += 1
                 else:
                     f.write(f"| Player | {r[0]} | {r[2]} |\n")
             else:
@@ -96,7 +104,7 @@ with open(args.inputFile, newline='') as csvfile:
             topfiveavg = sum(topfive) / len(topfive)
             botFive = sorted(nums)[0:5]
             botfiveavg = sum(botFive) / len(botFive)
-            f.write(f"|        | Player Count | {len(nums)} |\n|        | Guests Remaining | {4 - guests} |\n|        | Average | {avg:0.2f} |\n|        | Top 10 | {toptenavg:0.2f} |\n|        | Top 5  | {topfiveavg:0.2f} |\n|        | Bottom 5 | {botfiveavg:0.2f} |")
+            f.write(f"|        | Player Count | {len(nums)} |\n|        | Guests | {guests} |\n|        | Interns | {interns} |\n|        | Average | {avg:0.2f} |\n|        | Top 10 | {toptenavg:0.2f} |\n|        | Top 5  | {topfiveavg:0.2f} |\n|        | Bottom 5 | {botfiveavg:0.2f} |")
         
         f.write(f"""
 

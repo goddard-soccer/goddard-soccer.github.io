@@ -26,10 +26,10 @@ permalink: /rosters/
 | Player | Keegan O'Connor |
 | Player | Michael Foose |
 | Player | Nhut Truong |
+| Player | Nobel Sindjui |
 | Player | Prudence Nwosu |
 | Player | Rachel Claude |
 | Player | Sam Washburn |
-| Player | Samuel Verbrugge |
 | Player | Spencer Harman |
 | Player | Zach McQueen |
 
@@ -50,16 +50,13 @@ permalink: /rosters/
 | Player | Andrew McVey |
 | Player | Aum Vyas |
 | Player | David Burtt |
-| Player | Johan Zacharia |
 | Player | Joseph Galassi |
 | Player | Luis Rodriguez |
 | Player | Luke Amatucci |
 | Player | Michael Moss |
 | Player | Nicholas Martucci |
 | Player | Nick Scott |
-| Player | Noah Walls |
 | Player | Sujay Mate |
-| Player | Titus Szobody |
 | Player | Tony Cazeau |
 | Player | Trevor Robinson |
 | Player | Tyler Lee |
@@ -78,23 +75,18 @@ permalink: /rosters/
 | Co-Captain | Kyle Demmerle |
 | ---------- | ---------- |
 | Player | Anders Lundkvist |
-| Player | Ashley Ashiku |
 | Player | Brandon Bustillo |
-| Player | Caden Tebow |
-| Player | Christopher Adzima |
 | Player | Ed Bustillo |
 | Player | Estefania Contreras |
-| Player | Karen Ferreira |
 | Player | Kaylie Vess |
-| Player | Luana Sales |
 | Player | Marcello Rodriguez |
 | Player | Michael MacKay |
 | Player | Payum Shakoorzadeh |
-| Player | Rasmus Makela |
-| Player | Rohan Kher |
 | Player | Sam Fordin |
+| Player | Solomon |
 | Player | Thomas Mariano |
 | Player | Timothy Wilcox |
+| Player | Zoran Kahric |
 
 
 </div>
@@ -117,14 +109,14 @@ permalink: /rosters/
 | Player | Edwin Garzon |
 | Player | Eric Poole |
 | Player | Gabriel Grell |
+| Player | Hansen Lian |
 | Player | Holum Fong |
 | Player | Hung Le |
 | Player | Jack Wang |
 | Player | Jacob Rhoads |
 | Player | John Garrett |
 | Player | Josiah Killam |
-| Player | Samuel Zhang |
-| Player | The Antichrist |
+| Player | Paul Schulman |
 | Player | Tyler Parsotan |
 
 
