@@ -171,8 +171,26 @@ chartGoalsDiffer.setOption(goalsDifferOption);
 </div>
 </div>
 
+<!-- begin row tyler -->
+<div class="card text-center mt-3 bg-brick">
+<div class="card-header text-center bg-light" onclick="playSound('bad-day')">
+    <h5>Did Tyler absolutely shank a wide open goal this week?</h5>
+</div>
+<div class="card-body" markdown=1>
+<div class="d-flex justify-content-center">
+<div class="overflow-auto w-100">
+
+<h2>Yes!</h2>
+<h5>What an absolute muffin!</h5>
+<h5>I mean honestly, how do you miss that? Off the cross bar when the whole left side of the goal is open? You have to wonder if he is going blind, there are roadkill earth worms with better vision, let alone finishing. No doubt Tyler needs to be thrown into the dryer, he's completely washed.</h5>
+
+</div>
+</div>
+</div>
+</div>
+
 <!-- begin row mowing -->
-<div class="card text-center mt-3 bg-theme">
+<!--<div class="card text-center mt-3 bg-theme">
 <div class="card-header text-center bg-light">
     <h5>Mow Schedule</h5>
 </div>
@@ -195,7 +213,7 @@ chartGoalsDiffer.setOption(goalsDifferOption);
 </div>
 </div>
 </div>
-</div>
+</div>-->
 
 <!-- begin row brandon -->
 <div class="card text-center mt-3 bg-rainbow">
@@ -212,23 +230,6 @@ chartGoalsDiffer.setOption(goalsDifferOption);
 <script>
     bfactGen();
 </script>
-
-</div>
-</div>
-</div>
-</div>
-
-<!-- begin row tyler -->
-<div class="card text-center mt-3 bg-mono">
-<div class="card-header text-center bg-light" onclick="playSound('bad-day')">
-    <h5>Tyler's Stormtrooper Impression</h5>
-</div>
-<div class="card-body" markdown=1>
-<div class="d-flex justify-content-center">
-<div class="overflow-auto w-100">
-
-<h2>0 Point Blank Misses!</h2>
-<p>P.S. 4, 5, 6, 3, R1, 1, 7, S, 2, 9, 8</p>
 
 </div>
 </div>
