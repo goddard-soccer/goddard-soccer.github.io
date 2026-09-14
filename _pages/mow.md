@@ -69,7 +69,8 @@ permalink: /mow/
 - September 2026
     - Locked up, flywheel won't spin
     - Fuel Filter
-    - 
+    - AGM battery
+    - Spark plug socket
 
 </div>
 </div>
