@@ -32,7 +32,7 @@ permalink: /mow/
 </div>
 
 <div class="card mt-3 bg-theme">
-<div class="card-header text-center bg-light"><h5>Toro Timecutter SS 5425</h5></div>
+<div class="card-header text-center bg-light"><h5>Toro Timecutter SS 5425 (2015)</h5></div>
 <div class="card-body text-light" markdown=1>
 
 ### Maintanence
@@ -52,6 +52,15 @@ permalink: /mow/
     - Fixing mower deck metal inflection
     - Oil filter
     - Oil
+
+<div class="row">
+    <div class="col-md-6 mb-3">
+        <a type="button" class="btn bg-button w-100" href="https://www.toro.com/en/parts/partdetails?id=43451">Parts</a>
+    </div>
+    <div class="col-md-6 mb-3">
+        <a type="button" class="btn bg-button w-100" href="https://www.toro.com/getpub/124908">Manual</a>
+    </div>
+</div>
 
 </div>
 </div>
