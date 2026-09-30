@@ -66,7 +66,7 @@ permalink: /mow/
 </div>
 
 <div class="card mt-3 bg-theme">
-<div class="card-header text-center bg-light"><h5>John Deere</h5></div>
+<div class="card-header text-center bg-light"><h5>John Deere E140</h5></div>
 <div class="card-body text-light" markdown=1>
 
 ### Maintanence
@@ -80,6 +80,18 @@ permalink: /mow/
     - Fuel Filter
     - AGM battery
     - Spark plug socket
+
+<div class="row">
+    <div class="col-md-4 mb-3">
+        <a type="button" class="btn bg-button w-100" href="https://www.deere.ca/en/parts-and-service/lawn-tractors/e100-series/e140">Overview</a>
+    </div>
+    <div class="col-md-4 mb-3">
+        <a type="button" class="btn bg-button w-100" href="https://partscatalog.deere.com/jdrc/navigation/equipment/22261">Parts</a>
+    </div>
+    <div class="col-md-4 mb-3">
+        <a type="button" class="btn bg-button w-100" href="https://techinfo-omview.apps-prod-vpn.us.e06.c01.johndeerecloud.com/omview/omuc20527/09001faa81e66807">Manual</a>
+    </div>
+</div>
 
 </div>
 </div>
