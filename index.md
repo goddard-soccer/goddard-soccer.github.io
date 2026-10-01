@@ -14,13 +14,13 @@ title: Home
 {% include logo.svg %}
 </div>
 <h4><strong class="text-rainbow">LEAF IT ALL ON THE FIELD</strong></h4>
-Fall sign ups are half off, $15 for the remaining games and possible end of season tourney!
+Fall season is over, watch out for pick up games per the Goddard sports soccer teams channel as the daylight allows. Otherwise, we will resume in April!
 </div>
-<div class="row px-3 ">
+<!--<div class="row px-3 ">
 <div class="col-md-12 mt-3">
     <a type="button" class="btn bg-button col-6" href="https://forms.gle/nuXHqbBGspMXCWq59">Fall Sign Up Form</a>
 </div>
-</div>
+</div>-->
 </div>
 </div>
 
@@ -180,9 +180,8 @@ chartGoalsDiffer.setOption(goalsDifferOption);
 <div class="d-flex justify-content-center">
 <div class="overflow-auto w-100">
 
-<h2>Yes!</h2>
-<h5>What an absolute muffin!</h5>
-<h5>I mean honestly, how do you miss that? Off the cross bar when the whole left side of the goal is open? You have to wonder if he is going blind, there are roadkill earth worms with better vision, let alone finishing. No doubt Tyler needs to be thrown into the dryer, he's completely washed.</h5>
+<h2>Nope!</h2>
+<h5>Not this week!!! Hat trick and all shots on frame, its a Christmas miracle. He's still an absolute muffin though...</h5>
 
 </div>
 </div>
