@@ -15,12 +15,14 @@ title: Home
 </div>
 <h4><strong class="text-rainbow">LEAF IT ALL ON THE FIELD</strong></h4>
 Fall season is over, watch out for pick up games per the Goddard sports soccer teams channel as the daylight allows. Otherwise, we will resume in April!
+
+Also, we have a discord now! Come hangout during the long winter months and talk about how great life is without Brandon Burkholder!
 </div>
-<!--<div class="row px-3 ">
+<div class="row px-3 ">
 <div class="col-md-12 mt-3">
-    <a type="button" class="btn bg-button col-6" href="https://forms.gle/nuXHqbBGspMXCWq59">Fall Sign Up Form</a>
+    <a type="button" class="btn bg-button col-12" href="https://discord.gg/7z9rebZQm">Discord</a>
 </div>
-</div>-->
+</div>
 </div>
 </div>
 
