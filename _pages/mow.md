@@ -44,13 +44,17 @@ permalink: /mow/
 - September 2026
     - Right rear transaxle was squeaking
     - Idler pulley radially sheered
+        - Used crappy composite one
+    - Drive belt idler pulley replaced
+- October 2026
+    - Air intake filter
     - Blades
     - Tire valve guards
     - Drive belt
-    - Drive belt idler pulley
-    - Mower belt
     - Fixing mower deck metal inflection
     - Oil filter
+- Future
+    - Mower belt
     - Oil
 
 <div class="row">
@@ -77,9 +81,10 @@ permalink: /mow/
         - Replaced all mower deck pulleys
 - September 2026
     - Locked up, flywheel won't spin
-    - Fuel Filter
+- October 2026
     - AGM battery
     - Spark plug socket
+    - Fuel Filter
 
 <div class="row">
     <div class="col-md-4 mb-3">
