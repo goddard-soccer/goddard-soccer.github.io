@@ -7,9 +7,9 @@ function rainbowCycle() {
     }
     hue++;
 }
-setInterval(rainbowCycle, 100);
+if (document.getElementById('star')) { setInterval(rainbowCycle, 100) }
 
-// Brandon Facts
+// Sound clips
 const sound = new Audio();
 function playSound(filename) {
     console.log("Playing song: " + filename);
@@ -17,6 +17,7 @@ function playSound(filename) {
     sound.play();
 }
 
+// Brandon Facts
 const bfacts = [
     ["Brandon draws circles at a below-average first grader level.", 4],
     ["Brandon spits out the sunflower seeds and eats the shells.", 1],
