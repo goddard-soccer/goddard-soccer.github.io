@@ -6,7 +6,7 @@ permalink: /champs/
 
 <div class="card mt-3 bg-theme">
     <div class="card-header text-center bg-light">
-        <h5>Seasons</h5>
+        <h5>Champions</h5>
     </div>
     <div class="card-body text-light" markdown=1>
 ### 2023
