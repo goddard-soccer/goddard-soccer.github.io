@@ -255,20 +255,3 @@ chartGoalsDiffer.setOption(goalsDifferOption);
 </div>
 -->
 
-<!-- begin row champ video -->
-<!-- <div class="card bg-light text-center my-3">
-<div class="card-header text-center">
-    2023 Championship Game
-</div>
-<div class="card-body">
-    <!-- <script>
-        randInt = Math.floor(Math.random() * 2) + 1;
-        document.write('<img src="/images/2023-' + randInt + '.jpg" class="img-fluid w-100 rounded"/>');
-    </script>
-    <video width="100%" poster="/assets/img/2023/GSL-Championship-2023.png" controls>
-        <source src="/assets/img/2023/GSL-Championship-2023.webm" type="video/webm">
-        <source src="/assets/img/2023/GSL-Championship-2023.mp4" type="video/mp4">
-    </video>
-
-</div>
-</div> -->
