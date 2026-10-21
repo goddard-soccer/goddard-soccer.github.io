@@ -16,7 +16,7 @@ The first official year of GSL after the COVID shutdown, and probably the best c
     <source src="/images/2023/GSL-Championship-2023.webm" type="video/webm">
     <source src="/images/2023/GSL-Championship-2023.mp4" type="video/mp4">
 </video>
-ds
+
 ### 2024
 Sort of a short year with such an immediate turn around after the Fall championship of 2023. Green was strong all (half/Spring) season but Red with Brandon handily won the championship 5-0 in an "any given sunday" sort of game. Added new tables, new nets, starting doing "league balls" given all the pear tree popping...
 <img class="rounded w-100" src="/images/champs/2024-champs.webp" />
