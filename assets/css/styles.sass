@@ -39,6 +39,11 @@ th
 td
     background: white
 
+.card-body
+    h1, h2, h3, h4, h5, h6, p, li
+        color: white
+    
+
 .scroll-table
     overflow: auto
 
@@ -89,6 +94,7 @@ td
 
 .text-rainbow
     background: linear-gradient(to right, #ef5350, #f48fb1, #26c6da, #43a047, #eeff41, #f9a825, #ff5722)
+    background-clip: text
     -webkit-background-clip: text
     -webkit-text-fill-color: transparent
 
@@ -104,6 +110,7 @@ td
             background-image: linear-gradient(90deg, #F38BA0, #F6AE99, #F1CA89, #D5ECC2, #BDD2B6, #87A7B3, #E4BAD4, #F38BA0)  
             background-size: 400% 400%
             animation: animateGlow 60s linear infinite
+            background-clip: text
             -webkit-background-clip: text
             -webkit-text-fill-color: transparent
 
@@ -126,9 +133,6 @@ td
             -webkit-background-clip: text
             -webkit-text-fill-color: transparent
 
-    .card-body
-        color: white
-
 .bg-mono
     background-color: #ffffff
     background-image: radial-gradient(circle at center center, #000000, #ffffff), repeating-radial-gradient(circle at center center, #000000, #000000, 10px, transparent 20px, transparent 10px)
@@ -142,9 +146,6 @@ td
             background-clip: text
             -webkit-background-clip: text
             -webkit-text-fill-color: transparent
-
-    .card-body
-        color: white
 
 .bg-brick
     background-color: #9c3d3d
@@ -163,10 +164,6 @@ td
             -webkit-background-clip: text
             -webkit-text-fill-color: transparent
 
-    .card-body
-        color: white
-        
-
 .card
     border: none
 
@@ -180,13 +177,6 @@ td
             background-clip: text
             -webkit-background-clip: text
             -webkit-text-fill-color: transparent
-
-    .card-body
-        p
-            color: white
-
-        li
-            color: white
 
 .bg-button
     background: linear-gradient(to right, #f2709c, #ff9472)

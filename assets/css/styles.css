@@ -40,6 +40,10 @@ td {
   background: white;
 }
 
+.card-body h1, .card-body h2, .card-body h3, .card-body h4, .card-body h5, .card-body h6, .card-body p, .card-body li {
+  color: white;
+}
+
 .scroll-table {
   overflow: auto;
 }
@@ -104,6 +108,7 @@ td {
 
 .text-rainbow {
   background: linear-gradient(to right, #ef5350, #f48fb1, #26c6da, #43a047, #eeff41, #f9a825, #ff5722);
+  background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -118,6 +123,7 @@ td {
   background-image: linear-gradient(90deg, #F38BA0, #F6AE99, #F1CA89, #D5ECC2, #BDD2B6, #87A7B3, #E4BAD4, #F38BA0);
   background-size: 400% 400%;
   animation: animateGlow 60s linear infinite;
+  background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -139,9 +145,6 @@ td {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-.bg-sunset .card-body {
-  color: white;
-}
 
 .bg-mono {
   background-color: #ffffff;
@@ -154,9 +157,6 @@ td {
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-}
-.bg-mono .card-body {
-  color: white;
 }
 
 .bg-brick {
@@ -175,9 +175,6 @@ td {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-.bg-brick .card-body {
-  color: white;
-}
 
 .card {
   border: none;
@@ -192,12 +189,6 @@ td {
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-}
-.bg-theme .card-body p {
-  color: white;
-}
-.bg-theme .card-body li {
-  color: white;
 }
 
 .bg-button {
