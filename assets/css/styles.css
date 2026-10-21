@@ -1,10 +1,14 @@
 @font-face {
   font-family: comic-sans;
+  font-weight: 400;
   src: url(/assets/fonts/comic-sans.woff2);
 }
 @font-face {
+  font-display: swap;
   font-family: lexend;
-  src: url(/assets/fonts/lexend.ttf);
+  font-style: normal;
+  font-weight: 100 900;
+  src: url(/assets/fonts/lexend.woff2);
 }
 body {
   font-family: "Lexend";
