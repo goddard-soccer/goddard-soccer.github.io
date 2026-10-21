@@ -18,6 +18,28 @@ Break,Labor Day
 16/9/2026,Orange,Green,2,3
 29/9/2026,Green,Red,6,3
 30/9/2026,Orange,Purple,11,6
+Break, Winter Break
+30/3/2027,Red,Purple,
+31/3/2027,Orange,Green,
+6/4/2027,Red,Orange,
+7/4/2027,Green,Purple,
+13/4/2027,Red,Green,
+14/4/2027,Orange,Purple,
+20/4/2027,Orange,Green,
+21/4/2027,Red,Purple,
+27/4/2027,Purple,Green,
+28/4/2027,Orange,Red,
+4/5/2027,Purple,Orange,
+5/5/2027,Green,Red,
+11/5/2027,Purple,Red,
+12/5/2027,Green,Orange,
+18/5/2027,Green,Purple,
+19/5/2027,Red,Orange,
+25/5/2027,Orange,Purple,
+26/5/2027,Red,Green,
+Break,Memorial Day
+1/6/2027,Third,Fourth,
+2/6/2027,First,Second,
 
 # 2025-2026
 15/7/2025,Orange,Red,3,2
