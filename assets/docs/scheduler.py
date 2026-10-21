@@ -5,6 +5,7 @@ import datetime
 # calendar
 # #################
 year = datetime.datetime.now().year
+year = 2027
 cal = []
 for i in range(12):
     cal.append(calendar.monthcalendar(year, i+1))

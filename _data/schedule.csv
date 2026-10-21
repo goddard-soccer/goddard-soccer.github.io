@@ -41,6 +41,28 @@ Break,Memorial Day
 1/6/2027,Third,Fourth,
 2/6/2027,First,Second,
 
+# Fall 2027
+Break, Summer Break
+13/7/2027,Orange,Red,
+14/7/2027,Purple,Green,
+20/7/2027,Green,Red,
+21/7/2027,Purple,Orange,
+27/7/2027,Green,Orange,
+28/7/2027,Purple,Red,
+3/8/2027,Red,Orange,
+4/8/2027,Green,Purple,
+10/8/2027,Red,Green,
+11/8/2027,Orange,Purple,
+17/8/2027,Orange,Green,
+18/8/2027,Red,Purple,
+24/8/2027,Purple,Green,
+25/8/2027,Orange,Red,
+31/8/2027,Purple,Orange,
+1/9/2027,Green,Red,
+Break,Labor Day
+14/9/2027,Purple,Red,
+15/9/2027,Green,Orange,
+
 # 2025-2026
 15/7/2025,Orange,Red,3,2
 16/7/2025,Purple,Green,0,6
