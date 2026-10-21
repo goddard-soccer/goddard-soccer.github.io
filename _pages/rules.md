@@ -8,8 +8,6 @@ permalink: /rules/
 <div class="card-header text-center bg-light"><h5>Constitution</h5></div>
 <div class="card-body" markdown=1>
 
-March 2025
-
 # CONSTITUTION OF THE NASA GODDARD SOCCER LEAGUE
 - Last updated March 2025
 
