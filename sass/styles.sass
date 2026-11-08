@@ -1,0 +1,213 @@
+@font-face
+    font-display: swap
+    font-family: "Comic-Sans"
+    font-style: normal
+    font-weight: 400
+    src: url(/fonts/comic-sans.woff2)
+
+@font-face
+    font-display: swap
+    font-family: "Lexend"
+    font-style: normal
+    font-weight: 100 900
+    src: url(/fonts/lexend.woff2)
+
+body
+    font-family: "Lexend"
+    --u: 2.5vmax
+    --c1: #212129
+    --c2: #323949
+    --c3: #3d3e51
+    --c4: #323949
+    --gp: 50% / calc(var(--u) * 10) calc(var(--u) * 12)
+    --glt: repeating-conic-gradient(from 210deg at 16.66% 25%, var(--c2) 0% 33.3%, #fff0 0% 100%) var(--gp)
+    --glb: repeating-conic-gradient(from 210deg at 16.66% 75%, var(--c4) 0% 33.3%, #fff0 0% 100%) var(--gp)
+    height: 100vh
+    background: repeating-linear-gradient(to bottom, var(--c1) 0% 1.5%, transparent 1.5% 23.5%, var(--c2) 23.5% 26.5%, transparent 26.5% 48.5%, var(--c3) 48.5% 51.5%, transparent 51.5% 73.5%, var(--c4) 73.5% 76.5%, transparent 76.5% 98.5%, var(--c1) 98.5% 100%) var(--gp), var(--glt), var(--glb), var(--glt), var(--glb), var(--glt), var(--glb), var(--glt), var(--glb), repeating-conic-gradient(from 150deg at 50% 75%, var(--c1) 0% 33.3%, #fff0 0% 100%) var(--gp), repeating-conic-gradient(from 90deg at 66.66% 50%, var(--c4) 0% 33.3%, #fff0 0% 100%) var(--gp), repeating-conic-gradient(from -90deg at 50% 25%,var(--c1) 0% 33.3%, var(--c2) 0% 66.4%, var(--c3) 0% 100%) var(--gp)
+
+table
+    border-collapse: separate
+    border-spacing: 4px
+    width: 100%
+
+td, th
+    padding: 5px
+    border-radius: 5px
+
+th
+    background: linear-gradient(to right, #f2709c, #ff9472)
+    color: white
+
+td
+    background: white
+
+.card-body
+    h1, h2, h3, h4, h5, h6, p, li
+        color: white
+    
+.scroll-table
+    overflow: auto
+
+.todo-list
+    li
+        text-align: left
+
+.bg-blue
+    background-color: blue
+
+.bg-gray
+    background-color: gray
+
+.bg-green
+    background-color: #198754
+
+.bg-gold
+    background-color: gold
+
+.bg-orange
+    background-color: #FD7E14
+
+.bg-purple
+    background-color: #6F42C1
+
+.bg-red
+    background-color: #DC3545
+
+.bg-covid
+    background-color: #CCC !important
+    color: light-gray !important
+
+.bg-white
+    background-color: white !important
+    color: black !important
+
+.bg-first
+    background-color: #E1C564
+
+.bg-second
+    background-color: silver
+
+.bg-third
+    background-color: #B08D57
+
+.bg-fourth
+    background-color: black
+
+.text-rainbow
+    background: linear-gradient(to right, #ef5350, #f48fb1, #26c6da, #43a047, #eeff41, #f9a825, #ff5722)
+    background-clip: text
+    -webkit-background-clip: text
+    -webkit-text-fill-color: transparent
+
+.bg-rainbow
+    background-image: linear-gradient(90deg, #F38BA0, #F6AE99, #F1CA89, #D5ECC2, #BDD2B6, #87A7B3, #E4BAD4, #F38BA0)  
+    background-size: 400% 400%
+    animation: animateGlow 60s linear infinite
+
+    .card-header
+
+        h4, h5
+            margin: 0
+            background-image: linear-gradient(90deg, #F38BA0, #F6AE99, #F1CA89, #D5ECC2, #BDD2B6, #87A7B3, #E4BAD4, #F38BA0)  
+            background-size: 400% 400%
+            animation: animateGlow 60s linear infinite
+            background-clip: text
+            -webkit-background-clip: text
+            -webkit-text-fill-color: transparent
+
+    h2,h4
+        font-family: comic-sans
+        color: black
+        text-shadow: 0 0 14px white
+        -webkit-text-stroke-width: 0.2px
+        -webkit-text-stroke-color: white
+
+.bg-sunset
+    background: linear-gradient(to top, #ff7e5f, #feb47b)
+
+    .card-header
+
+        h4, h5
+            margin: 0
+            background: linear-gradient(to top, #ff7e5f, #feb47b)
+            background-clip: text
+            -webkit-background-clip: text
+            -webkit-text-fill-color: transparent
+
+.bg-mono
+    background-color: #ffffff
+    background-image: radial-gradient(circle at center center, #000000, #ffffff), repeating-radial-gradient(circle at center center, #000000, #000000, 10px, transparent 20px, transparent 10px)
+    background-blend-mode: multiply
+
+    .card-header
+
+        h4, h5
+            margin: 0
+            background: linear-gradient(to top, black, gray)
+            background-clip: text
+            -webkit-background-clip: text
+            -webkit-text-fill-color: transparent
+
+.bg-brick
+    background-color: #9c3d3d
+    background-image: linear-gradient(335deg, #b54a4a 23px, transparent 23px), linear-gradient(155deg, #b54a4a 23px, transparent 23px), linear-gradient(335deg, #b54a4a 23px, transparent 23px), linear-gradient(155deg, #b54a4a 23px, transparent 23px)
+    background-size: 58px 58px
+    background-position: 0px 2px, 4px 35px, 29px 31px, 34px 6px
+
+    .card-header
+        h4, h5
+            margin: 0
+            background-color: #9c3d3d
+            background-image: linear-gradient(335deg, #b54a4a 23px, transparent 23px), linear-gradient(155deg, #b54a4a 23px, transparent 23px), linear-gradient(335deg, #b54a4a 23px, transparent 23px), linear-gradient(155deg, #b54a4a 23px, transparent 23px)
+            background-size: 58px 58px
+            background-position: 0px 2px, 4px 35px, 29px 31px, 34px 6px
+            background-clip: text
+            -webkit-background-clip: text
+            -webkit-text-fill-color: transparent
+
+.card
+    border: none
+
+.bg-theme
+    background: linear-gradient(to right, #4568dc, #b06ab3)
+
+    .card-header
+        h4, h5
+            margin: 0
+            background: linear-gradient(to right, #4568dc, #b06ab3)
+            background-clip: text
+            -webkit-background-clip: text
+            -webkit-text-fill-color: transparent
+
+.bg-button
+    background: linear-gradient(to right, #f2709c, #ff9472)
+    color: white
+    font-weight: 700
+
+    &:hover
+        background: linear-gradient(to right, #ff9472, #f2709c)
+        font-weight: 700
+        color: black
+
+@keyframes animateGlow
+    0%
+        background-position: 0% 50%
+    100%
+        background-position: 400% 50%
+
+svg
+    height: 20vh
+    width: 20vh
+
+.highlight
+    background: black
+    border-radius: 5px
+    padding: 5px
+    margin: 5px
+    color: white
+
+code.highlighter-rouge
+    padding: 5px
+    background: black
+    border-radius: 5px
+    color: white

@@ -1,0 +1,11 @@
+base_url = "https://nasagoddardsoccer.com"
+title = "NASA Goddard Soccer League"
+description = "The Goddard Soccer League is a 50+ year old recreational league promoting good natured competition and having fun!"
+
+compile_sass = true
+build_search_index = false
+
+[markdown]
+
+[markdown.highlighting]
+theme = "github-dark"

@@ -1,10 +1,7 @@
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
-.swp
-_pages/rosters2.md
-assets/docs/teams.csv
-assets/docs/roster*
 .DS_Store
+.sass-cache
+.swp
+content/rosters2.md
+assets/docs/roster*
+assets/docs/teams.csv
+public
