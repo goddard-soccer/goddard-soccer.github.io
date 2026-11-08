@@ -10,6 +10,10 @@ cal = []
 for i in range(12):
     cal.append(calendar.monthcalendar(year, i+1))
 
+def d(month, day):
+    """ISO date followed by the comma that separates it from the teams."""
+    return f"{year}-{month:02d}-{day:02d},"
+
 # #################
 # holidays
 # #################
@@ -28,27 +32,27 @@ spring = []
 # april
 for w in cal[3]:
     if w[1] != 0:
-        spring.append(f"{w[1]}/4/{year},")
+        spring.append(d(4, w[1]))
     if w[2] != 0:
-        spring.append(f"{w[2]}/4/{year},")
+        spring.append(d(4, w[2]))
 # may
 for w in cal[4]:
     if w[0] == memorial:
-        spring.append("Break,Memorial Day")
+        spring.append("Break,Memorial Day,,,")
         continue
     if w[1] != 0:
-        spring.append(f"{w[1]}/5/{year},")
+        spring.append(d(5, w[1]))
     if w[2] != 0:
-        spring.append(f"{w[2]}/5/{year},")
+        spring.append(d(5, w[2]))
 # june
 for w in cal[5]:
     if w[1] != 0:
-        spring.append(f"{w[1]}/6/{year},")
+        spring.append(d(6, w[1]))
     if w[2] != 0:
-        spring.append(f"{w[2]}/6/{year},")
+        spring.append(d(6, w[2]))
 
 spring = spring[0:21]
-spring.append("Break, Summer Break")
+spring.append("Break,Summer Break,,,")
 
 # #################
 # fall
@@ -61,24 +65,24 @@ for w in cal[6]:
     if w[0] == 5:
         continue # fourth of july on sunday
     if w[1] != 0:
-        fall.append(f"{w[1]}/7/{year},")
+        fall.append(d(7, w[1]))
     if w[2] != 0:
-        fall.append(f"{w[2]}/7/{year},")
+        fall.append(d(7, w[2]))
 # august
 for w in cal[7]:
     if w[1] != 0:
-        fall.append(f"{w[1]}/8/{year},")
+        fall.append(d(8, w[1]))
     if w[2] != 0:
-        fall.append(f"{w[2]}/8/{year},")
+        fall.append(d(8, w[2]))
 # september
 for w in cal[8]:
     if w[0] == labor:
-        fall.append("Break,Labor Day")
+        fall.append("Break,Labor Day,,,")
         continue
     if w[1] != 0:
-        fall.append(f"{w[1]}/9/{year},")
+        fall.append(d(9, w[1]))
     if w[2] != 0:
-        fall.append(f"{w[2]}/9/{year},")
+        fall.append(d(9, w[2]))
 
 fall = fall[0:19]
 
@@ -107,22 +111,23 @@ blockOffset = year % len(teams)
 lineOffset = 0
 teamOffset = year % len(teams)
 
+# two trailing commas = empty HomeScore and AwayScore
 pairs = []
 for a in range(2): # generate 24 pairings, enough for spring/fall
     for i in range(len(blocks)):
         i = (i + blockOffset) % len(teams)
         for j in range(len(blocks[0])):
             j = (j + lineOffset) % len(blocks[0])
-            
+
             t1 = (blocks[i][j][0] + teamOffset) % len(teams)
             t2 = (blocks[i][j][1] + teamOffset) % len(teams)
             t3 = (blocks[i][j][2] + teamOffset) % len(teams)
             t4 = (blocks[i][j][3] + teamOffset) % len(teams)
-            
-            pairs.append(f"{teams[t1]},{teams[t2]},")
-            pairs.append(f"{teams[t3]},{teams[t4]},")
-pairs.insert(18, "Third,Fourth,")
-pairs.insert(19, "First,Second,")
+
+            pairs.append(f"{teams[t1]},{teams[t2]},,")
+            pairs.append(f"{teams[t3]},{teams[t4]},,")
+pairs.insert(18, "Third,Fourth,,")
+pairs.insert(19, "First,Second,,")
 
 # #################
 # combine
@@ -143,10 +148,7 @@ for i in range(len(fall)):
 # #################
 # print
 # #################
-# for i in pairs:
-#     print(i)
 for i in spring:
     print(i)
 for i in fall:
     print(i)
-

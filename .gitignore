@@ -2,6 +2,6 @@
 .sass-cache
 .swp
 content/rosters2.md
-assets/docs/roster*
-assets/docs/teams.csv
+static/docs/roster*
+static/docs/teams.csv
 public

@@ -8,4 +8,4 @@ build_search_index = false
 [markdown]
 
 [markdown.highlighting]
-theme = "github-dark"
+theme = "github-dark-default"

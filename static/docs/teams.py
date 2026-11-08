@@ -12,18 +12,18 @@ if args.rating:
     args.outputFile = "rosters2.md"
 
 open(args.outputFile, 'w').close()
-f = open(args.outputFile, 'a')
+f = open(args.outputFile, 'a', encoding='utf-8')
 
-
-f.write(f"""---
-layout: page
-title: Rosters
-permalink: /{args.outputFile.split(".")[0]}/
----
+# Zola front matter (TOML)
+f.write(f"""+++
+title = "Rosters"
+path = "{args.outputFile.split(".")[0]}"
+template = "page.html"
++++
 
 <div class="row">\n""")
 
-with open(args.inputFile, newline='') as csvfile:
+with open(args.inputFile, newline='', encoding='utf-8') as csvfile:
     reader = csv.reader(csvfile)
     rows = list(reader)
     rowHeaders = rows[0]
@@ -76,9 +76,13 @@ with open(args.inputFile, newline='') as csvfile:
 <div class="card-body w-100">
 
 """)
-        f.write('| Captain |  |\n')
-        f.write('| Co-Captain |  |\n')
-        f.write('| ---------- | ---------- |\n')
+        # Markdown tables allow exactly one header row, so only Captain goes
+        # above the separator. The header and separator must have the same
+        # number of columns, and the rating view has one extra column.
+        cols = 3 if args.rating else 2
+        f.write('| Captain |' + '  |' * (cols - 1) + '\n')
+        f.write('| ---------- |' + ' ---------- |' * (cols - 1) + '\n')
+        f.write('| Co-Captain |' + '  |' * (cols - 1) + '\n')
 
         guests = 0
         interns = 0
