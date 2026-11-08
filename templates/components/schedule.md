@@ -1,13 +1,11 @@
 {% component schedule() %}
 {% set data = load_data(path="data/schedule.csv", format="csv") %}
-
 <div class="card mt-3 text-center bg-theme">
 <div class="card-header bg-light"><h5>Schedule</h5></div>
 <div class="card-body mx-auto">
 <div class="row">
 {% for row in data.records %}
-{% if row[0] == "" %}{% break %}{% endif %}
-{% if row[0] == "Break" %}
+    {% if row[0] == "Break" %}
 <div class="col-sm-12">
 <div class="card my-2">
 <div class="card-header">Break</div>
@@ -18,11 +16,16 @@
 </div>
 </div>
 </div>
-{% continue %}
-{% endif %}
-{% set played = row[3] != "" and row[4] != "" %}
-{% set h = (row[3] | int) if played else 0 %}
-{% set a = (row[4] | int) if played else 0 %}
+        {% continue %}
+    {% endif %}
+    {% set_global h = 0 %}
+    {% set_global a = 0 %}
+    {% if row[3] != "" and row[4] != "" %}
+        {% set hp = row[3] | split(pat="(") %}
+        {% set ap = row[4] | split(pat="(") %}
+        {% set_global h = hp[0] | trim | int %}
+        {% set_global a = ap[0] | trim | int %}
+    {% endif %}
 <div class="col-sm-6">
 <div class="card my-2">
 <div class="card-header">
@@ -46,5 +49,4 @@
 </div>
 </div>
 </div>
-
 {% endcomponent %}

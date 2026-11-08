@@ -44,7 +44,7 @@ The Goddard Soccer League was founded with the sole purpose of providing soccer 
                     </tr>
                     <tr>
                         <td class="bg-light">Field Chairman</td>
-                        <td class="bg-light">Brandon Barksmoker</td>
+                        <td class="bg-light">Could be you! 😎😘😜</td>
                     </tr>
                     <tr>
                         <td class="bg-light">Advertiser</td>

@@ -41,11 +41,6 @@ template = "page.html"
 
 <a type="button" class="btn bg-button col-12" href="https://teams.microsoft.com/l/team/19%3ag6UYrqOstWyW6S9Q-_jaSfmMqjkvoZauibWuiVI-HcY1%40thread.tacv2/conversations?groupId=5a25d439-e73f-44bf-9232-5bc6fd755435&tenantId=7005d458-45be-48ae-8140-d43da96dd17b">Teams Channel</a>
 
-**Q: What are the GSL rules?**<br>
-**A:** Great question, hope you aren't in the middle of an argument :D
-
-<a type="button" class="btn bg-button col-12" href="/rules">Rules</a>
-
 **Q: How do I mow the field?**<br>
 **A:** You're a wonderful person, bring a book on tape :D
 
@@ -61,14 +56,14 @@ template = "page.html"
 
 <a type="button" class="btn bg-button col-12" href="/checklist">Checklist</a>
 
-**Q: What are the field dimensions?**<br>
-**A:** I putting all my chips on you painting the field the day before the season starts. Maybe the day of...
-<img src="/images/field-dimensions.png" class="img-fluid rounded mt-2" />
-
 **Q: How much does the league cost to operate?**<br>
 **A:** Wow, I'm just blatantly abusing this FAQ. Someday you'll get your ego in check. I mean you are def talking to yourself right now. Or are those just the voices?
 
 <a type="button" class="btn bg-button col-12" href="/expenses">Expenses</a>
+
+**Q: What are the field dimensions?**<br>
+**A:** I putting all my chips on you painting the field the day before the season starts. Maybe the day of...
+<img src="/images/field-dimensions.png" class="img-fluid rounded mt-2" />
 
 **Q: Is Brandon Burkholder literally the worst thing that has happened, is happening, or will ever happen to humanity?**<br>
 **A:** Definitely. As scientists we are normally far from certain, even math has been proven incomplete, but in this regard it is beyond the scope of our perceived reality or any other reality, dimensioned or non-dimensioned.

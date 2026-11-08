@@ -1,6 +1,6 @@
 {% component charts() %}
 {% set data = load_data(path="data/schedule.csv", format="csv") %}
-<div class="card text-center mt-3 bg-theme">
+<div class="card mt-3 text-center bg-theme">
 <div class="card-header text-center bg-light"><h5>Chart Party</h5></div>
 <div class="card-body">
 <div class="d-flex justify-content-center">
@@ -8,6 +8,7 @@
 <div id="chartPoints" style="width: 100%; height: 400px"></div>
 <div id="chartGoalsFor" style="width: 100%; height: 400px"></div>
 <div id="chartGoalsDiffer" style="width: 100%; height: 400px"></div>
+
 <script type="text/javascript">
 var teams = ["Green", "Orange", "Purple", "Red"];
 var colors = ["green", "#ff6600", "purple", "red"];
@@ -15,36 +16,36 @@ var pointsData = [];
 var goalsForData = [];
 var goalsDiffData = [];
 {% for team in ["Green", "Orange", "Purple", "Red"] %}
-{% set_global w = 0 %}
-{% set_global d = 0 %}
-{% set_global gf = 0 %}
-{% set_global ga = 0 %}
-{% for row in data.records %}
-{% if row[3] == "" or row[4] == "" %}{% continue %}{% endif %}
-{% set hp = row[3] | split(pat="(") %}
-{% set ap = row[4] | split(pat="(") %}
-{% set hs = hp[0] | trim | int %}
-{% set as_ = ap[0] | trim | int %}
-{% if row[1] == team %}
-{% set pf = hs %}
-{% set pa = as_ %}
-{% elif row[2] == team %}
-{% set pf = as_ %}
-{% set pa = hs %}
-{% else %}
-{% continue %}
-{% endif %}
-{% set_global gf = gf + pf %}
-{% set_global ga = ga + pa %}
-{% if pf > pa %}
-{% set_global w = w + 1 %}
-{% elif pf == pa %}
-{% set_global d = d + 1 %}
-{% endif %}
-{% endfor %}
-pointsData.push({{ w * 3 + d }});
-goalsForData.push({{ gf }});
-goalsDiffData.push({{ gf - ga }});
+    {% set_global w = 0 %}
+    {% set_global d = 0 %}
+    {% set_global gf = 0 %}
+    {% set_global ga = 0 %}
+    {% for row in data.records %}
+        {% if row[0] == "Break" or row[3] == "" or row[4] == "" %}{% continue %}{% endif %}
+        {% set hp = row[3] | split(pat="(") %}
+        {% set ap = row[4] | split(pat="(") %}
+        {% set hs = hp[0] | trim | int %}
+        {% set as_ = ap[0] | trim | int %}
+        {% if row[1] == team %}
+            {% set pf = hs %}
+            {% set pa = as_ %}
+        {% elif row[2] == team %}
+            {% set pf = as_ %}
+            {% set pa = hs %}
+        {% else %}
+            {% continue %}
+        {% endif %}
+        {% set_global gf = gf + pf %}
+        {% set_global ga = ga + pa %}
+        {% if pf > pa %}
+            {% set_global w = w + 1 %}
+        {% elif pf == pa %}
+            {% set_global d = d + 1 %}
+        {% endif %}
+    {% endfor %}
+    pointsData.push({{ w * 3 + d }});
+    goalsForData.push({{ gf }});
+    goalsDiffData.push({{ gf - ga }});
 {% endfor %}
 
 function bars(values) {
