@@ -22,12 +22,12 @@ h3 {
 - Can do this online easily as well
 
 ```bash
-vim _data/schedule.csv
+vim data/schedule.csv
 ```
 
 <div class="row px-3 text-center">
 <div class="col-md-12 mt-3">
-    <a type="button" class="btn bg-button col-6" href="https://github.com/goddard-soccer/goddard-soccer.github.io/blob/gh-pages/_data/schedule.csv">Link to schedule.csv on Github</a>
+    <a type="button" class="btn bg-button col-6" href="https://github.com/goddard-soccer/goddard-soccer.github.io/blob/main/data/schedule.csv">Link to schedule.csv on Github</a>
 </div>
 </div>
 
@@ -37,10 +37,10 @@ vim _data/schedule.csv
 - the website version control is done via git but the workflow is relatively simple and streamlined
 
 ```bash
-bundle exec jekyll serve
+zola serve
 
 # past this url into a web browser to view changes live before pushing
-localhost:4000
+localhost:1111
 
 git diff # check the changes you made
 git add . # this adds all, you can add individual files instead
@@ -73,23 +73,6 @@ diff roster2.md ../../_pages/roster2.md
 
 ```bash
 python3 assets/docs/scheduler.py
-```
-
-### Updating the stylesheet (medium)
-- the style sheet is what gives the html skeleton its color/size/etc
-- sass is a preprocessor that runs once when a change is made to the sass file(s)
-- sass then generates the css for you
-- you can run this alongside jekyll to see the changes live
-
-```bash
-sass -w assets/css/styles.sass:assets/css/styles.css
-```
-
-### Updating the rules (medium)
-- will update soon, going to change from mdbook (rust) to something in-built
-
-```bash
-# TODO
 ```
 
 </div>
