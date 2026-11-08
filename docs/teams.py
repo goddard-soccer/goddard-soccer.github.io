@@ -1,0 +1,123 @@
+import csv
+import argparse
+from datetime import datetime
+
+parser = argparse.ArgumentParser()
+parser.add_argument('-i', '--inputFile', type=str, default="teams.csv")
+parser.add_argument('-o', '--outputFile', type=str, default="rosters.md")
+parser.add_argument('-r', '--rating', action='store_true')
+args = parser.parse_args()
+
+if args.rating:
+    args.outputFile = "rosters2.md"
+
+open(args.outputFile, 'w').close()
+f = open(args.outputFile, 'a', encoding='utf-8')
+
+# Zola front matter (TOML)
+f.write(f"""+++
+title = "Rosters"
+path = "{args.outputFile.split(".")[0]}"
+template = "page.html"
++++
+
+<div class="row">\n""")
+
+with open(args.inputFile, newline='', encoding='utf-8') as csvfile:
+    reader = csv.reader(csvfile)
+    rows = list(reader)
+    rowHeaders = rows[0]
+
+    nameIndex = rowHeaders.index("Name (First and Last)")
+    teamIndex = rowHeaders.index("Previous Team or Preferred Team (not a guarantee, we will try to be accommodating)")
+    rateIndex = rowHeaders.index("Self Assessment - How would you rate your playing level? Please answer honestly for balancing purposes, nobody sees this but roster balancers.\n1 - never played before, not an athlete (totally fine!)\n5 - league average, decent touch, decent stamina\n10 - semi professional soccer player")
+    roleIndex = rowHeaders.index("Which of the following are you?")
+
+    roster = []
+    skipHeaders = True
+    for row in rows:
+        try:
+            datetime.strptime(row[0], '%m/%d/%Y %H:%M:%S')
+        except ValueError:
+            print(f"Skipped line: {row[0]}")
+            continue
+
+        team = "Unassigned"
+        if "Green" in row[teamIndex]:
+            team = "Green"
+        elif "Orange" in row[teamIndex]:
+            team = "Orange"
+        elif "Purple" in row[teamIndex]:
+            team = "Purple"
+        elif "Red" in row[teamIndex]:
+            team = "Red"
+        
+        guest = "Guest" in row[roleIndex]
+        intern = "Intern" in row[roleIndex]
+        gone = "Gone" in row[roleIndex]
+
+        roster.append([row[nameIndex].strip(), team, int(row[rateIndex].strip()), guest, intern, gone])
+
+    roster.sort(key=lambda x: (x[1], x[0]))
+
+    rosterDict = {}
+    for r in roster:
+        if r[5]: 
+            continue
+        if r[1] not in rosterDict:
+            rosterDict[r[1]] = []
+        rosterDict[r[1]].append(r)
+    
+    for k in rosterDict:
+        f.write(f"""
+<div class="col-md-3 pb-3">
+<div class="card bg-theme">
+<div class="card-header text-center text-white bg-{k.lower()}" id="{k.lower()}">{k}</div>
+<div class="card-body w-100">
+
+""")
+        # Markdown tables allow exactly one header row, so only Captain goes
+        # above the separator. The header and separator must have the same
+        # number of columns, and the rating view has one extra column.
+        cols = 3 if args.rating else 2
+        f.write('| Captain |' + '  |' * (cols - 1) + '\n')
+        f.write('| ---------- |' + ' ---------- |' * (cols - 1) + '\n')
+        f.write('| Co-Captain |' + '  |' * (cols - 1) + '\n')
+
+        guests = 0
+        interns = 0
+        for r in rosterDict[k]:
+            if args.rating:
+                if r[3]:
+                    f.write(f"| Guest  | {r[0]} | {r[2]} |\n")
+                    guests += 1
+                elif r[4]:
+                    f.write(f"| Intern | {r[0]} | {r[2]} |\n")
+                    interns += 1
+                else:
+                    f.write(f"| Player | {r[0]} | {r[2]} |\n")
+            else:
+                f.write(f"| Player | {r[0]} |\n")
+
+        if args.rating:
+            nums = [i[2] for i in rosterDict[k]]
+            avg = sum(nums) / len(nums)
+            topten = sorted(nums)[-10:]
+            toptenavg = sum(topten) / len(topten)
+            topfive = sorted(nums)[-5:]
+            topfiveavg = sum(topfive) / len(topfive)
+            botFive = sorted(nums)[0:5]
+            botfiveavg = sum(botFive) / len(botFive)
+            f.write(f"|        | Player Count | {len(nums)} |\n|        | Guests | {guests} |\n|        | Interns | {interns} |\n|        | Average | {avg:0.2f} |\n|        | Top 10 | {toptenavg:0.2f} |\n|        | Top 5  | {topfiveavg:0.2f} |\n|        | Bottom 5 | {botfiveavg:0.2f} |")
+        
+        f.write(f"""
+
+</div>
+</div>
+</div>
+""")
+
+f.write("""
+</div>
+""")
+f.close()
