@@ -15,11 +15,11 @@ template = "page.html"
 - [x] Fix navbar subpages
     - [x] Titles under about
     - [x] Teams page with logos
-- Scores page
-    - add two column wide breaks (fourth, labor, champ)
+- [x] Scores page
+    - [x] add two column wide breaks (fourth, labor, champ)
+- [x] Add historical records (title/cup winners)
 - [ ] Dark mode
 - [ ] Photo gallery
-- [x] Add historical records (title/cup winners)
 - [ ] Goal tracking/reporting functionality
 
 </div>
