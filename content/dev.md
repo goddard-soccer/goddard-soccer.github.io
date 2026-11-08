@@ -6,7 +6,7 @@ template = "page.html"
 
 <div class="card mt-3 bg-theme">
 <div class="card-header text-center bg-light"><h5>Developer</h5></div>
-<div class="card-body" markdown=1>
+<div class="card-body">
 
 [![pages-build-deployment](https://github.com/goddard-soccer/goddard-soccer.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/goddard-soccer/goddard-soccer.github.io/actions/workflows/pages/pages-build-deployment)
 

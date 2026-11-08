@@ -13,7 +13,7 @@ h3 {
 
 <div class="card mt-3 bg-theme">
 <div class="card-header text-center bg-light"><h5>Guide</h5></div>
-<div class="card-body" markdown=1>
+<div class="card-body">
 
 ### Updating scores (easy)
 - Simply update the schedule csv

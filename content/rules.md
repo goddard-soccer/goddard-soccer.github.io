@@ -6,7 +6,7 @@ permalink: /rules/
 
 <div class="card mt-3 bg-theme">
 <div class="card-header text-center bg-light"><h5>Constitution</h5></div>
-<div class="card-body" markdown=1>
+<div class="card-body">
 
 # CONSTITUTION OF THE NASA GODDARD SOCCER LEAGUE
 - Last updated March 2025
@@ -146,7 +146,7 @@ An Executive Committee Meeting may adopt, amend, or repeal the By-Laws of the Le
 
 <div class="card mt-3 bg-theme">
 <div class="card-header text-center bg-light"><h5>Rules</h5></div>
-<div class="card-body" markdown=1>
+<div class="card-body">
 
 # NASA Goddard Soccer League (GSL)
 

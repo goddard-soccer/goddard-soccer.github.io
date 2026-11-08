@@ -6,7 +6,7 @@ template = "page.html"
 
 <div class="card mt-3 bg-theme">
 <div class="card-header text-center bg-light"><h5>FAQ</h5></div>
-<div class="card-body" markdown=1>
+<div class="card-body">
 
 **Q: What if I signed up without a team preference but I don't see myself on the rosters page?**<br>
 **A:** If the season hasn't started yet, relax, the exec. board is likely discussing roster changes, if necessary. If the season has started, message an exec. board member via Microsoft Teams (preferably Tyler Lee at the moment), and we will get you on a team. You are also welcome to just come to the next game and we will get you playing.

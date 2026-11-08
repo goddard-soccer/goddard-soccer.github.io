@@ -6,7 +6,7 @@ template = "page.html"
 
 <div class="card mt-3 bg-theme">
 <div class="card-header text-center bg-light"><h5>Expenses</h5></div>
-<div class="card-body text-light" markdown=1>
+<div class="card-body text-light">
 
 ### 2026 Spring
 - Tyler
@@ -51,6 +51,8 @@ template = "page.html"
 Tyler
 - shelves: 33
 - paint: 150
+- mower fixing equipment/parts
+- candy for Fall Fest booth
 
 ```python
 >>> 42 + 150 + 35 + 200 + 150 + 40 + 200 + 15 + 135 + 120 + 33 + 150

@@ -6,7 +6,7 @@ permalink: /mow/
 
 <div class="card mt-3 bg-theme">
 <div class="card-header text-center bg-light"><h5>Mowing Guide</h5></div>
-<div class="card-body text-light" markdown=1>
+<div class="card-body text-light">
 
 ### Starting
 - Push the clutch in (left side pedal) and hold it in to start
@@ -33,7 +33,7 @@ permalink: /mow/
 
 <div class="card mt-3 bg-theme">
 <div class="card-header text-center bg-light"><h5>Toro Timecutter SS 5425 (2015)</h5></div>
-<div class="card-body text-light" markdown=1>
+<div class="card-body text-light">
 
 ### Maintanence
 - August 2026
@@ -71,7 +71,7 @@ permalink: /mow/
 
 <div class="card mt-3 bg-theme">
 <div class="card-header text-center bg-light"><h5>John Deere E140</h5></div>
-<div class="card-body text-light" markdown=1>
+<div class="card-body text-light">
 
 ### Maintanence
 - April 2026

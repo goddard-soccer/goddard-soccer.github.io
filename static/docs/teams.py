@@ -73,7 +73,7 @@ with open(args.inputFile, newline='') as csvfile:
 <div class="col-md-3 pb-3">
 <div class="card bg-theme">
 <div class="card-header text-center text-white bg-{k.lower()}" id="{k.lower()}">{k}</div>
-<div class="card-body w-100" markdown=1>
+<div class="card-body w-100">
 
 """)
         f.write('| Captain |  |\n')

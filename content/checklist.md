@@ -6,7 +6,7 @@ template = "page.html"
 
 <div class="card mt-3 bg-theme">
 <div class="card-header text-center bg-light"><h5>Checklist</h5></div>
-<div class="card-body text-light" markdown=1>
+<div class="card-body text-light">
 
 ### January
 - Fertilizer (Costco, 5 bags for play area, ~$200 on sale)
