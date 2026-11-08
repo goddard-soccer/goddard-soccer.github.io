@@ -52,12 +52,12 @@ git push # website will update after a few minutes once this step is performed
 ### Updating rosters (hard)
 - the rosters update by downloading the sign up sheet csv from the google sheets
 - then running it through the roster page generator
-- I generally then use vscode's diff tool to compare the output files in `assets/docs/roster*.md` to the actually pages in `_pages/roster*.md` (normal page and rated page)
+- I generally then use vscode's diff tool to compare the output files in `static/docs/roster*.md` to the actually pages in `_pages/roster*.md` (normal page and rated page)
 - you can use the team generator tool to make the ratings page as well which is a hidden page that can be viewed on the localhost web server at `localhost:4000/rosters2.md`
 - the rated page is git ignored on purpose, please do not upload the skill levels publicly
 
 ```bash
-cd assets/docs
+cd static/docs
 cp ~/Downloads/*Form\ Responses*.csv teams.csv
 python3 teams.py
 python3 teams.py -r # rating page (rosters2)
@@ -72,7 +72,7 @@ diff roster2.md ../../_pages/roster2.md
 - the shown schedule stops after a blank line or line beginning with `#`
 
 ```bash
-python3 assets/docs/scheduler.py
+python3 static/docs/scheduler.py
 ```
 
 </div>
